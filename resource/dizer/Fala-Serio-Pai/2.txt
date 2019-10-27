@@ -1,0 +1,14 @@
+Segments:
+1: Fala   Sério  ,
+2: Pai  ¬  Thalita Rebouças(Rebouças)_prop    Thalita Rebouças(Rebouças)_prop   me   surpeende   a   cada   livro   que   leio   de   ela  .    
+3: Em  Fala Sério  ,   Pai   o   pai   de   Manu   começa(começar)_v-fin   narrando   o   que   é   super   legal   pois   vemos   o  ponto de vista   de   ele  em relação(relação)_prp a   vida   de   Manu  ,
+4: aprendemos(aprender)_v-fin
+5: que   as   vezes   é   necessário(necessário)_adj
+6: que   nossos   pais   digam   não   pra   nós  ,
+7: vimos   como   a   relção(relção)_n   de   eles   dois   é   bastante   aberta  .    
+8: A   leitura   é   facil(facil)_adj
+9: e   não   é   cansativa(cansativo)_adj
+10: ou   repetitiva   o   que   dá   um   livro   um   ar   bem  &quot;   light  &quot;   diremos   assim  .    
+11: Se   ainda   não   o   leu   e   tem   vontade   de   lê  ¬   lo   faça   isso   o   mais   rápido   você   não   irá   se   arrepender  .    
+Trees:
+condition(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(3), s(4))'), s(5))'), s(6))'), s(7))'))'), s('elaboration(n('elaboration(n(8), s(9))'), s(10))'))'), s(11));

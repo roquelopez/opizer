@@ -1,0 +1,13 @@
+Segments:
+1: Ótima   opção(opção)_n  !    
+2: Ótima   opção(opção)_n   pra   quem   procura   um   produto   confiável   e   de   excelente   qualidade  .    
+3: A   vantagem   de   poder   acessar   internet(internet)_n
+4: e   visualizar   vídeos   por   o   YouTube  ,   filmes  ,   shows(show)_n
+5: e  até mesmo   páginas   é   muito   interessante  .    
+6: Mas   o   melhor   de   tudo   é   poder   usufruir   de   o   3D   sem   precisar   óculos   especiais   e   caros  .    
+7: O   que   gostei  :  
+8: TV   de   aparência   agradável   por   a   pequena   borda   e   ótimo   som  ,   tem   a   grande   vantagem   de   não   precisar   óculos   especiais   para   efeito   3D  .    
+9: O   que   não   gostei  :  
+10: Por enquanto   nada   contra  .    
+Trees:
+elaboration(n('elaboration(n('antithesis(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n('elaboration(n(3), s(4))'), s(5))'))'), s(6))'), s('elaboration(n(7), s(8))'))'), s('elaboration(n(9), s(10))'));

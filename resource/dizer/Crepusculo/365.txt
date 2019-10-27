@@ -1,0 +1,16 @@
+Segments:
+1: Abandonei   o   livro   crepúsculo  por que   eu   gosto   é   de   realidade  ,
+2: algumas   coisas   me   fascinam   outros   já   nem   tanto(tanto)_adv
+3: e   em   o   caso   de   este   livro   não   me   chamou   atenção(atenção)_n   nenhuma   há   não   ser   por   o   nome  ,
+4: todos(todo)_pron-indef
+5: que   conheceço   ja   leram  ,
+6: ja   assistiram   filme  ,
+7: e   são   apaixonados   por   crepúsculo   eclipser   enfim  .    
+8: Mais   uma   coisa   que   não   me   dá   prazer   nenhum   é   histórinhas   de   vampiros  ,
+9: que   são   gente  ,
+10: que   amam   enfim   é(ser)_v-fin
+11: como se   meu   cachorro   falasse   com   mim(eu)_pron-pers
+12: e   viesse   a   passar   ser   meu   namorado  ,
+13: nada   contra   mais   também   nada  a favor  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('comparison(n(8), s(9))'), s(10))'), s(11))'), s(12))'), s(13))'));

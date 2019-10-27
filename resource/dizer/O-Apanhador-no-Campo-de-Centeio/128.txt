@@ -1,0 +1,29 @@
+Segments:
+1: Decepcionante     Li  &quot;   O   apanhador   em   o   campo   de   centeio  &quot;   por   três   motivos  :  ¬  
+2: O   título   era   sugestivo  ;  ¬  
+3: Foi   o   livro   que  John Lennon   autografou  a pedido   de  Mark Chapman  ,
+4: que   logo   depois   o   mataria(matar)_v-fin
+5: e   que  ,
+6: por   isso   mesmo  ,
+7: fez(fazer)_v-fin
+8: com(com)_prp
+9: que   o   livro   ganhasse   notoriedade(notoriedade)_n
+10: e   fosse   motivo   para   estudos   posteriores  ;  
+11: e  ¬   O   bem-sucedido   publicitário   brasileiro  Washington Olivetto   sempre   tem   em   sua   casa  dezenas de   exemplares(exemplar)_n
+12: para   oferecer   a   amigos(amigo)_n
+13: e   conhecidos  .    
+14: Porém  ,   o   livro   é   a   descrição(descrição)_n   de   os   pensamentos(pensamento)_n
+15: e  &quot;   aventuras  &quot;  ,   em  Nova Iorque  ,   de   um   adolescente   fútil(fútil)_adj
+16: e   fracassado  ,
+17: cujo   conteúdo   de   o   livro   nada   acrescenta   a   o   leitor  .    
+18: Decepcionante  ,   tempo   perdido  !    
+19: Eu   poderia(poder)_v-fin
+20: e   devria   ter   lido   coisa   melhor  .    
+21: Dizem(dizer)_v-fin
+22: que   o   autor   recusou  ¬
+23: se   a   estampar   sua   foto   em   o   livro  .  
+24: Até   sei   o   porquê  :  
+25: medo   de   ser   reconhecido(reconhecer)_v-pcp
+26: e   de   levar   um   cascudo   de   seus   leitores  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('antithesis(n('elaboration(n(1), s('elaboration(n(2), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(3), s(4))'), s('cause(n(5), s(6))'))'), s('elaboration(n('elaboration(n(7), s(8))'), s('elaboration(n(9), s(10))'))'))'), s('elaboration(n(11), s('elaboration(n(12), s(13))'))'))'))'))'), s('elaboration(n('elaboration(n('elaboration(n(14), s(15))'), s(16))'), s(17))'))'), s(18))'), s('elaboration(n(19), s(20))'))'), s('elaboration(n(21), s('elaboration(n('elaboration(n('elaboration(n('condition(n(22), s(23))'), s(24))'), s(25))'), s(26))'))'));

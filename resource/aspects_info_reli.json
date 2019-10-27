@@ -1,0 +1,80 @@
+{
+"1984": {
+	"Livro": {"concord": 0, "synonyms": ["livro", "novilíngua"]}, 
+	"História": {"concord": 2, "synonyms": ["história", "conteúdo"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["final", "começo", "em o começo", "primeiro", "segundo"]}, 
+	"Falas": {"concord": 3, "synonyms": ["falas", "discussão sobre o controle de o governo sob o livre abítrio"]}, 
+	"Estilo": {"concord": 0, "synonyms": ["estilo de escrever de o autor"]}
+	},
+"Capitaes-da-Areia": {
+	"Livro": {"concord": 0, "synonyms": ["livro", "O mais bonito de o livro"]},  
+	"Personagens": {"concord": 1, "synonyms": ["meninos de o trapiche", "Professor", "protagonistas"]}, 
+	"História": {"concord": 2, "synonyms": ["hitória", "descobrir como algumas crianças viviam naquela época", "traço social", "traço figurativo", "narrativa"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["começo"]}
+	},
+"Crepusculo": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"História": {"concord": 2, "synonyms": ["História", "história de Alice e Carlisle"]}, 
+	"Escrita": {"concord": 2, "synonyms": ["escrita", "Romancezinho"]}, 
+	"Personagens": {"concord": 1, "synonyms": ["personagens", "Edward Cullen", "personagem principal ( Bella )"]}, 
+	"Falas": {"concord": 3, "synonyms": ["frases"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["primeiro capítulo"]}
+	},
+"Ensaio-Sobre-a-Cegueira": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["começo", "final"]}, 
+	"Escrita": {"concord": 2, "synonyms": ["linguagem"]}, 
+	"Falas": {"concord": 3, "synonyms": ["diálogos separados apenas por vírgulas"]}
+	},
+"Fala-Serio-Amiga": {
+	"Livro": {"concord": 0, "synonyms": ["livro", "algumas coisas"]}, 
+	"História": {"concord": 2, "synonyms": ["enredo"]}
+	},
+"Fala-Serio-Amor": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["o capítulo em que ela leva o namorado para o pai conhecer"]}, 
+	"História": {"concord": 2, "synonyms": ["histórias"]}, 
+	"Leitura": {"concord": 2, "synonyms": ["leitura"]}
+	},
+"Fala-Serio-Mae": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["primeira metade",  "segunda metade", "final", "início"]}, 
+	"Leitura": {"concord": 2, "synonyms": ["leitura"]}, 
+	"Falas": {"concord": 3, "synonyms": ["as falas de Malu", "comentários"]}, 
+	"História": {"concord": 2, "synonyms": ["Histórias", "história e micos entre Malu e a mãe de ela", "as atitudes", "a maneira de como a filha trata a mãe"]}, 
+	"Personagens": {"concord": 1, "synonyms": ["Malu", "mãe", "Angela"]}
+	},
+"Fala-Serio-Pai": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"Leitura": {"concord": 2, "synonyms": ["leitura"]}
+	},
+"Fala-Serio-Professor": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"História": {"concord": 2, "synonyms": ["narração"]}
+	},
+"O-Apanhador-no-Campo-de-Centeio": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"Personagens": {"concord": 1, "synonyms": ["personagem"]}, 
+	"História": {"concord": 2, "synonyms": ["narração"]}, 
+	"Escrita":{"concord": 2, "synonyms": ["título"]}
+	},
+"O-Outro-Lado-da-Meia-Noite": {
+	"Livro": {"concord": 0, "synonyms": ["livro"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["fim", "capítulos"]}, 
+	"Personagens": {"concord": 1, "synonyms": ["personagens", "Noelle", "Larry Douglas"]}, 
+	"História": {"concord": 2, "synonyms": ["enredo"]}
+	},
+"O-Reverso-da-Medalha": {
+	"Livro": {"concord": 0, "synonyms": ["livro", "paginas", "anos"]}, 
+	"História": {"concord": 2, "synonyms": ["narrativa", "história", "algumas partes de a história"]}, 
+	"Personagens": {"concord": 1, "synonyms": ["personagens", "Tony", "final de Eve"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["final"]}
+	},
+"Se-Houver-Amanha": {
+	"Livro": {"concord": 0, "synonyms": ["livro", "mais ou menos umas vinte páginas"]}, 
+	"Personagens": {"concord": 1, "synonyms": ["protagonista", "personagens", "heroína de o livro", "heroína", "Tracy", "ela"]}, 
+	"História": {"concord": 2, "synonyms": ["suspense", "enredo", "peripécias de tracy", "historia", "narrativa", "relacionamentos", "andamento de a trama"]}, 
+	"Capítulos": {"concord": 1, "synonyms": ["de o meio pro final"]}, 
+	"Falas": {"concord": 3, "synonyms": ["diálogos"]}
+	}
+}

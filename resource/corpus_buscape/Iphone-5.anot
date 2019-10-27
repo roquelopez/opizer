@@ -1,0 +1,78 @@
+#Resenha_0
+#Aspectos: A0_iphone, A1_peso, A2_preço, A3_design
+#Estrelas: 5
+[este]_[A0] é [dez]_[A0,+]
+este [produto]_[A0] é [exelente]_[A0,+], temho um amigo que tem, deixou o iphone no bolos
+O que gostei: [estiloso]_[AI3,+],[leve]_[AI1,+] ,[charmoso]_[AI3,+]
+O que não gostei: nao posso ter, o [preço]_[A2] ainda é [salgado]_[A2,-]
+
+#Resenha_1
+#Aspectos: A0_iphone, A1_preço
+#Estrelas: 4
+Quero ter um!
+Parece ser um [excelente]_[A0,+] [produto]_[A0]. 
+Pena que no Brasil os [impostos sejam tão caros]_[AI1,-].
+O que gostei: Tem tudo que precisamos.
+O que não gostei: O preço.
+
+#Resenha_2
+#Aspectos: A0_iphone
+#Estrelas: 5
+[Excelente]_[A0,+]
+Ainda não tenho mas é meu [sonho de consumo]_[A0,+], pois se trata de um [produto]_[A0] [bonito]_[A0,+] e [muito bom]_[A0,+]
+
+#Resenha_3
+#Aspectos: A0_iphone, A1_câmera
+#Estrelas: 5
+[Sonho de consumo]_[A0,+]!
+As descrições do [produto]_[A0] são excelentes, [portátio]_[A0,+], [fácil manuseio]_[A0,+] e com uma [câmera]_[A1] de [ótima qualidade]_[A1,+], é muito bom poder falar com alguém do outro lado do mundo por meio da videoconferência que o [iPhone]_[A0] oferece em suas funções, enfim, [totalmente aprovado]_[A0,+]!! 
+
+#Resenha_4
+#Aspectos: A0_iphone
+#Estrelas: 5
+[IPhone 5]_[A0]
+[Insuperável]_[A0,+]! Sou advogada e preciso carregar o maior número de informações e ter acesso a todos os recursos possíveis e o [IPhone 5]_[A0] é praticamente a extensão de meu escritório. 
+Tenho á disposição os aplicativos para consultar os processos em quase todos os tribunais, acesso as minhas contas bancárias, aplicativos de trânsito que permitem evitar engarrafamentos e perda de tempo, enfim, se eu fosse colocar tudo o que este aparelho faz não haveria espaço. 
+Simplesmente [fantástico]_[A0,+]! Eu [recomendo]_[A0,+]! 
+
+#Resenha_5
+#Aspectos: A0_iphone, A1_tela, A2_foto, A3_vídeo, A4_bateria, A5_peso, A6_tamanho
+#Estrelas: 5
+[Iphone 5]_[A0], um [grande prêmio]_[A0,+]!
+Moro com meu primo, que ao ir aos EUA resolveu trocar seu Iphone 4s por um [Iphone 5]_[A0]. 
+A [tela]_[A1] com certeza é [algo que impressiona]_[A1,+], possuindo 4 polegadas, uma resolução de 1136 x 640 pixels, e ainda com um [vidro de alta resistência]_[A1,+]. 
+As cores parecem ser mais "vivas", as [fotos]_[A2] ficam [lindas]_[A2,+] devido à alta resolução de 3264 x 2448 pixels; e os [vídeos]_[A3] em [full HD]_[A3,+]... é difícil de acreditar que foram feitos via celular. 
+Algo que para mim é extremamente relevante, refere-se à Rede LTE 4G, para uma maior rapidez quando desejo navegar na internet, além da sua memória de 64 GB, uma vez que faço muitos downloads referente ao meu curso para poder estudar. 
+No caso da [bateria]_[A4], a utilização da Internet acarreta em um gasto maior, porém quando em Stand by, tem-se uma [durabilidade impressionante]_[A4,+] se comparada à outros Smartphones.
+Com certeza trata-se de um iOS muito avançado, e apesar de ter tudo e mais um pouco que qualquer pessoa deseja em um celular, [não é pesado]_[AI5,+] e [nem muito grande]_[AI6,+], além de ser extremamente fino com apenas 7.6mm, o que facilita na hora de carregá-lo para todos os lugares. 
+Ah, e por último, mas não menos importante, refere-se à presença de bússola, e GPS, itens indispensáveis principalmente para mim, que viajo bastante, e costumo me perder, além de videoconferência pois não moro na cidade dos meus pais, e facilitaria muito, diminuindo um pouquinho a saudade deles!
+
+#Resenha_6
+#Aspectos: A0_iphone
+#Estrelas: 5
+[Perfeitoooo]_[A0,+]
+Além de [lindo]_[A0,+], é [ótimo]_[A0,+], [fácil de usar]_[A0,+] , sei disso pois uma prima minha tem. 
+E é [muito mais do que você espera]_[A0,+] ! 
+É praticamente impossivel imaginar ! 
+Então sóo tendo pra saber !!!!! [RECOMENDOOOOOOOOOO]_[A0,+] 
+
+#Resenha_7
+#Aspectos: A0_iphone
+#Estrelas: 5
+[Mutio bom]_[A0,+],[otimo]_[A0,+],[perfeito]_[A0,+]
+[Muito lindo]_[A0,+] demais esse [iphone]_[A0] o [melhor smartphone]_[A0,+] que existe.
+
+#Resenha_8
+#Aspectos: A0_iphone, A1_design
+#Estrelas: 5
+Principais qualidades do [Iphone 5]_[A0]
+[Muito prático]_[A0,+], com [boa aparência]_[AI1,+], e [ótima qualidade]_[A0,+]. 
+
+#Resenha_9
+#Aspectos: A0_iphone, A1_foto
+#Estrelas: 5
+[IPHONE 5]_[A0], MEU [SONHO DE CONSUMO]_[A0,+]
+DEPOIS DE LER A BIOGRAFIA DE STEVE JOBS, FIQUEI IMPRESSIONADA COMO CADA PRODUTO APPLE É "CRIADO". 
+EU NÃO TENHO CONHECIMENTO DE PRODUTO QUE É PENSADO TÃO DETALHADAMENTE. 
+DESDE O DESIGN, AO PESO, TAMANHO, NITIDEZ, VELOCIDADE, CAPACIDADE, [OTIMAS]_[A1,+] [FOTOS]_[A1], TELA DE RETINA (NUNCA VI IGUAL). 
+QUERO TODOS OS PRODUTOS DA APPLE!!!! E O [IPHONE 5]_[A0] É O MEU [SONHO DE CONSUMO]_[A0,+]!!!!!

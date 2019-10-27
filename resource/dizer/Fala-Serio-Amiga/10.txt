@@ -1,0 +1,9 @@
+Segments:
+1: Fala   sério  ,   amiga  !    
+2: O   livro  ,   de  Thalita Rebouças(Rebouças)_prop   narra   a   história   desde   criança(criança)_n  ,
+3: de   uma   garota  ,   chamada   Malu  ,
+4: que   conta   sobre  todas as   amizades(amizade)_n
+5: que   já   teve   em   a   sua   vida  ,
+6: de  todas as   confusões   e   as   situações(situação)_n   ilarias   com   suas   amigas  .    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'));

@@ -1,0 +1,23 @@
+Segments:
+1: Não   confiável  ,   para   de   funcionar   após   alguns   meses  !  !  !    
+2: Eu   sou   mais   um   infeliz   em   o   mundo   que   comprou   um  Samsung Galaxy   SIII   com   o   defeito   de   fábrica   apelidado   de  &quot;  Morte Súbita  &quot;  .    
+3: Eu   pensava(pensar)_v-fin
+4: que   se   tratava   de   um   problema   regional  ,
+5: mas   está   ocorrendo   em   o   mundo   todo  .    
+6: Procurei   o  SAC da Samsung(Samsung)_prop
+7: e   recebi   a   simpática   resposta  :  
+8: Senhor  &quot;  ,   não  há nada   que   possamos   fazer  .    
+9: Procure   a   assistência   técnica   para   um   acordo   com   eles  &quot;  .    
+10: Agora   meu   aparelho   está   em   a   assistência   com   um   orçamento(orçamento)_n   de  R$(R$)_prop 749,00(749,00)_prop
+11: para   trocar   a   placa   principal  !    
+12: Clamo   a   todos   que   compraram   este   aparelho(aparelho)_n
+13: para(para)_prp
+14: que   este   protesto   seja   veiculado   em   os   principais   jornais(jornal)_n
+15: e   programas   de   TV  ,
+16: afinal   a  &quot;   imagem  &quot;   é   tudo  !    
+17: Evitem   comprar   de   uma   marca   que   não   respeita   o   consumidor(consumidor)_n
+18: e   que   despeja   em   o   mercado   um   produto   tão   caro   e   de   baixíssima   qualidade  .    
+19: Depois   de   essa  ,   quem   tem   coragem   de   investir   em   média  R$(R$)_prop 1.700,00(1.700,00)_prop   em   o  Galaxy SIII(SIII)_prop
+20: ou   tentar   a   sorte   com   o   Galaxy   S4  ?    
+Trees:
+sequence(n('purpose(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s('concession(n(4), s(5))'))'))'), s('elaboration(n('elaboration(n(6), s(7))'), s(8))'))'), s(9))'), s('elaboration(n(10), s(11))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(12), s(13))'), s(14))'), s(15))'), s(16))'))'), s('list(n(17), n(18))'))'), n('elaboration(n(19), s(20))'));

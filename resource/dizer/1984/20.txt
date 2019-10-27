@@ -1,0 +1,19 @@
+Segments:
+1: Minha   parte   favorita   de   o   livro    &quot;   Era   possível  ,
+2: sem   dúvida  ,   imaginar   uma   sociedade(sociedade)_n
+3: em(em)_prp
+4: que   a   riquesa  ,
+5: em   o   sentido   de   posse   pessoal   de   bens(bem)_n
+6: e   luxos  ,   fosse   igualmente   distribuída  ,
+7: ficando   o   poder   em   as   mãos   de   uma   pequena   casta   privilegiada  .    
+8: Mas   em   a   prática   tal   sociedade   não   poderia   ser   estável  .    
+9: Pois   se   o   lazer   e   a   segurança(segurança)_n   fossem   por   todos   fruídos  ,
+10: a   grande   massa   de  seres humanos   normalmente   estupidificada   por   a   miséria   aprenderia   a   ler(ler)_v-inf
+11: e   aprenderia   a   pensar  por si  ;  
+12: e  uma vez que   isso   acontecesse  ,
+13: mais   cedo(cedo)_adv
+14: ou   mais   tarde   veria(ver)_v-fin
+15: que   não   tinha   função(função)_n   a   minoria   privilegiada  ,
+16: e   acabaria   com   ela  .    &quot;    
+Trees:
+explanation(n('antithesis(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'))'), s(8))'), s('elaboration(n('elaboration(n('elaboration(n(9), s(10))'), s(11))'), s('elaboration(n(12), s('elaboration(n('elaboration(n(13), s(14))'), s('elaboration(n(15), s(16))'))'))'))'));

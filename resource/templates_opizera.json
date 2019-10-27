@@ -1,0 +1,28 @@
+{
+"First_Sentence": {
+	"Polarity": ["Em geral, as opiniões sobre <o,os,a,as> <ASPECT> foram ", "A maioria das avaliações sobre <o,os,a,as> <ASPECT> são "], 
+	"Controversial": ["As avaliações <do,dos,da,das> <ASPECT> mostram um sentimento dividido", "<O,OS,A,AS> <ASPECT> tem opiniões positivas e negativas"]
+	},
+"PolarityAdjetives": {
+	"-2": ["muito negativas", "muito desfavoráveis"], 
+	"-1": ["negativas", "desfavoráveis"],
+	"+1": ["positivas", "favoráveis"],
+	"+2": ["muito positivas", "muito favoráveis"]
+	},
+"PolarityVerbs": {
+	"Controversial": ["há opiniões controversas sobre <ele, eles,ela,elas>", "expressaram-se opiniões controversas sobre essa característica"],  
+	"-2": ["os usuários não gostaram disso", "<foi,foram,foi,foram> <avaliado,avaliados,avaliada,avaliadas> como muito ruim", "as opiniões foram muito negativas"], 
+	"-1": ["as pessoas não gostaram", "<foi,foram,foi,foram> <avaliado,avaliados,avaliada,avaliadas> como ruim", "as opiniões foram negativas"],
+	"+1": ["os usuários gostaram <disso,deles,dela,delas>", "as pessoas acharam que <era,eram,era,eram> <satisfatório,satisfatórios,satisfatória,satisfatórias>"],
+    "+2": ["as pessoas adoraram", "<foi,foram,foi,foram> <avaliado,avaliados,avaliada,avaliadas> como excelente", "as opiniões foram excelentes"]
+	},
+"Connectives": {
+	"Agreement": ["Da mesma forma, ", "Ao mesmo tempo, ", "De forma semelhante, "],
+	"NoAgreement": ["Em contraste, ", "Contrariamente, ", "Ao contrário, ", "Porém, "],
+	"Normal": ["Além disso, ", "Ademais, "],
+	"General": ["com relação <ao,aos,à,às> <ASPECT> ", "em relação <ao,aos,à,às> <ASPECT>, ", "falando sobre <o,os,a,as> <ASPECT>, "]
+	},
+"Explanation": {
+	"Explanation": [", pois", " porque"]
+	}
+}

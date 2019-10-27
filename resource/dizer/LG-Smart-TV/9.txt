@@ -1,0 +1,20 @@
+Segments:
+1: Estou   Satisfeito     Bom   a   TV   e   completa  !  !  !    
+2: Quantidade   de   entradas   USB   e   HDMI   me   atendem   perfeitamente  .    
+3: A   qualidade   cai   bastante   quandoa   função(função)_n  Dual Player(Player)_prop
+4: e   usada  ,
+5: mais   de   a   para   se   divertir  .    
+6: Os   oculos   são   passivos  .    
+7: Eu   prefiro   assim  ,
+8: não   tive   a   oportunidade   de   experimentar   um   oculos   3D   ativo  ,
+9: mais   creio(crer)_v-fin
+10: que   o   oculos   passivo   não   fique   atras(atro)_adj
+11: e   vc   não   tem(ter)_v-fin
+12: que   ficar   trocando   bateria(bateria)_n
+13: e   isso   me   deixa   feliz..(feliz..)_n     A   função(função)_n   2D   para   3D   não(não)_adv
+14: e   muito   boa   mais   acho(achar)_v-fin
+15: que   isso   não(não)_adv
+16: e   exclusividade   somente   de   este   TV   acho   que  em geral   essa   função(função)_n   não   e   muito   boa   mesmo  .    
+17: Conclusão   otima   TV   valeu   a   pena  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n('elaboration(n(3), s(4))'), s(5))'))'), s(6))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(7), s(8))'), s('comparison(n(9), s(10))'))'), s(11))'), s(12))'), s(13))'))'), s('elaboration(n('comparison(n(14), s(15))'), s(16))'))'), s(17));

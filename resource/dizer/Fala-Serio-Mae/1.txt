@@ -1,0 +1,21 @@
+Segments:
+1: Meio   chato  ,   meio   bobo  ,   meio   argh  .    
+2: É   interessante  ,
+3: mas  ,  de fato  ,
+4: não   está   nem   entre   os   50   melhores(bom)_adj
+5: que   eu   já   li  .    
+6: É   bom(bom)_adj
+7: para   passar   a   tarde  ,
+8: como   aquele   filme   meio   chatinha(chatinho)_adj
+9: e   clichê   que   está   passando   em   a   televisão  ,
+10: e   como   você   não   tem  mais nada   pra   fazer  ,
+11: se   senta(sentar)_v-fin
+12: e   vai   assistir  .    
+13: São   mini   contos   muito   mal   elaborados(elaborar)_v-pcp
+14: e   meio   bobos  ,   o   que   contribui   para   o   ar   de   falsa   simpatia   que   o   leitor   cria   por   a   história  .    
+15: Apesar de   se   tratar   de   um   assunto   bem   conhecido  ,
+16: a   autora   não   soube   dominá  ¬   lo(ele)_pron-pers
+17: e   o   tornou   o   pior   de   os   clichês  .    
+18: Definitivamente  ,   irritante  .    
+Trees:
+concession(n('antithesis(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('concession(n(2), s(3))'), s(4))'), s(5))'))'), s('condition(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(6), s(7))'), s(8))'), s(9))'), s('condition(n(10), s(11))'))'), s(12))'))'), s('elaboration(n(13), s(14))'))'), s('elaboration(n('concession(n(15), s(16))'), s(17))'))'), s(18));

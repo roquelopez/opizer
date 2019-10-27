@@ -1,0 +1,38 @@
+Segments:
+1: Um  Senhor BEST SELLER  !    
+2: Peguei   este   livro(livro)_n
+3: para   ler   a   primeira   vez   em   uma   biblioteca   pública   de   a   minha   cidade  .    
+4: Havia   acabado   de   ler  &quot;   um   brinde   de   cianureto   de   agatha   cristie  &quot;
+5: e   fui   procurar   um   outro   livro   pra   ler  .    
+6: Após   folhear   muitos   livros   encontrei  &quot;   o   outro   lado   de   a   meia   noite  &quot;  ,
+7: e   não   sei   porque   ele   me   chamou   a   atenção(atenção)_n  .    
+8: Li   a   sinopse  ,
+9: folheei  um pouco(pouco)_spec
+10: e   levei   para   a   casa  .    
+11: Em   o   trajeto   de   ônibus   voltando   para   a   casa  ,
+12: minha   vida   mudou  ,
+13: e   o  JEAN Leitor   nasceu  .    
+14: Me   apaixonei   por   o   livro  ,
+15: por   o   autor(autor)_n
+16: e   por  todas as   outras   obras   de   ele  ,
+17: as quais   fui   em   busca(busca)_n
+18: para   ler   uma   por   uma  .    
+19: Foi   o   outro   lado   de   a   meia   noite(noite)_n
+20: e  Sidney Sheldon   que   me   abriram   as   portas   de   o   mundo   de   a   leitura  ,
+21: de  o qual   não   consegui   mais   sair  ,
+22: e(e)_conj-c
+23: nem   quero  .    
+24: O   romance   é   perfeito   em   tudo  ,
+25: desde   personagens  ,   lugares  ,   e   claro   seu   maravilhoso   enredo   cheio   de   reviravoltas  ,   surpresas   e   muito   suspense  .    
+26: Lá   se   vão   dez   anos(ano)_n
+27: desde que   li   o   livro   por   a   primeira   vez(vez)_n
+28: e   nunca   consegui   esquecer   os   nomes   de   os   personagens   principais  :  
+29: NOELE  ,   CATHERINE  ,   LARRY   E  CONSTANTIN DEMIRIS  .    
+30: Pra   mim   é   um   livro   inesquecivel   e   perfeito  .    
+31: Acho   muito   dificil   alguém   ler(ler)_v-inf
+32: e   não   gostar  ,
+33: mas   pode   acontecer  ,
+34: como   eu   não   sei  !    
+35: É   uma   pena   não   termos   mais   o   grande  Sidney Sheldon   entre   nós   para   nos   presentear   com   seus   romances   magnificos  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('sequence(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n(4), s(5))'))'), n('elaboration(n(6), s(7))'))'), s('elaboration(n('elaboration(n(8), s(9))'), s(10))'))'), s('elaboration(n('elaboration(n(11), s(12))'), s(13))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(14), s(15))'), s(16))'), s(17))'), s(18))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(19), s(20))'), s(21))'), s(22))'), s(23))'))'), s('elaboration(n(24), s(25))'))'), s('elaboration(n('condition(n('condition(n(26), s(27))'), s(28))'), s(29))'))'), s(30))'), s('antithesis(n('elaboration(n(31), s('concession(n(32), s(33))'))'), s(34))'))'), s(35));

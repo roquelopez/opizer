@@ -1,0 +1,13 @@
+Segments:
+1: Tédio  .    
+2: Fui   até   a   metade  ,
+3: mas   não   consegui   prosseguir  .  
+4: Achei   muito   parado  .    
+5: Quando   minha   irmã   me   passou   falando(falar)_v-ger
+6: que   era   um   romance   com   vampiros  e tal  ,
+7: pensei(pensar)_v-fin
+8: que   aconteceria   muita   coisa  ,
+9: que   seria   empolgante  ,
+10: mas   nada   aconteceu  .    
+Trees:
+circumstance(n('elaboration(n(1), s('elaboration(n('concession(n(2), s(3))'), s(4))'))'), s('elaboration(n('elaboration(n('elaboration(n('circumstance(n(5), s(6))'), s(7))'), s(8))'), s('concession(n(9), s(10))'))'));

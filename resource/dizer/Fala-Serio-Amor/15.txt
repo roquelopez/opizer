@@ -1,0 +1,7 @@
+Segments:
+1: Muito   engraçadinho(engraçadinho)_adj  !  ;  )    
+2: É   bem   para   a   adolescente   mesmo  ,
+3: as   histórias   são   engraçadas(engraçar)_v-pcp  e tal  ,
+4: achei   divertido  !    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'));

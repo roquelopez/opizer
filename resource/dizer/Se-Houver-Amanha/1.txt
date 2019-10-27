@@ -1,0 +1,12 @@
+Segments:
+1: O   meu   favorito     Se   houver   amanhã   foi   um   de   os   livros   mais   empolgantes(empolgante)_adj
+2: que   já   li  .    
+3: Uma   história   rica   em   detalhes   e   artimanhas   que   até   chegam   as   nos   fazer   prender   o   folego   esperando   o   que   vai   acontecer  ,
+4: como   a   personagem   irá   se   sair(sair)_v-inf
+5: para   resolver   seus   crimes  .    
+6: Sempre   indico   este   livro   a   os   meus   amigos  .    
+7: Este   livro   nos   faz   torcer   pra   o   crime  ,
+8: um   jogo   de   inteligência   misturado   com   amor  .    
+9: Com   certeza   merecia   uma   continuação(continuação)_n  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('comparison(n(1), s(2))'), s('elaboration(n('elaboration(n(3), s(4))'), s(5))'))'), s(6))'), s('elaboration(n(7), s(8))'))'), s(9));

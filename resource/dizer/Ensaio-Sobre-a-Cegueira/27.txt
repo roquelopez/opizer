@@ -1,0 +1,22 @@
+Segments:
+1: Vontade   de   gritar  ,
+2: chorar  ,
+3: bater(bater)_v-inf
+4: e   ler  de novo  !    
+5: Gostei   tanto   de   o   livro   de  José Saramago   quanto   de   o   filme   dirigido   por   Meirelles  !    
+6: Claro   que   o   livro   é   sempre   melhor  ,
+7: pois   nada   é   tão   bom   e   poderoso   quanto   nossa   imaginação(imaginação)_n  .    
+8: Ambos   em   os   fazem   ter   vontade   de   gritar  ,
+9: chorar  ,
+10: bater(bater)_v-inf
+11: e   ler  de novo  !    
+12: A   obra   mostra   como   pode   ser   sujo(sujo)_adj
+13: e   grotesco   o   caráter   de   os   homens  ,   apresenta   o   quanto   as   pessoas   precisam   de   um   referencial(referencial)_adj
+14:    ideológico  ,   religioso  ,   utópico  )
+15: para   ter   um   rumo  ,
+16: o   quanto   somos   pequenos(pequeno)_adj
+17: e   vazios   a   o   apresentar   a   degradação(degradação)_n   de   a   sensibilidade   humana  .  
+18: O   fio   de   esperança(esperança)_n   está   em   a   corrente   de   o   bem(bem)_n
+19: e   em   querer   se   compartilhar   o   pequeno   suspiro   de   bondade   que   existe  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), s(5))'), s('cause(n(6), s(7))'))'), s('elaboration(n('elaboration(n('elaboration(n(8), s(9))'), s(10))'), s(11))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(12), s(13))'), s(14))'), s(15))'), s(16))'), s(17))'), s('elaboration(n(18), s(19))'))'));

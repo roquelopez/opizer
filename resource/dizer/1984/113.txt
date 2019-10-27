@@ -1,0 +1,35 @@
+Segments:
+1: 29.07.2010(29.07.2010)_num  [  ]     Sabe   quando   você   espera   muito   de   um   livro  ?    &quot;    
+2: O   autor   é   bom  ,
+3: o   livro   é   famoso  ,
+4: adaptaram   para   o   cinema  ,
+5: é   logico(logico)_adj
+6: que   é   bom  &quot;  ,
+7: bem  ,
+8: me   enganei  .    
+9: Foi   tãããão   díficil   terminei   este   livro  ,
+10: e   como   o   DVD   estava  em casa   eu   pensei  &quot;   vou   assistir   o   filme   pra   me   incentivar   a   terminar  &quot;  ,
+11: e   foi   aí   que   a   coisa   piorou  !    
+12: Vi(ver)_v-fin
+13: que   o   final   era   horrível  .    
+14: Como   Terminar   Um  Livro Ruim Sabendo   De   O  Final Péssimo  ?    
+15: Resposta  :   Você   vai   arrastando  ,   igual   lição(lição)_n   de   casa  .    
+16: E   foi   assim(assim)_adv
+17: que   o   fiz  ,
+18: e   terminei  .    
+19: Eu   só   acrescentei   uma   estrela   a   mais   por   a   ideia  ,
+20: o   mundo  `  Big Brother  '   é   fictício  ,   mas   não   surreal  .    
+21: E   claro  ,   por   o   crédito   a  George Orwell  ,   o   livro   de   ele   foi   imortalizado  ,
+22: não   tem   como   eu   ignorá  ¬   lo(ele)_pron-pers
+23:    totalmente  )  .
+24: Null  
+25: E   o   começo(começo)_n   é   ótimo  ,
+26: acho(achar)_v-fin
+27: que   isso   fez   eu   esperar   ainda   mais   de   o   livro  ,
+28: Orwell   ambientalizou   o   mundo   antes  de conta   a   história  .    
+29: Minha   dica  :  
+30: Leia   até   começar(começar)_v-inf   as   falas  .    
+31: O   livro   só   bom   aí  .    
+32: Só   assim   é   possível   dar   5   estrelas  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('motivation(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'))'), s('elaboration(n('motivation(n(9), s(10))'), s(11))'))'), s('elaboration(n(12), s(13))'))'), s(14))'), s(15))'), s('elaboration(n('elaboration(n(16), s(17))'), s(18))'))'), s('elaboration(n(19), s(20))'))'), s('purpose(n('elaboration(n(21), s('cause(n(22), s(23))'))'), s(24))'))'), s('elaboration(n('elaboration(n('elaboration(n(25), s(26))'), s(27))'), s(28))'))'), s('elaboration(n(29), s(30))'))'), s(31))'), s(32));

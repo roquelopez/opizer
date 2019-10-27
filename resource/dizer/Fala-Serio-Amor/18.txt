@@ -1,0 +1,5 @@
+Segments:
+1: Resenha   aqui  :    
+2: http://uma-leitora.blogspot.com/(http://uma-leitora.blogspot.com/)_n   2010/09/(2010/09/)_num   fala-   serio   amor.html(amor.html)_n    
+Trees:
+elaboration(n(1), s(2));

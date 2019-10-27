@@ -1,0 +1,7 @@
+Segments:
+1: Adoro   os   livros   de   a   Thalita  .    
+2: Esse   é   o   tipo   de   livro(livro)_n
+3: que   eu   gosto   pra   passar   a   madrugada   lendo   é   divertido  ,   pequeno   e   simples  .    
+4: Recomendo  !    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4));

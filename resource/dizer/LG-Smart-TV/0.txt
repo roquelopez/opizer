@@ -1,0 +1,14 @@
+Segments:
+1: Defeito  em menos de   uma   semana  :  
+2: vício   oculto   de   reinicializar   sozinha  .    
+3: Provavelmente   é   mais   um   modelo   bomba   de   a   LG  ,   foi   o   modelo  Scarlet LG4260FR   que   ligava(ligar)_v-fin
+4: e   desligava   sozinho  .    
+5: O   que   gostei  :  
+6: Design   e   imagem   excelentes  ¬   quando   funciona   a   tv  .    
+7: O   que   não   gostei  :  
+8: Em menos de   3   dias   apresentou   vício   de   reinicializar  a todo momento(momento)_adv
+9: e   sozinha  ,
+10: não   sustentando   a   imagem   seja   por   o   medialink  ,   blu-ray   e   decoder   de   tv   por   assinatura  .    
+11: A   descrição(descrição)_n   de   tal   vício   já   está   sendo   comum   em   o   meio   cibernético   e   até   em   outros   modelos   de   a   linha   LM  ,   sobretudo   a   LM8600  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n(5), s(6))'))'), s('elaboration(n('elaboration(n(7), s('elaboration(n(8), s(9))'))'), s(10))'))'), s(11));

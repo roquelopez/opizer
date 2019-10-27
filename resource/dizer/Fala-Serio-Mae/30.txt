@@ -1,0 +1,24 @@
+Segments:
+1: Em   o   início   de   o   livro   achei   divertido  .    
+2: Aliás  .   a   escrita   de   ele   tá   toda   boa   e   bastante   diálogo(diálogo)_n
+3:    gosto   de   isso  )  .
+4: Null  
+5: O   que   achei   meio   estranho   foi   a   maneira   de   como   a   filha   trata   a   mãe   em   muitos   momentos  ,
+6: como   ela   é   respondona  ,
+7: como   já   com   tão  pouca idade   tem   vocabulário   extenso   para   respostas   assustadoras  .  
+8: Mas   depois   fiquei   pensando  .  
+9: isso   é   estranho   para   mim  ,
+10: pois   nunca   vivi   isso  em casa  .    
+11: Jamais   fiz   isso   com   minha   mãe  ,   nem   meu   irmão  .    
+12: Nem   meus   primos  .    
+13: E   em   o   momento   minha   filha   com   12   anos   não   é   a   metade   de   isso   com   mim  .    
+14: Mas   já   vi   amigas   de   ela   agindo   assim   com   as   mães  ,
+15: já   ouvi   as   amigas   falando   de   suas   mães(mãe)_n
+16: e   depois   vi(ver)_v-fin
+17: que   não   é   tão  fora de   a   realidade   assim   o(o)_art
+18: que   li   em   o   livro  .    
+19: De   modo   geral  ,   é   um   livro   divertido  ,   interessante(interessante)_adj
+20: e   rápido   de   se   ler  .    
+21: Voltado   mais   para   mães   e   adolescentes  .    
+Trees:
+elaboration(n('elaboration(n('antithesis(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('purpose(n('cause(n(2), s(3))'), s(4))'))'), s('elaboration(n(5), s('antithesis(n(6), s('elaboration(n(7), s('elaboration(n(8), s('cause(n(9), s(10))'))'))'))'))'))'), s(11))'), s(12))'), s(13))'), s('elaboration(n('elaboration(n('elaboration(n('list(n(14), n(15))'), s(16))'), s(17))'), s(18))'))'), s('elaboration(n(19), s(20))'))'), s(21));

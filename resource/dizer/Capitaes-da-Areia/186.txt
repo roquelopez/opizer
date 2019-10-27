@@ -1,0 +1,6 @@
+Segments:
+1: chaaaatinho  .  
+2: li(ler)_v-fin
+3: porque   meu   professor   pediu    
+Trees:
+elaboration(n(1), s('elaboration(n(2), s(3))'));

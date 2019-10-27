@@ -1,0 +1,21 @@
+Segments:
+1: 1984     Três   capítulos  .    
+2: O   primeiro   é   enfadonho  ,
+3: apenas   uma   longa(longo)_adj
+4: e   detalhada   descrição(descrição)_n   de   a   realidade   em  a qual   o   personagem   está   inserido   e   algo   sobre   ele  .    
+5: Porém  ,   é   o   que   se   pode   chamar   de  &quot;   um   mal   necessário  &quot;  ,
+6: já que   sem   essa   base   os   capítulos   seguintes   fariam   menos   sentido  .    
+7: Em   o   segundo   a   história   fica   interessante  ,
+8: as   coisas   começam(começar)_v-fin   a   acontecer(acontecer)_v-inf
+9: e   prende   a   atenção(atenção)_n   afinal  .    
+10: O   último   mantêm   o   ritmo(ritmo)_n
+11: e   oferece  ,
+12: de quebra  ,   um   pequeno   curso   de   como   extrair   informações(informação)_n   de   pessoas  ,  além de   como  &quot;   doutrina  ¬   las  &quot;
+13: definitivamente  ,
+14: lamentável   tê  ¬   lo   lido   somente   agora  .    
+15: A   história  em si   é   interessante  .    
+16: A   sensação(sensação)_n   de   não   ter   saída  ,   de   falta   de   liberdade  ,   o   controle  ,   quase   claustrofobia  .    
+17: Em   vários   pontos   chega   a   ser   um   relato   de   a   realidade   vivida   em   os   dias   atuais  ,   em   menor   ou   maior   grau  ,   em   o   mundo   todo  .    
+18: Bom   livro  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('antithesis(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s('list(n(5), n(6))'))'), s('elaboration(n('elaboration(n(7), s(8))'), s(9))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(10), s(11))'), s(12))'), s(13))'), s(14))'))'), s(15))'), s(16))'), s(17))'), s(18));

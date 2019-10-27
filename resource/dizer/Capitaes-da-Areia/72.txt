@@ -1,0 +1,29 @@
+Segments:
+1: O   poeta   social    Capitães da Areia  ,
+2: que   se   passa   em   a   Bahia  ,
+3: em   Salvador  ,
+4: é   uma   obra   que   tem   como   característica   principal   a   humanização(humanização)_n   de   os   delinquentes  ,
+5: nos   apresentando   sob   outro   caráter   estético   qual   a   motivação(motivação)_n   de   os   jovens   órfãos  ¬   que   se   uniram   em   um   grupo  ¬  em relação(relação)_prp a   os   furtos  ,
+6: que   não   se   dão   por   completa   maladragem   mas  ,
+7: principalmente  ,
+8: por   falta   de   oportunidades   iguais  .    
+9: Publicado   em   1937  ,
+10: a   obra   parece   conter   os   ingredientes   necessários   para   se   manter   contemporânea  :  
+11: a   retratação(retratação)_n   de   a   desigualdade   social  ,   oriunda   de   uma   vivência   intensa   de   a   parte   de   o   autor   em   as   ruas   de   Salvador   e   até   em   o   Trapiche  ¬   lugar   de   paz   e   acalanto   para   os   capitães   de   a   areia  ,
+12: que   em   este   refúgio   guardam   os   objetos   furtados(furtar)_v-pcp
+13: e   descansam  .    
+14: Tão   marcante   quanto   o   traço(traço)_n   social  ,   o   traço(traço)_n   figurativo   de   como   agem   as   autoridades   é   requintado(requintar)_v-pcp
+15: e   bem   delineado   por  Jorge Amado  ,
+16: onde   mostra(mostrar)_v-fin
+17: que   há   uma   distorcão   de   informações(informação)_n   sobre   os   serviços(serviço)_n   governamentais(governamental)_adj
+18: para(para)_prp
+19: que   a   sociedade   possa   ser   cúmplice   contra   os  Capitães da Areia  .    
+20: Os   policiais   fazem   parte   de   o   objeto   de   ódio   de   os   Capitães  ,  assim como   a   sociedade   capitalista   e   impiedosa  .    
+21: Os   meninos   de   o   trapiche   amam  ¬
+22: se   apenas  entre si  ,   oras   literalmente  ,
+23: através   de   a   pederastia  ¬
+24: expressamente   probida   por   Pedro-Bala  ,   líder   de   o   grupo  .    
+25: O   legado   de   a   obra   incide   em   a   majestosa   visão   humana   que   nos   é   transferida  .    
+26: Um   livro   batuta  ,   este  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('purpose(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'))'), s('elaboration(n('elaboration(n('elaboration(n(9), s(10))'), s(11))'), s('elaboration(n(12), s(13))'))'))'), s('circumstance(n('circumstance(n('elaboration(n(14), s('circumstance(n(15), s(16))'))'), s(17))'), s('elaboration(n(18), s(19))'))'))'), s(20))'), s('means(n('condition(n(21), s(22))'), s('means(n(23), s(24))'))'))'), s(25))'), s(26));

@@ -1,0 +1,11 @@
+Segments:
+1: Fala   serio   professor     Malu   ja   com   22   anos   relembra   de   suas   aventuras   enquanto   ela   tava   em   o   colegial   como   quando   ela   tinha   15   anos(ano)_n
+2: e   foi   para   floripa   com   sua   turma(turma)_n
+3: e   ela   tinha   medo   de   mar(mar)_n
+4: e   de   ondas(onda)_n
+5: e   suas   amigas   a   colocaram   em   umas   aulas   de   surf   onde   ela   levou   cada   tombo  .  
+6: tambem   teve   a   vez   q   ela   com   18   anos   foi   para   a   autoescola(autoescola)_n
+7: para   descobrir   o   q   rolou   la(el)_pron-dem
+8: e   outras   aventuras   de   malu   leia   o   livro  .    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'));

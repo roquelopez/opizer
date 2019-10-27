@@ -1,0 +1,4 @@
+Segments:
+1: Bem   legal  .   
+Trees:
+Null

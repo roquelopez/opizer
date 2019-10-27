@@ -1,0 +1,24 @@
+Segments:
+1: nem   parece   Sheldon  
+2: Já   li   muitos   livros   de  Sidney Sheldon(Sheldon)_prop
+3: e   gostei   de   poucos  .    
+4: Geralmente   têm   o   mesmo   enredo(enredo)_n
+5: e   são   muito   previsíveis  .    
+6: Porém  ,   este   eu   realmente   gosto  .    
+7: Já   li   várias   vezes(vez)_n
+8: e   sempre   é   um   passatempo   muito   bom  .    
+9: A   heroína   de   o   livro   é   uma   ladra(ladra)_n
+10: e   suas   aventuras(aventura)_n
+11: e   criações(criação)_n   são   ótimas  .    
+12: Acho(achar)_v-fin
+13: que   o   leitor(leitor)_n
+14:    uso   meu   exemplo  )
+15: se   realiza   através   de   Tracy  ,
+16: imaginando   como   faria(fazer)_v-fin
+17: para(para)_prp
+18: se   vingar   de   um   mundo   injusto(injusto)_adj
+19: e   ganhar   com   isso  .    
+20: A   heroína   acaba   conquistando   a   simpatia   de   o   leitor  ,
+21: que   torce   por   ela   de   o   começo(começo)_n   a   o   fim  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('list(n('antithesis(n('elaboration(n('list(n(1), n('elaboration(n(2), s(3))'))'), s('elaboration(n(4), s(5))'))'), s(6))'), n('elaboration(n(7), s(8))'))'), s('elaboration(n('elaboration(n(9), s(10))'), s(11))'))'), s('cause(n('elaboration(n(12), s('cause(n(13), s(14))'))'), s('elaboration(n('elaboration(n('condition(n(15), s(16))'), s(17))'), s('condition(n(18), s(19))'))'))'))'), s('elaboration(n(20), s(21))'));

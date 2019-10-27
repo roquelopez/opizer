@@ -1,0 +1,25 @@
+Segments:
+1: O   primeiro   de   os   livros   de   a   série  &quot;   Fala   sério  &quot;  ,
+2: de   a   escritora  Thalita Rebouças(Rebouças)_prop  ,  &quot;   Fala   sério  ,   mãe  !  &quot;    
+3: introduz   muito  bem como   serão   os   próximos  :  
+4: uma   mistura   divertidíssima   de   comédia   e   fatos   de   o   cotidiano   de   uma   adolescente  ,   Malu  ,
+5: que   narra  todos os   acontecimentos  em relação(relação)_prp a   mãe  ,
+6: desde   sua   infância  ,
+7: desde   o   primeiro   aninho(aninhar)_v-fin
+8:    em   essa   fase  ,
+9: quem   começa(começar)_v-fin   contar   é   a   mãe  )  ,
+10: as   primeiras   histórias  ,
+11: primeiro   dia   de   aula  ,
+12: enfim  ,
+13: os   primeiros   passos   de   ela  ,
+14: e   depois  ,
+15: quando   está   mais   velha  ,
+16: passa   a   ser   contado   por   ela   mesma  ¬   Malu  .    
+17: O   melhor   de   tudo  ,  é que   a   protagonista   conta   suas   histórias   de   forma   divertida  ,
+18: irônica   algumas   vezes  ,
+19: revoltada   com   os   micos(mico)_n
+20: que   sua   mãe   lhe   fez   pagar   em   outras  ,
+21: mas  acima de   tudo   mostra   como   essa   relação(relação)_n   de   mãe-e-filha  ,
+22: apesar de   difícil  ,   deve   ser   bem   cuidada  .    
+Trees:
+contrast(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s('elaboration(n(4), s('elaboration(n(5), s('elaboration(n(6), s('elaboration(n(7), s('elaboration(n(8), s('elaboration(n('elaboration(n('elaboration(n(9), s(10))'), s('elaboration(n(11), s(12))'))'), s('elaboration(n('elaboration(n(13), s(14))'), s('circumstance(n(15), s(16))'))'))'))'))'))'))'))'))'))'), n('antithesis(n('elaboration(n('elaboration(n('elaboration(n(17), s(18))'), s(19))'), s('concession(n(20), s(21))'))'), s(22))'));

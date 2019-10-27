@@ -1,0 +1,38 @@
+Segments:
+1: Um   bom   televisor  ,   de   custo   elevado  .    
+2: Este   aparelho   apresenta   um   conjunto   de   características   que   atende   a   praticamente  todas as   necessidades   de   um   consumidor  :  
+3: reprodução(reprodução)_n   em   3   D  ,   acesso   a   a   Internet   com   wi-fi   interno  ,   reprodução(reprodução)_n   de   arquivos   de   áudio(áudio)_n
+4: e   vídeo   diretamente   de   um(um)_num
+5: ou   pendrive   etc.(etc.)_adv     Como   pontos   positivos  ,   destaco  :    
+6: 1-Todas as   funções(função)_n   são   executadas   sem   problemas  ,   particularmente   a   reprodução(reprodução)_n   de   arquivos   MKV   em   3D   com   legentas   convencionais(convencional)_adj
+7:    srt  )  ,
+8: sem   necessidade   de   conversão  .    
+9: 2-O   som   tem   boa   potência   e   clareza  .    
+10: 3-A   imagem   é   nítida  ,
+11: como se   espera   de   um   televisor   full  .    
+12: 4-O   wi-fi   é   fácil   de   configurar  ,
+13: desde que   a   senha   de   o   roteador   seja   curta(curto)_adj
+14:   menos de   32   caracteres  )  .
+15: Null 
+16: 5-Acompanham   dois   controles-remotos(controle-remoto)_n
+17:    convencional   e   magic  )  ,
+18: quatro   óculos   3D   e   dois   para   dual   player(player)_n
+19:    games  )  .
+20: Null
+21: 6-Quatro   entradas   HDMI   e   três   USB  .    
+22: Como   pontos   negativos  ,   destaco  :    
+23: 1-Luminosidade   de   a   tela   inferior   a   a   de   o   meu   televisor  LG LCD   antigo  ,   mesmo   com   máximo   brilho  .    
+24: 2-Desconforto   visual   em   algumas   cenas   3D  .    
+25: 3-Falta   de   conexões   analógicas(analógico)_adj
+26:    possui   uma   de   vídeo   composto(composto)_adj
+27: e   uma   de   vídeo   componente  ,
+28: mas   que   compartilham   a   mesma   entrada   de   áudio  ,
+29: logo   não   dá(dar)_v-fin
+30: para   usar   dois   equipamentos   analógicos   em   esta   TV  )  .
+31: Null  
+32: 4-A   maioria   de   os   aplicativos   de   internet   exige   assinatura   paga  .    
+33: Finalmente  ,   devo   dizer(dizer)_v-inf
+34: que   o   televisor  LG Smart   modelo   47LM7600   está   em   uma   faixa   de   preço(preço)_n   muito   superior   a   a   de   televisores   de   outras   marcas   com   as   mesmas   características  ,
+35: logo   recomendo   a   potenciais   compradores   uma   minuciosa   pesquisa   e   atenção(atenção)_n   a   a   relação(relação)_n   custo-benefício  .    
+Trees:
+sequence(n('elaboration(n('elaboration(n('elaboration(n('concession(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s('elaboration(n(3), s(4))'))'), s(5))'))'), s('purpose(n('cause(n(6), s(7))'), s(8))'))'), s(9))'), s('elaboration(n(10), s(11))'))'), s('cause(n('condition(n(12), s(13))'), s('purpose(n(14), s(15))'))'))'), s('cause(n('purpose(n('cause(n(16), s(17))'), s('cause(n(18), s(19))'))'), s(20))'))'), s(21))'), s(22))'), s(23))'), s(24))'), s('antithesis(n('purpose(n('cause(n(25), s(26))'), s('concession(n(27), s(28))'))'), s('elaboration(n('elaboration(n(29), s(30))'), s(31))'))'))'), s(32))'), n('elaboration(n(33), s('result(n(34), s(35))'))'));

@@ -1,0 +1,24 @@
+Segments:
+1: Excelente   preço(preço)_n   e   qualidade  !    
+2: Muito   boa  .  
+3: Tudo de Positivo   eu   relatei   em   os   Para   os(o)_art
+4: e   de   Negativo   eu   relatei   em   os   Contras  .  
+5: Achei   aqui   por  R$(R$)_prop 1000,00(1000,00)_prop  a menos   q   em   a   loja   física  .    
+6: O   que   gostei  :  
+7: Maravilhosa  !  !  !   A   definição(definição)_n  ,   o   design  ,   as   funções(função)_n  ,   a   conexão  ,   a   economia   de   energia  ,   os  controles remotos  ,   enfim  ,   tudo  !    
+8: O   que   não   gostei  :  
+9: É   só   ter   um   cuidado  :  
+10: Entrar   em   contato   com   a   LG(LG)_prop
+11: (
+12: como   eu   fiz  )
+13: para   perguntar   quais   os   teclados   compatíveis   com   a   TV(tV)_n
+14:    p(p)_n
+15: /($/)_conj-c   usar   a   internet  )  ,
+16: pq(pq)_adv
+17: se   vc   comprar   sem   verificar   isso   pode   não   sincronizar  .    
+18: São   só   alguns(algum)_pron-indef
+19:    poucos   modelos   e   poucas   marcas  )  .
+20: Null 
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s('elaboration(n('elaboration(n(3), s(4))'), s(5))'))'))'), s('elaboration(n(6), s(7))'))'), s('elaboration(n('elaboration(n(8), s(9))'), s('elaboration(n('elaboration(n('elaboration(n(10), s(11))'), s('elaboration(n(12), s(13))'))'), s('elaboration(n('purpose(n(14), s(15))'), s('elaboration(n(16), s(17))'))'))'))'))'), s('purpose(n('cause(n(18), s(19))'), s(20))'));
+

@@ -1,0 +1,6 @@
+Segments:
+1: Durabilidade   0     A   TV   é   maravilhosa  ,
+2: porém   queimou   com  menos de   dois   anos   de   uso(uso)_n
+3: e   o   conserto   em   a   autorizada   fica   o   preço(preço)_n   de   uma   nova  .    
+Trees:
+antithesis(n(1), s('elaboration(n(2), s(3))'));

@@ -1,0 +1,7 @@
+Segments:
+1: Pai  .  
+2: é   pai  .    
+3: A   divertida   tijucana   Malu   volta   em   esse   livro  ,
+4: que   falando   sério   é   muito   divertido  !    
+Trees:
+elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'));

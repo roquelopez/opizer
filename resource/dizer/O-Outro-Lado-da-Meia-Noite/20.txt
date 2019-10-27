@@ -1,0 +1,33 @@
+Segments:
+1: Resenha  
+2: Bem  ,  Sidney Sheldon   dispensa   apresentações(apresentação)_n  .    
+3: Minha   recomendação(recomendação)_n   para   o   mestre   sim  ,   o   cara   é   simplesmente  ,
+4: um   de   os   melhores   vai   principalmente   para   as   pessoas   que   não   curtem   ler  ,  assim como   eu   em   o   ensino   médio  .    
+5: Acredito(acreditar)_v-fin
+6: que   já   falei   aqui   algumas   vezes  ,
+7: mas   não   canso   de   repetir  :  
+8: foi  Sidney Sheldon   quem   me   ensinou   a   amar   a   leitura  .    
+9: E   hoje   o   resultado   que   temos   é   uma   louca   por   livros  .    
+10: rs   Eu   li  &quot;   O   Outro   lado   de   a   Meia-noite  &quot;   há  ,   aproximadamente  ,   3   anos  .    
+11: Não   me   recordo   de   os   pequenos   detalhes  ,
+12: mas   esse   livro   está   em   o   top   5   de   os   livros   de   o   Sidney   que   marcam   o   leitor  .    
+13: A   história   se   passa   durante   a  Segunda Guerra Mundial  ,
+14: temos   uma   narrativa   de   a   vida   de   Noelle  ,
+15: que   não   foi   de   as   melhores  ,
+16: mas   ela   também   não   se   torna   a   melhor   pessoa   de   o   mundo  .    
+17: Sidney   também   apresenta   a   emancipada  ,   Catherine  ,
+18: que  apesar de   tudo   é   uma   pessoa  um tanto   ingênua   e   doce  .    
+19: E   também   não   podemos   esquecer   o  Larry Douglas  ,
+20: que   eu   particularmente   detesto  ,
+21: mas   isso   só   vocês   lendo(ler)_v-ger
+22: para   entender  .    
+23: O   foco   de   o   livro   é   as   duas   mocinhas  ,   Catherine   e   Noelle  .    
+24: Apesar de   a   Noelle   não   ser   uma   pessoa   com   boa   conduta(conduta)_n
+25: e   tudo   mais  ,   é   a   minha   personagem   preferida  ,
+26: não   sei   explicar   o  por quê  ,
+27: simplemente   li(ler)_v-fin
+28: e   gostei   mais   de   ela  .    
+29: Confira   o   restante   de   a   resenha   em  :  
+30: http://psychobooks.blogspot.com/(http://psychobooks.blogspot.com/)_n   2010/06/s(2010/06/s)_num   idney-sheldon   o-   outro   lado-daA-meia.html(lado-daA-meia.html)_n    
+Trees:
+concession(n('antithesis(n('elaboration(n('list(n('contrast(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n(5), s('elaboration(n('concession(n(6), s(7))'), s(8))'))'))'), s(9))'), s(10))'), s('concession(n(11), s(12))'))'), s('elaboration(n('elaboration(n(13), s(14))'), s('concession(n(15), s(16))'))'))'), n('contrast(n(17), n(18))'))'), n('antithesis(n('elaboration(n(19), s('concession(n(20), s(21))'))'), s(22))'))'), s(23))'), s('elaboration(n('elaboration(n('elaboration(n('concession(n(24), s(25))'), s(26))'), s(27))'), s(28))'))'), s('elaboration(n(29), s(30))'));

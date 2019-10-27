@@ -1,0 +1,12 @@
+Segments:
+1: Trava   Trava     Esse   telefone   é   muito   bom   quando   esta   funcionando  ,
+2: ele   trava   subitamente   em   as   coisas   mais   simples   como   fazer   ligação(ligação)_n   ir   em   o   menu(menu)_n
+3: e   ate   carregando   levei   duas   vezes   em   a   garantia(garantia)_n
+4: para   arrumar   eles   dizem(dizer)_v-fin
+5: que   não   tem   nada   agora   a   garantia   acabou(acabar)_v-fin
+6: e   esta   travando   mais(mais)_adv
+7: do que   nunca   não   comprem   a   bateria   um   dia(dia)_n
+8: e   demora(demorar)_v-fin
+9: para   carregar    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'), s(9))'));

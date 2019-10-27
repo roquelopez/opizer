@@ -1,0 +1,12 @@
+Segments:
+1: Fala   Sério  ,   Pai  !    
+2: Um   livro   bom  ,   mas   não   é   meu   favorito   de   a   Thalita  .    
+3: Metade   de   ele   é   contado   por   o   próprio   pai   de   a   Malu   e   a   outra   metade   por   ela  .    
+4: Eu   só   acho(achar)_v-fin
+5: que   gosto   mais   por   o  ponto de vista   de   a   própria   protagonista   de   a   história  ,
+6: assim   entendemos   suas   ideias(ideia)_n
+7: e   o  por que   de   as   coisas   que   ela   faz(fazer)_v-fin
+8: e   diz  .    
+9: Beijooo    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(4), s(5))'), s(6))'), s(7))'), s(8))'))'), s(9));

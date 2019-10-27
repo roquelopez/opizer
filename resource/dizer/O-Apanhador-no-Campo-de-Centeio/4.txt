@@ -1,0 +1,11 @@
+Segments:
+1: Muito   hype   por   nada  .    
+2: Todo mundo   fala(falar)_v-fin
+3: que   esse   livro   é   foda  ,
+4: mas   em   a   verdade   ele   é   um   lixo  .    
+5: Realmente   a   única   passagem  mais ou menos   bonita   de   o   livro   é   o   sonho   de   o   moleque   pegando   uma   bola   de   baseball   em   o   campo   de   centeio   que   dá   pra   um   abismo  .    
+6: O   resto  ,   é   sofrível   enquanto   literatura  .    
+7: Não   sei   como   uma   porcaria   de   essa   conseguiu   ser   consagrada  .    
+8: Se bem que  .   Tem   tanta   porcaria   consagrada   por   aí   de   qualquer   jeito..(jeito..)_n    
+Trees:
+condition(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s('concession(n(3), s(4))'))'))'), s(5))'), s(6))'), s(7))'), s(8));

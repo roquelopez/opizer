@@ -1,0 +1,36 @@
+Segments:
+1: Iphone   5  ,   um   grande   prêmio  !    
+2: Moro   com   meu   primo  ,
+3: que   a   o   ir   a   os   EUA   resolveu   trocar   seu   Iphone   4s   por   um   Iphone   5  .    
+4: A   tela   com   certeza   é   algo   que   impressiona  ,
+5: possuindo   4   polegadas  ,   uma   resolução(resolução)_n   de   1136   x   640   pixels  ,   e   ainda   com   um   vidro   de   alta   resistência  .    
+6: As   cores   parecem   ser   mais  &quot;   vivas  &quot;  ,
+7: as   fotos   ficam   lindas  devido a   a   alta   resolução(resolução)_n   de   3264   x   2448   pixels  ;  
+8: e   os   vídeos   em   full  .  
+9: é   difícil   de   acreditar(acreditar)_v-inf
+10: que   foram   feitos   via   celular  .    
+11: Algo   que   para   mim   é   extremamente   relevante  ,
+12: refere-   se   a   a  Rede LTE 4G  ,
+13: para   uma   maior   rapidez   quando   desejo   navegar   em   a   internet  ,
+14: além de   a   sua   memória   de   64   GB  ,
+15: uma vez que   faço   muitos   downloads  referente a   o   meu   curso(curso)_n
+16: para   poder   estudar  .    
+17: No caso de   a   bateria  ,   a   utilização(utilização)_n   de   a   Internet   acarreta   em   um   gasto   maior  ,
+18: porém   quando   em   Stand   by  ,   tem-   se   uma   durabilidade   impressionante   se   comparada   a   a   outros   Smartphones  .    
+19: Com   certeza   trata-   se   de   um   iOS   muito   avançado(avançado)_adj  ,
+20: e  apesar de   ter   tudo(tudo)_spec
+21: e   mais  um pouco(pouco)_spec
+22: que   qualquer   pessoa   deseja   em   um   celular  ,
+23: não   é   pesado(pesar)_v-pcp
+24: e   nem   muito   grande  ,
+25: além de   ser   extremamente   fino   com   apenas   7.6mm(7.6mm)_num  ,
+26: o que   facilita   em   a   hora   de   carregar-   lo   para  todos os   lugares  .    
+27: Ah  ,   e  por último  ,   mas   não   menos   importante  ,   refere-   se   a   a   presença(presença)_n   de   bússola  ,
+28: e   GPS  ,   itens   indispensáveis   principalmente   para   mim  ,
+29: que   viajo   bastante  ,
+30: e   costumo   me   perder  ,
+31: além de   videoconferência   pois   não   moro   em   a   cidade   de   os   meus   pais  ,
+32: e   facilitaria   muito  ,
+33: diminuindo   um   pouquinho   a   saudade   de   eles  !    
+Trees:
+elaboration(n('contrast(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n(4), s(5))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(6), s(7))'), s(8))'), s(9))'), s(10))'))'), s('sequence(n(11), n('sequence(n(12), n('cause(n('elaboration(n(13), s('sequence(n(14), n(15))'))'), s(16))'))'))'))'), s('concession(n(17), s(18))'))'), n('list(n(19), n('list(n(20), n('list(n(21), n('list(n(22), n('list(n('elaboration(n(23), s('list(n(24), n(25))'))'), n(26))'))'))'))'))'))'), s('list(n(27), n('list(n(28), n('list(n('list(n('elaboration(n(29), s('list(n(30), n(31))'))'), n(32))'), n(33))'))'))'));

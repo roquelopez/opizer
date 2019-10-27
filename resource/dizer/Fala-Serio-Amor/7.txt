@@ -1,0 +1,10 @@
+Segments:
+1: Livro   apaixonado     De   essa   vez   nossa   querida  Thalita Rebouças(Rebouças)_prop  &quot;   apaixona  &quot;   o   público   adolescente   com   as   histórias   de   os   namorados   de   nossa  mais uma vez   protagonista  ,   Malu  .    
+2: Desde   o   primeiro   até   o   último   namorado  ,   histórias   divertidas   e   criativas  .    
+3: E  além de   tudo  ,   bem   engraçadas(engraçar)_v-pcp
+4: e   com   a   linguagem  &quot;   descontraída  &quot;
+5: e   informal   que   Thalita   utiliza   em   suas   obras  .    
+6: Nota   10  !    
+7: Mariana Almeida    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n('elaboration(n(3), s(4))'), s(5))'))'), s(6))'), s(7));

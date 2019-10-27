@@ -1,0 +1,25 @@
+{
+"Quantifiers": {
+	"1.0": ["Todos os usuários (<NUMBER> de pessoas) que comentaram sobre <o,os,a,as> <ASPECT> ", "Todos os clientes (<NUMBER> pessoas) que analisaram <o,os,a,as> <ASPECT> "], 
+	"0.8": ["Quase todos os usuários comentaram sobre <o,os,a,as> <ASPECT> e eles ", "Quase todos os clientes mencionaram <o,os,a,as> <ASPECT> e eles "], 
+	"0.6": ["A maioria dos usuários comentaram sobre <o,os,a,as> <ASPECT> e eles principalmente ", "A maioria dos compradores mencionaram <o,os,a,as> <ASPECT> e eles "], 
+	"0.45": ["Quase a metade dos usuários comentaram sobre <o,os,a,as> <ASPECT> e eles ", "Quase 50.0% dos compradores mencionaram <o,os,a,as> <ASPECT> e eles "], 
+	"0.2": ["Cerca de <PERCENT>% dos usuários comentaram sobre <o,os,a,as> <ASPECT> e eles ", "Em torno de <PERCENT>% dos compradores mencionaram <o,os,a,as> <ASPECT> e eles "],
+	"0.0": ["<NUMBER> usuário(s) comentaram sobre <o,os,a,as> <ASPECT> e em geral eles ", "<NUMBER> comprador(es) mencionaram <o,os,a,as> <ASPECT> e eles "]
+	},
+"PolarityVerbs": {
+	"Controversial": ["tinham opiniões controversas sobre <ele, eles,ela,elas>", "tinham opiniões variadas(positivas e negativas) sobre <ele, eles,ela,elas>", "expressaram opiniões controversas sobre essa característica"],  
+	"-3": ["odiavam isso", "sentiram que era muito ruim", "acharam que era muito ruim"], 
+	"-2": ["não gostaram", "sentiram que era ruim", "acharam que era ruim"], 
+	"-1": ["não gostaram muito", "sentiram que era um pouco ruim", "acharam que era um pouco ruim"],
+	"0": ["não expressaram opinião positiva nem negativa sobre <ele,eles,ela,elas>"],
+	"+1": ["gostaram <dele,deles,dela,delas>", "sentiram que <era,eram,era,eram> <bom,bons,boa,boas>", "acharam que <era,eram,era,eram> <satisfatório,satisfatórios,satisfatória,satisfatórias>"],
+	"+2": ["gostaram muito", "realmente gostaram dessa característica", "sentiram que era realmente uma boa característica", "acharam que era realmente <bom,bons,boa,boas>"],
+	"+3": ["adoraram", "sentiram que era excelente", "acharam que era ótimo"]
+	},
+"Connectives": {
+	"General": ["Além disso, relacionado <ao,aos,à,às> <ASPECT> ", "Ademais, ", "Além disso, em relação <ao,aos,à,às> <ASPECT>, ", "Em relação <ao,aos,à,às> <ASPECT>, ", "Falando sobre <o,os,a,as> <ASPECT>, "],
+	"ChildAgreement": [" e ", ", da mesma forma, ", ", ao mesmo tempo, ", ", de forma semelhante, "],
+	"ChildNoAgreement": [", mas ", ", em contraste, ", ", contrariamente, ", ", ao contrário, "]
+	}
+}

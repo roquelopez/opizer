@@ -1,0 +1,15 @@
+Segments:
+1: Está   quente   em   a  Cidade da Bahia     Um   livro   comovente  ,   sensual   e   intrigante  .    
+2: O   mais   bonito   de   o   livro   está   em   a   percepção(percepção)_n
+3: de(de)_prp
+4: que   não   há   maniqueísmo   em   os   personagens  .    
+5: É   difícil   separá  ¬   los   em   bons   e   maus  .    
+6: São   crianças(criança)_n   que   tomaram   rasgões   de   a   vida  .    
+7: Muito   difícil   acabar   não   se   identificando   com   um   de   os   meninos   de   o   trapiche(trapiche)_n
+8: e   ver   em   por   o   menos   um   de   eles  ,
+9: um pouco   de   nós   mesmos(mesmo)_pron-indef
+10:    em   o   meu   caso   fiquei   encantado   por   o   Professor  )  .
+11: Null  
+12: E   em   o   final  ,   a   mensagem   de   encontrar   aconchego   em   a   revolução(revolução)_n   é   uma   semente   para   a   luta  ,   não   só   para   os   pobres   de   a   cidade   de   a   Bahia  ,   como   para  todos os   inconformados   de   esse   mundo  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s(5))'), s(6))'), s('cause(n(7), s('purpose(n('elaboration(n(8), s('cause(n(9), s(10))'))'), s(11))'))'))'), s(12));

@@ -1,0 +1,6 @@
+Segments:
+1: bom  .  .  .    
+2: Eu   gostei   de   o   livro(livro)_n
+3: que   conta   a   historia   de   malu   a   o   correr   de   a   vida   e   com   seus   professores    
+Trees:
+elaboration(n(1), s('elaboration(n(2), s(3))'));

@@ -1,0 +1,12 @@
+Segments:
+1: Fala   sério  ,   Pai  !    
+2: O   livro   conta   a   história   de  Maria de Lourdes  .    
+3: Mostra  um pouco   de   a   visão   de   o   pai   de   ela   sobre   parte   de   a   vida   de   ela  !    
+4: Depois   de   vermos   o   lado   de   a   mãe   de   a   Malu   em   o   livro  &quot;   Fala   sério  ,   mãe  !  &quot;    
+5: Tinha   chegado   a   hora   de   saber   mais   sobre   o   pai   de   ela  !    
+6: O   primeiro   banho   que   o   pai   de   ela   deu   em   a   mesma  ,   as   aventuras   de   eles   dois   e   muito   mais  !    
+7: Um   livro   bom   que   mostra   o   lado   de   os   nossos   pais(pai)_n
+8: e   suas   reações(reação)_n   a   perceberem(perceber)_v-inf
+9: que   seus   filhos   estão   crescendo  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('sequence(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), n(4))'), s(5))'), s(6))'), s('elaboration(n('elaboration(n(7), s(8))'), s(9))'));

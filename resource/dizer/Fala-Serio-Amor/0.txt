@@ -1,0 +1,7 @@
+Segments:
+1: Muito   bom     Esse   livro   retrata   típicas   situações(situação)_n   que   podem   acontecer   em   a   vida   real  ,
+2: como   se   apaixonar   por   o   melhor   amigo  ,
+3: ficar   com   um   loco   em   o   carnaval  ,
+4: ir   em   a   casa   de   o   namorado   por   a   primeira   vez  ,   e   tudo   de   um   jeito   muito   divertido  !    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'));

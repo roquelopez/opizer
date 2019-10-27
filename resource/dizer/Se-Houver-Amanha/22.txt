@@ -1,0 +1,40 @@
+Segments:
+1: Se   Dormir   Lendo   Este   Livro     Se   Houver   Amanhã   Resolvi   ler  Sidney Sheldon  por que   minha   esposa   ficava   me   falando   de   essa   estória   de   ele(ele)_pron-pers
+2: que   era  o máximo  ,
+3: e   essa   estória   era   justamente   Se   Houver   Amanhã  .    
+4: Resolvi   dar   uma   pesquisada   em   o   cara(cara)_n
+5: e   descobri(descobrir)_v-fin
+6: que   ele   tinha   sido   o   único   escritor   a   ganhar   os   três   maiores   prêmios   de   os  Estados Unidos(Unidos)_prop
+7: e   vendeu   apenas   300   milhões   de   livros   em  toda a   sua   carreira  .    
+8: Uau  ,   eu   pensei  ,
+9: os   livros   de   ele   devem   ser  o máximo  .    
+10: Então   lá   fui   eu   ler   Se   Houver   Amanhã  .    
+11: Toda a   parte   legal   de   a   estória  ,
+12: que   são  mais ou menos   umas   vinte   páginas  ,
+13: minha   esposa   já   tinha   me   contado  .    
+14: Você   tem   uma   protagonista   burra   que   dói(doer)_v-fin
+15: que   faz   uma   besteira  atrás de   a   outra  ,
+16: acaba   presa   por   um   crime   que   não   cometeu(cometer)_v-fin
+17: e   entra   para   a   faculdade   de   a   malandragem   em   a   penitenciária  .    
+18: Quando   ela   sai  ,
+19: vai   procurar   vingança(vingança)_n  .    
+20: Parece   legal  ,
+21: mas   dá   sono  .    
+22: O   enredo   de   a   estória   não   é   ruim  ,
+23: parece   um   filme   de   ação(ação)_n
+24: (
+25: aliás  ,
+26: Sidney Sheldon   era   roteirista   antes   de   fingir(fingir)_v-inf
+27: que   era   escritor  )  .
+28: Null
+29: Agora  ,   os   personagens  ,   os   relacionamentos   e   os   diálogos   são   muito   fracos  .    
+30: Os   personagens   passam   a   se   amar(amar)_v-inf
+31: e   a   se   desamar   de   uma   hora   pra   outra(outro)_pron-indef
+32: e   eles   são   completamente   volúveis   e   superficiais  .    
+33: Em   um   filme  ,   acho(achar)_v-fin
+34: que   você   nem   perceberia  .    
+35: Em   um   livro  ,   fica   muito   claro(claro)_adj
+36: que   o   autor   tinha   uma   estória(estória)_n
+37: e   precisava   inventar   alguém   para   a   vivê  ¬   la  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('circumstance(n('circumstance(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('condition(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n('elaboration(n('elaboration(n(4), s(5))'), s(6))'), s(7))'))'), s('elaboration(n(8), s(9))'))'), s(10))'), s('elaboration(n('elaboration(n(11), s(12))'), s(13))'))'), s('elaboration(n('elaboration(n('elaboration(n(14), s(15))'), s(16))'), s(17))'))'), s('circumstance(n(18), s(19))'))'), s('concession(n(20), s(21))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(22), s(23))'), s(24))'), s(25))'), s(26))'), s(27))'), s(28))'))'), s(29))'), s('elaboration(n('elaboration(n(30), s(31))'), s(32))'))'), s('elaboration(n(33), s(34))'))'), s('elaboration(n('elaboration(n(35), s(36))'), s(37))'));

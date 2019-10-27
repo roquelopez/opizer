@@ -1,0 +1,6 @@
+Segments:
+1: Achei   muito   divertido(divertir)_v-pcp
+2: e   em   muitos   momentos   a   Angela   lembrou   a   minha   mãe  ,   principalmente   em   a   fase   mais  &quot;   adulta  &quot;  .  
+3: Muito   bom  ,   recomendoo   D    
+Trees:
+elaboration(n('elaboration(n(1), s(2))'), s(3));

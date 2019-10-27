@@ -1,0 +1,12 @@
+Segments:
+1: O   melhor   de  Sidney Sheldon     Para   muitos   o   melhor   livro   de  Sidney Sheldon  .    
+2: Uma   história   que   atravessa   gerações(geração)_n  ,
+3: iniciando   com   um   jovem   sonhador   que   cruza  todo o   continente   Africano   em   busca   de   seu   destino  ,
+4: até   uma   mega   corporação(corporação)_n   mundial   liderada   por   um   de   seus   descendentes  .    
+5: A   personagem   central   é   sem   dúvida   a   mais   forte   presença(presença)_n   de   todos   as   histórias   de   Sheldon  .    
+6: O   mais   de   o   mesmo  um pouco   mais   cativante  ,   ascensão   social  ,   uma   mulher   poderosa  ,   intriga  ,
+7: relações(relação)_n   por   interesse  ,
+8: e   personagens   sem   receios   de   fazer   o   que   for   preciso(preciso)_adj
+9: para   alcançar(alcançar)_v-inf   suas   ambições(ambição)_n  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s(5))'), s('elaboration(n('elaboration(n('elaboration(n(6), s(7))'), s(8))'), s(9))'));

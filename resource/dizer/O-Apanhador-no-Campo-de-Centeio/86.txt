@@ -1,0 +1,26 @@
+Segments:
+1: O   livro  ,   de   início  ,   não   empolga   muito  .    
+2: Parece(parecer)_v-fin
+3: que   a   história   não   tem   nenhuma   intenção(intenção)_n   específica  ,
+4: e   a   narração(narração)_n   é   feita   de   maneira   informal   demais  ,   com   uso   repetitivo   de   gírias   e   palavras   de   baixo   calão  .    
+5: Mas   a   a   medida   que   a   história   vai   se   passando  ,
+6: você   se   adapta   mais   a   o   personagem  ,
+7: a   a   situação(situação)_n  ,   passa   a   entender   melhor   o   mundo(mundo)_n
+8: em(em)_prp
+9: que   se   passa   a   história   e   a   possível   intencionalidade   de   o   autor  .    
+10: O   livro   é   de   uma   leitura   muito   fácil(fácil)_adj
+11: e   rápida  ,   acabei   em   três   dias  .    
+12: E   agora   entendi   porque   ele   é   um   clássico  .    
+13: Ele   mostra   de   forma   clara  ,
+14: simples(simples)_adj
+15: e   divertida   os   pensamentos  ,   conflitos(conflito)_n
+16: e   dilemas   de   um   adolescente   aparentemente   revoltado   com   o   mundo  ,  todas as   suas   qualidades   e   defeitos  .    
+17: Um   livro   que   agradará   muitos   adolescentes  ,
+18: que   irão   se   identificar   com   o   protagonista  ,
+19: Holden Caulfield  ,
+20: e   também   adultos  ,
+21: que   relembrarão   essa   fase   de   a   vida(vida)_n
+22: ou   a   entenderão  um pouco   melhor  .    
+23: Recomendado  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('antithesis(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(5), s(6))'), s(7))'), s(8))'), s(9))'))'), s('elaboration(n(10), s(11))'))'), s(12))'), s('elaboration(n('elaboration(n('elaboration(n(13), s(14))'), s(15))'), s(16))'))'), s('list(n(17), n('list(n('list(n('elaboration(n(18), s('list(n(19), n(20))'))'), n(21))'), n(22))'))'))'), s(23));

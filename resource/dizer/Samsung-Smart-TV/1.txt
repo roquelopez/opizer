@@ -1,0 +1,9 @@
+Segments:
+1: Vale   a   Pena  .    
+2: Excelante   aparelho   de   TV   com   ótima   qualidade   de   imagem   e   recursos  .    
+3: O   que   gostei  :  
+4: Qualidade   de   imgem  ,
+5: acesso   a   internet  ,   interatividade   com   a   TV  ,   custo   x   benefício    O que   não   gostei  :  
+6: Manual   de   instalação(instalação)_n   confuso   e   nem   sempre   apresenta   soluções(solução)_n   a   dúvidas   que   surgem    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s('elaboration(n(4), s(5))'))'))'), s(6));

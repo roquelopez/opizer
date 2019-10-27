@@ -1,0 +1,19 @@
+Segments:
+1: Otimo   Celular   O  Melhor da Atualidade     Otimo   produto   o   melhor   celular   que   ja   tive  .    
+2: Lindo  ,   roda   bem   leve  ,   fininho   e   discreto  .    
+3: A   camera   é   maravilhosa  .    
+4: A   bateria   dura   bastante   e   os   aplicativos   ja   instalados   são   otimos  .    
+5: A   interne   voa  ,   muito   rapida  .  
+6: Recomendo   a   todos  .    
+7: O   que   gostei  :  
+8: Excelente   produto  ,   muito   bom   mesmo  .    
+9: Nunca   tive   um   celular   tão   perfeito   como   esse  .    
+10: Rapido   e   agil  .    
+11: Te   o   apaixonado   por   ele(ele)_pron-pers
+12: e   não   deixa   nada   a   desejar   de   o   Iphone   que   possuo   tambem  .    
+13: Acredito(acreditar)_v-fin
+14: que   ele   seja   muito   superior..(superior..)_n   Recomendo  .    
+15: O   que   não   gostei  :  
+16: Nao   contra  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), s('elaboration(n(5), s(6))'))'), s('elaboration(n(7), s(8))'))'), s(9))'), s(10))'), s('elaboration(n(11), s(12))'))'), s('elaboration(n(13), s(14))'))'), s('elaboration(n(15), s(16))'));

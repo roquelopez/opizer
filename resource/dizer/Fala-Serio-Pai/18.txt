@@ -1,0 +1,10 @@
+Segments:
+1: tal   pai  ,   tal   filha    Mais uma vez   fiquei   entre   as   risadas   sobre   as   histórias   de   Malu   com   seu   pai   e   a   reflexão   sobre   relação(relação)_n   pais   e   filhos  .    
+2: A   o   mesmo   tempo   que   aprendemos   com   nossos   pais  ,
+3: eles   aprendem   com   nós  ,
+4: é   uma   dupla   troca   de   afeto  ,   carinho  ,   ensinamentos   e   experiências  .    
+5: Amo   muito   meu   pai(pai)_n
+6: e   só   tenho   o(o)_pron-dem
+7: que   agradecer   por   tudo   que   ele   faz   por   mim  todos os dias  !    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s('elaboration(n('elaboration(n(5), s(6))'), s(7))'));

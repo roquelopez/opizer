@@ -1,0 +1,37 @@
+Segments:
+1: Fala   sério  ,   Thalita  !    
+2: Enquanto   lia   esse   livro  ,
+3: não   é   exagero   dizer(dizer)_v-inf
+4: que   tive(ter)_v-fin
+5: que   respirar   fundo(fundo)_adj
+6: e   contar   até   dez   inúmeras   vezes   para   não   largá  ¬   lo   por   a   metade  .    
+7: O   problema   em  &quot;   Fala   sério  ,   mãe  !  &quot;  ,  
+8: é   o   mesmo   de  &quot;  Fala Sério  ,   professor  !  &quot;  :  
+9: pouca   conexão   com   a   realidade  .    
+10: Mas   em   este   ocorre   com   mais   frequência  ,
+11: o   que   torna   a   leitura   algo   irritante  ,   em   alguns   momentos  .    
+12: Pode  ¬
+13: se   notar   claramente   esse   surrealismo   observando   as   falas   de   Malu   quando   pequena  .    
+14: Muito   vocabulário   para  pouca idade  ,   como   em   essa   frase  ,   de   quando   ela   tinha   6   anos  :  &quot;  ¬  
+15: Uma   beleza   enorme  ,   mamãe  .    
+16: Eu   estou   fascinada   por   o  Guilherme Almeida  [  .  ]  &quot;  .    
+17: Ou   em   a   insistência   em   saber   porque   seu   nome   é  Maria de Lourdes  ,
+18: não   se   conformando   com   as   respostas   de   a   mãe  ,
+19: sempre   replicando   com   comentários   assustadoramente   complexos   para   uma   menina   de   5   anos  .    
+20: A   mãe   é   demasiadamente   sem-   noção(noção)_n  .    
+21: Acredito(acreditar)_v-fin
+22: que   isso   seja   proposital  ,
+23: tendo   como   objetivo   garantir   o   humor   em   a   história  .    
+24: O   problema   é(ser)_v-fin
+25: que   não   funcionou  ,
+26: justamente(justamente)_adv
+27: porque   as   atitudes   são   tão  fora de   o   comum  ,
+28: que   a   o   invés   de   ser   engraçado(engraçar)_v-pcp  ,
+29: soa   forçado(forçar)_v-pcp  ,
+30: artificial  ,
+31: e  até mesmo   ridículo  ,
+32: algumas   vezes  .    
+33: Recomendo   o   livro   apenas   para   crianças(criança)_n   que   estão   iniciando   o   hábito   de   a   leitura  ,
+34: por   ser   curto   e   de   fácil   entendimento  .    
+Trees:
+elaboration(n('elaboration(n('purpose(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('antithesis(n('elaboration(n('list(n(1), n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'))'), s('elaboration(n('elaboration(n(7), s(8))'), s(9))'))'), s('result(n(10), s(11))'))'), s('condition(n(12), s(13))'))'), s('elaboration(n(14), s(15))'))'), s(16))'), s('elaboration(n('elaboration(n(17), s(18))'), s(19))'))'), s(20))'), s('purpose(n('elaboration(n(21), s(22))'), s(23))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(24), s(25))'), s(26))'), s(27))'), s(28))'), s(29))'), s(30))'), s(31))'), s(32))'))'), s('cause(n(33), s(34))'));

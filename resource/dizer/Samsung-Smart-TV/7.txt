@@ -1,0 +1,9 @@
+Segments:
+1: Custo   benefício   não   compensa  .    
+2: Não   tem   conectividade   com   celulares   Galaxy  ,
+3: o   que   é   uma   vergonha  .    
+4: Custo-benefício   não   compensa  .    
+5: Vale   mais   comprar   uma   TV   de   2.000(2.000)_num  ,
+6: que   terá   as   mesmas   funcionalidades   que   realmente   utilizamos  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4))'), s('comparison(n(5), s(6))'));

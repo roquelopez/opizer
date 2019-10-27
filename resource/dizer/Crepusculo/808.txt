@@ -1,0 +1,13 @@
+Segments:
+1: Decepcionante  .    
+2: História   clichê  ,
+3: recheada   de   coisas   impossíveis   até   em   o   mundo   de   o   maravilhoso  ,
+4: escrita   péssima  ,   personagens   mal-construídos   e   alienados  .    
+5: Um   vampiro   brilhante   que   lê   mentes  ,   uma   heroína   estúpida  ,   metida   a   perfeitinha(perfeitinho)_adj
+6: e   solitariamente   rodeada   de   pessoas  .    
+7: Personagens   secundários   que   não   se   desenvolvem   nunca  ,   metáforas   cansativas   e   totalmente   sem   nexo  .    
+8: Romancezinho   adolescente   água-com-açúcar(água-com-açúcar)_n  ,   ridículo  .    
+9: Mostra   claramente   a   falta   de   direção(direção)_n   de   a   geração(geração)_n   atual   por   a   tal  &quot;   febre  &quot;   mundial  .    
+10: Que   falta  Bram Stoker   faz   em   essas   horas  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s('elaboration(n(5), s(6))'))'), s(7))'), s(8))'), s(9))'), s(10));

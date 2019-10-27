@@ -1,0 +1,24 @@
+Segments:
+1: Este   foi   o   primeiro   livro   que   li   de  Sidney Sheldon  .    
+2: Nunca   fui   fã   de   romances  ,
+3: mas   minha   amiga   em   a   época   falou   tão   bem  ,
+4: contou   algumas   partes(parte)_n
+5: e   acabei   pegando   emprestado  .    
+6: Devorei  .     Adorei   a   personagem   Tracy  ,   sua   transformação(transformação)_n  ,   crescimento  .    
+7: Algumas   passagens   de   o   livro   me   fizeram   contorcer  ,
+8: mas   Tracy   foi   forte(forte)_adj
+9: e   me   impressionei   com   o   andamento   de   a   trama  .    
+10: Ô  ,   vingança(vingança)_n   boa   e   inteligente  .    
+11: Sabe   aquele   ditado  `   as   quietinhas   são   as   piores  '  ?    
+12: Então  ,   leia(ler)_v-fin
+13: e   use   esta   personagem   maravilhosa   como   exemplo  .    
+14: Soube(saber)_v-fin
+15: que   existe   um   filme  ,
+16: mas  até então   só   soube   de   a   minissérie  ,
+17: qual   ainda   não   assisti(assistir)_v-fin
+18: e   continuo   procurando   loucamente   em   a   web  .    
+19: Nunca   vi   a   minissérie  ,
+20: mas   se   seguir   o   roteiro   de   o   livro  ,
+21: com   certeza  ,   será   um   puta   filme  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('concession(n(2), s(3))'), s(4))'), s(5))'))'), s(6))'), s('elaboration(n('concession(n(7), s(8))'), s(9))'))'), s(10))'), s(11))'), s('elaboration(n(12), s(13))'))'), s('antithesis(n('elaboration(n(14), s('concession(n(15), s(16))'))'), s('elaboration(n(17), s(18))'))'))'), s('elaboration(n('concession(n(19), s(20))'), s(21))'));

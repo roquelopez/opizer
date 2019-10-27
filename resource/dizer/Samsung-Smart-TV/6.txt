@@ -1,0 +1,15 @@
+Segments:
+1: A   melhor   tv   em   a   atualidade  !    
+2: União   de   tv  ,   com   interatividade   e   internet  ,   a   Samsung   superou   seus   concorrentes   inovando(inovar)_v-ger
+3: e   trazendo   recursos   incríveis   para   uma   tv  .    
+4: A   câmera   embutida   em   a   tv   com   sensor   de   movimento(movimento)_n
+5: e   presença(presença)_n   funciona   bem(bem)_adv
+6: e   impressiona   quem   não   conhece  .    
+7: O   contorno   fino   ressalta   a   qualidade   de   a   imagem   de   a   tela  .    
+8: Os   aplicativos   são   fáceis   e   práticos  .    
+9: O   que   gostei  :  
+10: Design  ,   sofisticação(sofisticação)_n   e   modernidade  .    
+11: O   que   não   gostei  :  
+12: Preço(preço)_n   alto    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n('elaboration(n(4), s(5))'), s(6))'))'), s(7))'), s(8))'), s('elaboration(n(9), s(10))'))'), s('elaboration(n(11), s(12))'));

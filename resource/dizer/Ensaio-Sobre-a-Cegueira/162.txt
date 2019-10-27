@@ -1,0 +1,24 @@
+Segments:
+1: Meu   Deus  !    
+2: A   angústia   de   a   leitura   me   volta   quando   tento   escrever   esta   resenha  .    
+3: De repente  ,   cego  .    
+4: O   que   fazer  ?    .  
+5: se   a   angústia   inicial   que   o   livro   nos   coloca   já   assusta  ,
+6: imagina  ,   a   quase   afirmativa   de   o   livro   que  :  
+7: Você   Não   Enxerga  !    
+8: Vê   através   de   a   mídia  ,   de   a   sociedade  ,   de   as   crenças(crença)_n  .    
+9: Sem   a   visão   que   acreditamos   ter  ,
+10: nos   tornamos  ,
+11: verdadeiramente  ,
+12: o que   somos  .    
+13: Nojento  ,   assustador  .  
+14: tornamo  ¬   em   os   animais  ,   seres   que   se   voltam   para   o   eu  ,
+15: como se   a   cegueira   branca  ,
+16: que   é   colocada  ,
+17: fosse(ser)_v-fin
+18: como se   estivessemos   olhando   para  dentro de   nós   mesmo  ,
+19: esperando   ver   alguma   coisa  ,
+20: mas   em   a   verdade   não   vemos   nada  .    
+21: Nada  !  .     Leiam  !  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('condition(n('condition(n('cause(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), s('condition(n('condition(n(5), s(6))'), s(7))'))'), s(8))'), s('elaboration(n('elaboration(n('elaboration(n(9), s(10))'), s(11))'), s(12))'))'), s('elaboration(n(13), s('elaboration(n(14), s('elaboration(n(15), s('elaboration(n(16), s('elaboration(n('elaboration(n(17), s(18))'), s('concession(n(19), s(20))'))'))'))'))'))'))'), s(21));

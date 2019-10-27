@@ -1,0 +1,27 @@
+Segments:
+1: 1.0(1.0)_num     Li  ,
+2: pois   sou  a favor de   conhecer   algo   antes   de   sair   por   aí   fazendo   críticas   baseado   em   o   que   se   ouve  ,
+3: ou(ou)_conj-c
+4: se   tá   em   a   moda   gostar(gostar)_v-inf
+5: ou   não   gostar   de   algo  .    
+6: Li(ler)_v-fin
+7: e   meu   máximo   foi   terminar   o   segundo   livro  ,
+8: não   precisei   de   mais   pra   confirmar(confirmar)_v-inf
+9: que  Stephanie Meyer   seria   mais   sensata(sensato)_adj
+10: se   deixasse   sua   imaginação(imaginação)_n   incrivelmente   fértil   somente   para   o   mundo   de   os   seus   sonhos  .    
+11: É   triste   ver   como   esse   livro   conquistou   milhares   de   adolescentes(adolescente)_n
+12: (
+13: pior  ,
+14: não   só   adolescente  ,
+15: mas   também   mulheres   Adultas(adulto)_adj
+16: e   em   o   mínimo   frustradas   com   suas   vidas   amorosas(amoroso)_adj
+17: /($/)_conj-c   sexuais  )  ,
+18: que   passaram   a   desejar   uma   história   de   amor   semelhante   a   história   vivida   por   Bella   e   Edward  .    
+19: Pra   mim   isso   não   é   amor  ,
+20: é   obsessão   e   doença(doença)_n  .    
+21: Amor   não   é   você   abdicar   de   sua   vida  ,   amigos  ,   família   por   uma   pessoa  .    
+22: Principalmente   se   essa   pessoa   for   um   vampiro  .    
+23: Vampiro   que   brilha   em   o   sol  .    
+24: Não   recomendo   esse   livro   pra   ninguém  .    
+Trees:
+Null

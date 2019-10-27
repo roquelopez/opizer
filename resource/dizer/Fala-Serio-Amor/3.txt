@@ -1,0 +1,18 @@
+Segments:
+1: Continuando   as   maluquices   cotidianas   de   Malu  ,
+2: esse   livro   traz   as   mais   diversas   situações(situação)_n   de   um   namoro  ,
+3: quando   eles   se   conheceram  ,
+4: primeiro   encontro  ,   as   brigas  ,   viagens  ,   comemorações(comemoração)_n   de   datas   especiais(especial)_adj
+5: (
+6: ou   a   falta   de   elas  )  ,
+7: o   dia   de   conhecer   a   família   de   o   outro  ,
+8: e   o(ele)_pron-pers
+9: porque   de   eles   saírem   correndo   logo   depois  .    
+10: E   são   em   essas   situações(situação)_n  ,
+11: que  mais uma vez  ,   Malu   nos   faz   rir   com   inúmeras   histórias   pra   contar  ,
+12: e   inúmeros   namoros   que   deram   certo..(certo..)_n   ou   nem   tanto   assim  .    
+13: Um   ótimo   livro   pra   quem   quer   dar   boas   risadas(risada)_n
+14: e   se   identificar   com   cada   situação(situação)_n   vivida   por   a   protagonista  .    
+15: Muito   bom  ,   vale   a   pena  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('circumstance(n('circumstance(n('circumstance(n('elaboration(n(1), s('circumstance(n(2), s(3))'))'), s(4))'), s('elaboration(n('elaboration(n(5), s(6))'), s(7))'))'), s('cause(n(8), s(9))'))'), s('elaboration(n('elaboration(n(10), s(11))'), s(12))'))'), s('elaboration(n(13), s(14))'))'), s(15));

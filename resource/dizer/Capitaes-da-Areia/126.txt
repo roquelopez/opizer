@@ -1,0 +1,18 @@
+Segments:
+1: Eu   adorei   esse   livro   quando   li  ,
+2: foi   um   conselho   de   um   garoto   que   é   escritor   eu   conheci   em   a   internet  ,
+3: foi   ótimo  .    
+4: A   hitória   que   se   passa   em   as   ruas   baianas  ,
+5: em   que   eles   roubam   a   estilo  Robin Hood   é   bem   interessante  ,
+6: como   garotos   tinha(ter)_v-fin
+7: que   cuidar   uns   de   os   outros(outro)_pron-indef
+8: para   viver  ,
+9: o   amor   juvenil  ,   aprender   a   lidar   com   a   morte  ,
+10: perdas  ,   separações(separação)_n
+11: e   muitas   outras   coisas   antes   de   o   tempo   é   triste  ,
+12: mas   é   interessante   descobrir   como   algumas   crianças(criança)_n   viviam   em   aquela   época(época)_n
+13: e  ,
+14: eu   achei  ,
+15: que   o   livro   é   muito   bem   escrito  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('antithesis(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('circumstance(n(4), s(5))'), s(6))'), s(7))'), s(8))'), s(9))'), s(10))'), s('concession(n(11), s(12))'))'), s('elaboration(n('elaboration(n(13), s(14))'), s(15))'))'));

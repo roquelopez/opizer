@@ -1,0 +1,12 @@
+Segments:
+1: Acho(achar)_v-fin
+2: que   esse   eh   o   livro   mais   chato(chato)_adj
+3: que   ja   li   em   a   vida  .    
+4: A   minha   leitura   foi   mais   um   desafio(desafio)_n
+5: para   chegar   ate   o   final  .    
+6: Quanto mais   eu   lia  ,
+7: mais   desejava   acontecesse   uma   desgraca   a   o   personagem(personagem)_n
+8: e   acabasse   logo   com   a   historia  .    
+9: Um   personagem   completamente   desagradavel  ,   em   a   minha   humilde   opiniao  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('comparison(n(2), s(3))'))'), s('elaboration(n(4), s(5))'))'), s('elaboration(n('elaboration(n(6), s(7))'), s(8))'))'), s(9));

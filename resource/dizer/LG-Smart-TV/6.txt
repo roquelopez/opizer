@@ -1,0 +1,5 @@
+Segments:
+1: Nada   de   mais  .    
+2: Normal   por   o   alto   preço(preço)_n  .    
+Trees:
+elaboration(n(1), s(2));

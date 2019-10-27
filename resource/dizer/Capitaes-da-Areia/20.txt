@@ -1,0 +1,9 @@
+Segments:
+1: Incrível  .    
+2: Li   esse   livro   quando   eu   tinha   13   anos  .    
+3: Foi  um pouco   chato   em   o   começo(começo)_n  ,
+4: para   uma   criança(criança)_n   que   não   tem   o   hábito   de   leitura  .    
+5: Mas   me   conquistou   rapidamente  ,
+6: e   hoje   tenho   muito   carinho   por   ele  .    
+Trees:
+antithesis(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n(5), s(6))'));

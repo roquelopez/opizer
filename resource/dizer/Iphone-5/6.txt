@@ -1,0 +1,11 @@
+Segments:
+1: Perfeitoooo    Além de   lindo  ,   é   ótimo  ,
+2: fácil   de   usar  ,
+3: sei   de   isso   pois   uma   prima   minha   tem  .    
+4: E   é   muito   mais(mais)_adv
+5: do que   você   espera  !    
+6: É   praticamente   impossivel   imaginar  !    
+7: Então   sóo   tendo   pra   saber  !  !  !  !  !  
+8: RECOMENDOOOOOOOOOO    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n(4), s(5))'))'), s(6))'), s('elaboration(n(7), s(8))'));

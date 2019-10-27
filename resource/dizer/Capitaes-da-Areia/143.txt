@@ -1,0 +1,16 @@
+Segments:
+1: O   livro   não   é   ruim  ,
+2: mas  Jorge Amado   parece   subestimar   a   inteligência   de   o   leitor   a   o   fazer   de   uma   história   interessante   um   panfleto   político  .    
+3: Talvez   ele   achasse   necessário   dizer  ,
+4: para   as   pessoas   de   a   época  ,
+5: que   as   crianças(criança)_n   de   rua   fazem   coisas   erradas   não   por   serem   intrinsecamente   más  ,
+6: mas(mas)_conj-c
+7: porque   foram   abandonadas(abandonar)_v-pcp
+8: ou(ou)_conj-c
+9: porque   nunca   tiveram   carinho  .    
+10: O   problema   é(ser)_v-fin
+11: que   hoje  ,   a   o   menos  ,   isso   soa   tão   óbvio(óbvio)_adj
+12: que   o   livro   acaba   parecendo   um   mero   manifesto   anacrônico  .    
+13: De qualquer forma  ,   mesmo   com   estes   poréns  ,   a   leitura   vale   a   pena  .    
+Trees:
+concession(n('elaboration(n('elaboration(n('concession(n(1), s(2))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(3), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'), s(9))'))'), s('elaboration(n(10), s('comparison(n(11), s(12))'))'))'), s(13));

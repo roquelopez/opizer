@@ -1,0 +1,19 @@
+Segments:
+1: Sempre   quis   ler   os   livros   de   a   série  &quot;   Fala   sério  &quot;   de   a  Thalita Rebouças(Rebouças)_prop  ,
+2: pois   muitas   pessoas   recomendavam(recomendar)_v-fin
+3: e   diziam(dizer)_v-fin
+4: que   era   ótimo  .    
+5: Então  ,
+6: animada   resolvi   começar(começar)_v-inf   por   o   de   o   professor  ,
+7: e   infelizmente   me   decepcionei   muito  .    
+8: A   o   contrário   de   o   que   imaginei  ,
+9: não   me   identifiquei   nada   com   os   professores   de   a   Malu  ,   e   muito   menos   com   ela  .    
+10: Achei   o   livro   muito   artificial  ,   e   nada  próximo de   a   realidade   de   os   estudantes  .    
+11: Li   quando   tinha   12   anos  ,
+12: e   acredite  ,
+13: em   essa   idade   já   achei   o   livro   infantil   demais  .    
+14: Devido a   minha   frustração(frustração)_n  ,   perdi  um pouco   de   a   vontade   de   ler   os   outros  ,
+15: mas   imagino(imaginar)_v-fin
+16: que   sejam   melhores  .    
+Trees:
+cause(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('cause(n(1), s(2))'), s(3))'), s(4))'), s('elaboration(n('elaboration(n(5), s(6))'), s(7))'))'), s('elaboration(n(8), s(9))'))'), s(10))'), s('elaboration(n('elaboration(n(11), s(12))'), s(13))'))'), s('elaboration(n('concession(n(14), s(15))'), s(16))'));

@@ -1,0 +1,12 @@
+Segments:
+1: O   livro   conta   a   história   de   várias   gerações(geração)_n   de   a   família   Blackwell  ,
+2: que   ergueu   seu   império   com   os   diamantes   de   a  África(África)_prop do Sul  ,
+3: chegando   até   a   personagem   principal  ,  Kate Blackwell  ,
+4: que   tem   algumas   características   de   mulheres   de   outros   romances   de  Sidney Sheldon  .    
+5: A   história   começa(começar)_v-fin   em  Dark Harbor  ,
+6: em   o   Maine  ,   uma   colônia   de   super-ricos  ,
+7: e   se   desloca   para   os   campos   de   diamantes   de   a   África(África)_prop   de   o   Sul  ,   as   ruas   boêmias   de   Paris  ,   as   mansões   imponentes   de   a   Inglaterra  ,   as   salas   de   reuniões(reunião)_n
+8: e   as   alcovas   de   a   América  ,
+9: onde   se   realizam   as   transações(transação)_n   que   representam   milhões   e   milhões   de   dólares  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), s('elaboration(n('elaboration(n('elaboration(n(5), s(6))'), s(7))'), s('circumstance(n(8), s(9))'))'));

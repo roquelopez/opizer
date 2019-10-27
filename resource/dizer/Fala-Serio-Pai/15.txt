@@ -1,0 +1,15 @@
+Segments:
+1: Achei   o   livro   engraçado(engraçado)_adj  ,
+2: e   releria  ,
+3: mas   apenas   por   ser   engraçado(engraçar)_v-pcp  .    
+4: Embora   o   livro   seja   legal  ,
+5: não   gosto   de   a   literatura   de   a  Thalita Rebouças(Rebouças)_prop  ,
+6: acho(achar)_v-fin
+7: que   os   livros   de   ela   deveriam   ser   menos   engraçados(engraçar)_v-pcp
+8: e   mais   interessantes  ,
+9: pois   um   livro   tem(ter)_v-fin
+10: que   te   prender  ,
+11: aí(aí)_adv
+12: que   é   bom   mesmo  .    
+Trees:
+concession(n('elaboration(n(1), s('concession(n(2), s(3))'))'), s('elaboration(n('cause(n('elaboration(n('concession(n(4), s(5))'), s('cause(n(6), s('cause(n('elaboration(n(7), s('cause(n(8), s(9))'))'), s(10))'))'))'), s(11))'), s(12))'));

@@ -1,0 +1,6 @@
+Segments:
+1: Não   vale   o   preço(preço)_n  .    
+2: As   funções(função)_n   interativas   não   são   boas(bom)_adj
+3: e   difíceis   de   configurar  .    
+Trees:
+elaboration(n(1), s('elaboration(n(2), s(3))'));

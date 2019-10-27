@@ -1,0 +1,9 @@
+Segments:
+1: este   é   dez     este   produto   é   exelente  ,
+2: temho   um   amigo   que   tem  ,
+3: deixou   o   iphone   em   o   bolos     O   que   gostei  :  
+4: estiloso  ,   leve  ,   charmoso     O   que   não   gostei  :  
+5: não   posso   ter  ,
+6: o   preço(preço)_n   ainda   é   salgado    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4))'), s('elaboration(n(5), s(6))'));

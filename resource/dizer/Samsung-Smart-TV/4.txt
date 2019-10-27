@@ -1,0 +1,16 @@
+Segments:
+1: Propaganda   enganosa     São   01:(01:)_num   53  ,
+2: acabei   de   tentar   comprar   essa   tv   em   o   shoptime   por   o   valor   que   é   informado   por   o   BUSCAPE   de  R$(R$)_prop 3.239,35(3.239,35)_prop   em   o   boleto   bancario(bancario)_adj
+3: e   atendente   de   o   televendas   me   falou   q   não   consegue   me   fazer   por   esse   preço(preço)_n  .  
+4: é   uma   piada  ,
+5: não   é   mesmo  .    
+6: O   Shoptime   expõe   um   preço(preço)_n   pra   enganar   o   cliente(cliente)_n
+7: e   em   a   hora   de   a   compra  ,   diz   q   não   tem   como   fazer   este   valor  .    
+8: Então   não   informe(informar)_v-fin
+9: que   o   produto   está   com   10   %(%)_n   de   desconto   em   o   boleto  .    
+10: O  Nome De isso  É(É)_prop Propaganda Enganosa  ,   Vamos   Ter   Mais  Respeito Por o Consumidor  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !    
+11: O   que   gostei  :  
+12: excelente     O   que   não   gostei  :  
+13: Valor   muito   alto    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'))'), s('elaboration(n(6), s(7))'))'), s('elaboration(n(8), s(9))'))'), s(10))'), s('elaboration(n(11), s(12))'))'), s(13));

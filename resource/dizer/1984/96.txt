@@ -1,0 +1,19 @@
+Segments:
+1: Dou   meus   parabéns   para   quem   consegue   ler  mais de   um   capítulo   de   1984   de   uma   sentada   só  .    
+2: Porque  apesar de   ser   um   livro   com   uma   história   muito   boa(bom)_adj
+3: e   interessante  ,   ele   é   extremamente   monótono  .    
+4: A   verdade   é(ser)_v-fin
+5: que   1984   não   tem   uma   história   pra   contar  .    
+6: A   o   contrário   de  Laranja Mecânica  ,   onde   o   personagem   principal   em   os   mostra   um   mundo   decadente   através   de   sua   história   de   adolescente   rebelde   sem   causa   que   é   preso  ,
+7: aqui   temos   um   personagem   principal   que   poderia   ser  qualquer um  ,
+8: afinal   o   que   importa   é   a   situação(situação)_n   de   a   humanidade   vivendo   em   um   mundo   totalitarista  .    
+9: E   é   apenas   isso   que   o   livro   nos   mostra  ,
+10: como   o   mundo   vai   ser   se   continuar   indo   por   o   caminho   que   vem   seguindo  ,
+11: ou   ia   seguindo   antes   de   1984  .    
+12: hehehehe  Outra coisa   também   diferente   de   seu  &quot;   livro-irmão  &quot;  é que   em  Laranja Mecânica  ,  todo o   linguajar   usado   por   os   jovens   é   compreensível   mesmo   sem   a   ajuda   de   o   glossário   embutido   em   a   versão   nacional  ,
+13: enquanto que   a   novilíngua   é   incompreensível  ,
+14: se bem que   pensando   agora  ,
+15: acho(achar)_v-fin
+16: que   é   justamente   o   objetivo   de   o   autor  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('explanation(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n(4), s(5))'))'), s('elaboration(n('elaboration(n(6), s(7))'), s(8))'))'), s('elaboration(n('elaboration(n(9), s(10))'), s(11))'))'), s('condition(n('list(n(12), n('elaboration(n('condition(n(13), s(14))'), s(15))'))'), s(16))'));

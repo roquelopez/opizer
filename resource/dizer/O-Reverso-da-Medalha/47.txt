@@ -1,0 +1,29 @@
+Segments:
+1: Diamantes     Os   diamantes   resistem   a   golpes(golpe)_n
+2: de tal maneira que   um   martelo  de ferro   pode   rachar   em   dois(dois)_num
+3: e   a   própria   bigorna   pode   ficar   abalada  .    
+4: Essa   força(força)_n   invencível  ,
+5: que   desafia   as   duas   forças(força)_n   mais   violentas   de   a   Natureza  ,   o   ferro(ferro)_n
+6: e   o   fogo  ,   pode   ser   quebrada   por   sangue   de   carneiro  .    
+7: Mas   deve   ser   embebida   em   sangue   que   seja   fresco   e   quente  ;  
+8: mesmo assim  ,   muitos   golpes   são   necessários  .    ¬  
+9: Plínio   o   Velho  ¬  Jamie McGregor   era   um   garoto   que   almejava   muito  ,
+10: e   com   muito   suor   conseguiu  tudo o que   queria  .    
+11: Foi   traido   por   alguém   que   se   disse   amigo(amigo)_n
+12: e   ofereceu   ajuda  .    
+13: Foi   deixado   a   a  mercê de   a   morte  .    
+14: Mas   consegui   dar   a   volta  por cima   com   a   ajuda   de   seu   amigo   Banda  .    
+15: Mas  todo o   ódio   que   ele   alimentou(alimentar)_v-fin
+16: para   exercer   sua   vingança(vingança)_n   não   abandonou   mais   seu   coração(coração)_n  ,
+17: e   o   tornou   cruel  para com   aqueles   que   o   amavam  ,   Margarete  por exemplo  .    
+18: Só   depois   de   ver   o   filho  é que   seu   coração(coração)_n   se   deixou   quebrantar  .    
+19: Por   três   gerações(geração)_n   é   repassada   a   herança(herança)_n   de   os   McGregors  .    
+20: A   geração(geração)_n   Bleckwell   tornou   a   herança(herança)_n   ainda   maior  ,
+21: internacionalizando   a   Empresa   Kruger-Brent  ,
+22: e   o   fez   uma   de   as   famílias   mais   ricas   de   o   mundo  .    
+23: Mas   o   ódio  ,   a   maldade   e   o   egoísmo   está   sempre   envolto   de   essa   família  ,
+24: mostrando(mostrar)_v-ger
+25: que   nem   sempre   toda   uma   riqueza   pode   trazer   a   paz  ,   o   amor(amor)_n
+26: e   a   felicidade   que   se   deseja  .    
+Trees:
+antithesis(n('elaboration(n('elaboration(n('elaboration(n('antithesis(n('antithesis(n('elaboration(n('elaboration(n('elaboration(n('antithesis(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n('elaboration(n(4), s(5))'), s(6))'))'), s('concession(n(7), s(8))'))'), s('elaboration(n(9), s(10))'))'), s('elaboration(n(11), s(12))'))'), s(13))'), s(14))'), s('elaboration(n('elaboration(n(15), s(16))'), s(17))'))'), s(18))'), s(19))'), s('elaboration(n('elaboration(n(20), s(21))'), s(22))'))'), s('elaboration(n('elaboration(n('elaboration(n(23), s(24))'), s(25))'), s(26))'));

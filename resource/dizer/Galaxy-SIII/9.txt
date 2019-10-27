@@ -1,0 +1,5 @@
+Segments:
+1: é   de   o   paraguai  
+2: não   recomendo   pois   esse   produto   é   de   o   paraguai   não   funciona   como   deveria   nunca   consegui   acessar   a   internet  .    
+Trees:
+elaboration(n(1), s(2));

@@ -1,0 +1,21 @@
+Segments:
+1: Surreal     Saramago   explora   a   fantasia   atrelada   a   cegueira   de   uma   maneira   muito   doida  .    
+2: Ela   alastra  ¬
+3: se   de   maneira   exponencial  .    
+4: Começa(começar)_v-fin   com   um   motorista   em   o   sinal(sinal)_n
+5: e   termina   com   toda   população(população)_n   de   uma   cidade  .    
+6: Exceto   a   esposa   de   um   oftalmologista(oftalmologista)_n
+7:    ironia  )  .
+8: Null  
+9: A   leitura   terá   um   caráter   muito   pessoal  .    
+10: Cada   leitor   irá   comparar   essa   cegueira   com   a   visão   de   mundo   que  cada um   tem  .    
+11: Essa   edição(edição)_n   que   adqueri   tem   os   diálogos   separados   apenas   por   vírgulas  ,
+12: o   que   dificulta   o   entendimento  .    
+13: Os   personagens   não   tem   nome  ,   apenas   apelidos(apelido)_n
+14:    motorista  ,   rapariga   de   óculos  ,   mulher   de   o   médico  ,   etc.(etc.)_adv  )  .
+15: Null 
+16: O   romance   é   permeado   por   ditos   populares   e   provérbios  .    
+17: A   maneira   como   Saramago   conduz   a   história   tem   sua   marca  :  
+18: simplicidade  .    Mesmo assim  ,   não   chegou   a   me   impressionar   com   obra   de   5   estrelas  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('condition(n(2), s(3))'))'), s('elaboration(n(4), s(5))'))'), s('purpose(n('cause(n(6), s(7))'), s(8))'))'), s(9))'), s(10))'), s('elaboration(n(11), s(12))'))'), s('purpose(n('cause(n(13), s(14))'), s(15))'))'), s(16))'), s('elaboration(n(17), s(18))'));

@@ -1,0 +1,5 @@
+Segments:
+1: Um   clássico   de  Sidney Sheldon     Fantástica   história  ,   a   forma   como   os   personagens   se   desenvolvem  .    
+2: Prende   de   o   início   a   o   fim  .    
+Trees:
+elaboration(n(1), s(2));

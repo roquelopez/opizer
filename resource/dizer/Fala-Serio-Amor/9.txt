@@ -1,0 +1,9 @@
+Segments:
+1: O   livro   conta   sobre   uma   menina(menina)_n
+2:    desde   os   seus   seis  ,   sete   anos   ate   os   21   e   um   anos  )
+3: com   os   seus   namorados   e   suas   loucas   aventuras  .    
+4: Para  todas as   suas   perguntas   ela   tinha   uma   resposta  :  &quot;  
+5: Fala   Sério  ,   Amor  !  &quot;    
+6: É   otimo   vale   a   pena   ler  .    
+Trees:
+elaboration(n('elaboration(n('purpose(n('cause(n(1), s(2))'), s(3))'), s('elaboration(n(4), s(5))'))'), s(6));

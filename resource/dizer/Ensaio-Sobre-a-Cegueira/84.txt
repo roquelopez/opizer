@@ -1,0 +1,10 @@
+Segments:
+1: O   que   você   faria  ?    
+2: Esse   não   é   um   mero   romance  .    
+3: É   um   ensaio   sobre   a   cegueira   de   o   homem   Sobre   A   Sua  Própria Natureza  .    
+4: Esse   livro   pinta   uma   ficção(ficção)_n   onde   os   homens   viveriam   em   um   lugar   onde   o   sistema   não   existe  ,
+5: onde   o   poder   de   o   mais   forte   impera  .    
+6: É   um   livro   muito   doloroso  ,   mas   magnífico   a   o   mesmo   tempo  .    
+7: Recomendadíssimo  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('circumstance(n(4), s(5))'))'), s(6))'), s(7));

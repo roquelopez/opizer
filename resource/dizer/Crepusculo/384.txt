@@ -1,0 +1,13 @@
+Segments:
+1: Horrível     Acho(achar)_v-fin
+2: que   este   livro   não   merece  nem mesmo   uma   estrela  .    
+3: Em   a   verdade  ,   não   consegui(conseguir)_v-fin
+4: nem   ler   o   primeiro   capítulo  ,
+5: porque   a   história   é   muito   chata(chato)_adj
+6: e  ,
+7: para   piorar  ,
+8: a   personagem   principal(principal)_adj
+9:    Bella  )
+10: é   muito   fútil   e   superficial  .    
+Trees:
+elaboration(n('elaboration(n(1), s(2))'), s('justify(n('cause(n('elaboration(n(3), s('cause(n(4), s(5))'))'), s(6))'), s('purpose(n('elaboration(n(7), s('cause(n(8), s(9))'))'), s(10))'))'));

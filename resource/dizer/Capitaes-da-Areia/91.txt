@@ -1,0 +1,7 @@
+Segments:
+1: um   de   os   melhores   livros  !    
+2: O   livro   torna   o   leitor   íntimo   de   as   pequenas   criaturas  ,   cada   uma   de   elas   com   suas   carências(carência)_n
+3: e   ambições(ambição)_n  ¬   de   o  líder Pedro Bala   a   o   religioso   Pirulito  ,   de   o   ressentido   e   cruel   Sem-Pernas   a   o   aprendiz   de   cafetão   Gato  ,   de   o   sensato   Professor   a   o   rústico   sertanejo  Volta Seca  .    
+4: Com   a   força(força)_n   de   sua   prosa  ,  Jorge Amado   aproxima   o   leitor   de   esses   garotos   e   de   o   desejo   de   liberdade    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4));

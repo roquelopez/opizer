@@ -1,0 +1,29 @@
+Segments:
+1: Galaxy SIII  ,   comprei(comprar)_v-fin
+2: e   me   arrependi     Minha   experiência   com   este   modelo   me   leva   a   não   recomendas-   lo   de   forma   alguma    O que   gostei  :  
+3: Com   certeza   este   aparelho   possui   a   melhor   adaptação(adaptação)_n   de   o   Android   4.0(4.0)_num   para   Smarthphones  ,
+4: aliado   com   uma   boa   bateria   se   comparado   com   seus   concorrentes  ,   e   um   desingn   fantastico  .    
+5: O   que   não   gostei  :  
+6: Comprei   um   aparelho   a   duas   semanas(semana)_n
+7: e   estou   me   desfazendo   de   ele   hoje  .    
+8: O   motivo  ?  
+9: Simples  ,   como   trabalho   em   a   area   de   telefonia   conheço   um   aparelho   com   potencial(potencial)_n
+10: para   dar  dor de cabeça(cabeça)_n  ,
+11: em   o   lançamento(lançamento)_n   tive   mais   6   amigos   que   adquiriram   o   produto  ,
+12: de   eles   apenas   o   meu(meu)_pron-poss
+13: e   de   um   outro   amigo   não   apresentaram   problemas  ,
+14: o   mais   grave   de   todos   é   sua   fragilidade  ,
+15: se   você   não   consegue   manter   um   ovo   em   o   bolso   sem   quebrar-   lo  ,
+16: não   recomendo(recomendar)_v-fin
+17: que   leve   este   aparelho  ,
+18: pois   em   dois   casos   o   aparelho   de   uma   altura   minima(mínimo)_adj
+19:    sei(saber)_v-fin
+20: que   smartphone   não   foi   feito   p(p)_n
+21: /($/)_conj-c   cair  )
+22: mas   em   3   casos   o   aparelho   se   despedaçou(despedaçar)_v-fin   em   a   primeira   semana   de   utilização(utilização)_n  .    
+23: Por   isso   estou   voltando   para   os   confiaveis   Motorolas  .  
+24: Vou   ficar   com   o  Motorola Razr(Razr)_prop
+25: que  apesar de   ficar   um   pouquinho   p(p)_n
+26: /($/)_conj-c   trás   em   tecnologia  ,   é   muito   mais   confiavel   e   resistente  .    
+Trees:
+cause(n('cause(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n(5), s('elaboration(n(6), s(7))'))'))'), s('elaboration(n(8), s('elaboration(n(9), s('elaboration(n(10), s('elaboration(n(11), s('elaboration(n(12), s('elaboration(n(13), s('elaboration(n(14), s('elaboration(n('elaboration(n('condition(n(15), s(16))'), s('cause(n(17), s(18))'))'), s('elaboration(n('purpose(n(19), s(20))'), s('concession(n(21), s(22))'))'))'))'))'))'))'))'))'))'))'), s('elaboration(n('contrast(n(23), n('contrast(n(24), n(25))'))'), s(26))'));

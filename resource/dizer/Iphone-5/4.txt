@@ -1,0 +1,17 @@
+Segments:
+1: IPhone   5     Insuperável  !  
+2: Sou   advogada(advogar)_v-pcp
+3: e   preciso   carregar  o maior número   de   informações(informação)_n
+4: e   ter   acesso   a  todos os   recursos   possíveis(possível)_adj
+5: e   o   IPhone   5   é   praticamente   a   extensão   de   meu   escritório  .    
+6: Tenho   á   disposição(disposição)_n   os   aplicativos(aplicativo)_n
+7: para   consultar   os   processos   em   quase  todos os   tribunais  ,
+8: acesso   as   minhas   contas   bancárias  ,
+9: aplicativos   de   trânsito   que   permitem   evitar   engarrafamentos(engarrafamento)_n
+10: e   perda   de   tempo  ,
+11: enfim  ,
+12: se   eu   fosse   colocar  tudo o que   este   aparelho   faz   não   haveria   espaço(espaço)_n  .    
+13: Simplesmente   fantástico  !  
+14: Eu   recomendo  !    
+Trees:
+elaboration(n('enablement(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'))'), s('enablement(n(6), s('enablement(n('enablement(n(7), s('elaboration(n('enablement(n(8), s(9))'), s(10))'))'), s('condition(n(11), s(12))'))'))'))'), s('elaboration(n(13), s(14))'));

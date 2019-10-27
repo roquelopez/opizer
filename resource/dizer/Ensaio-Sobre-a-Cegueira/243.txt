@@ -1,0 +1,17 @@
+Segments:
+1: Cego   Aderaldo     Meu   contato   com   os   dramas   de   a   cegueira   propriamente   dita   aconteceu   a   o   ler   a   biografia   de  Cego Aderaldo(Aderaldo)_prop
+2: e   ler   o   seu   emocionante   poema  &quot;   As   três   lagrimas  &quot;  .    
+3: Depois   de   isso   foi   minha   propria   cegueira   em   as   relações(relação)_n   de   a   vida(vida)_n
+4: e   em   a   cegueira   de   os   outros  ,
+5: que   sempre   vi   mais   de  o que   a   minha  .    
+6: O   livro   de   Saramago   é   espetacular  .    
+7: Como   outros   livros   de   o   mesmo   estilo(estilo)_n
+8:   Jangada de Pedra e   As   intermitencias   de   a   Morte  )  ,
+9: ele   parte   de   um   acontecimento   absurdo   e   depois   explora  todas as   consequencias(consequenciar)_v-fin
+10: que   são   perfeitamente   plausiveis  .    
+11: Em   os   livros   de   Saramago  ,   voce   encontra   historia  ,   profundo   conhecimento   de   as   virtudes(virtude)_n
+12: e   fraquezas   humanas  ,   encontra   frases   de   profundo   significado  ,   etc.(etc.)_adv  .  
+13: Todos   somos   cegos(cego)_adj
+14: mas   podemos   voltar   a   enxergar  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('sequence(n('elaboration(n(1), s(2))'), n('elaboration(n('elaboration(n(3), s(4))'), s(5))'))'), s(6))'), s('purpose(n('purpose(n('cause(n(7), s(8))'), s(9))'), s(10))'))'), s('elaboration(n('elaboration(n(11), s(12))'), s('concession(n(13), s(14))'))'));

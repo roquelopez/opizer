@@ -1,0 +1,6 @@
+Segments:
+1: Amigo   É   Pra   Toda  Vida E   Poucos   Tem   Essa   Sorte   De   Ter   Uma   Pessoa   Que   Esteja   Alí   Para   Te   Apoiar   Em   Os   Momentos   Difíceis  .    
+2: Tem   Aquela  Amiga Companheira  ,   Irmã  ,   Prima  .    
+3: Mas  Todas Elas   Tem   O   Seu  Jeito Carinhoso De Em Os   Fazer   Feliz  .    
+Trees:
+antithesis(n('elaboration(n(1), s(2))'), s(3));

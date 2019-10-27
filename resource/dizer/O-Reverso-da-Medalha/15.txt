@@ -1,0 +1,30 @@
+Segments:
+1: O   reverso   de   a   medalha   foi   o   primeiro   livro   de  Sydney Sheldon   que   tive   contato  ,
+2: foi   uma   boa   primeira   impressão  ,
+3: o   livro   consegue   te   deixar   ansioso   boa   parte   de   o   tempo  ,
+4: querendo   saber   vai   ser   o   próximo   golpe   que   os   Blackwell   vão   planejar  ,
+5: seja   em   os   negócios   ou  dentro de   a   sua   caótica   família  .    
+6: O   livro   conta   a   historia   de   cinco   gerações(geração)_n   de   a   família   Blackwell  ,
+7: desde   o   aventureiro   Jamie   McGregor  ,
+8: que   saiu   praticamente   sem   nada   para   se   tornar   um   garimpeiro   em   a  África(África)_prop do Sul   até   o   jovem   Robert  ,
+9: herdeiro   de   um   império  ,
+10: e  apesar de   todo   seu   legado(legado)_n
+11: e   fortuna   existe   algo   de   peculiar  por trás   de   uma   de   as   famílias   mais   poderosas   de   o   mundo  ,
+12: pois   mesmo   possuindo   tudo   eles   acabam   insatisfeitos  ,
+13: incompletos  !    
+14: O   livro   se   divide   em   arcos   mostrando   os   anos(ano)_n
+15: e  em torno de   quem   a   historia   vai   girar  ,
+16: devo   dizer(dizer)_v-inf
+17: que   meus   favoritos   foram   os   que   envolveram  Jamie McGregor  ,   Kate(Kate)_prop
+18:    jovem  )
+19: e   Tony  .    
+20: Tony   foi   um   personagem   que   não   dava   nada  ,
+21: mas   acabou   se   tornando   meu   favorito  ,
+22: ele   foi   o   primeiro   a   lutar   contra   a   maldição(maldição)_n   que   é   o   peso   de   a   corporação(corporação)_n   Blackwell  ,
+23: e   talvez   o   que   sofreu   mais   com   isso  .    
+24: Entretanto  todos os   arcos   conseguem   te   prender   a   o   livro(livro)_n
+25: e   as   paginas   simplesmente   voam  !    
+26: Depois   de   O  Reverso da Medalha   eu   definitivamente   pretendo   ler   mais   obras   de   o  Sydney Sheldon  ,
+27: fica   a   recomendação(recomendação)_n   pra   quem   se   interessar   também  !    
+Trees:
+sequence(n('antithesis(n('elaboration(n('elaboration(n('contrast(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), s(5))'), n('cause(n(6), s('cause(n(7), s('cause(n(8), s('cause(n('elaboration(n('contrast(n(9), n(10))'), s('cause(n(11), s(12))'))'), s(13))'))'))'))'))'), s('cause(n(14), s('cause(n(15), s('purpose(n('elaboration(n(16), s('cause(n(17), s(18))'))'), s(19))'))'))'))'), s('elaboration(n('elaboration(n('concession(n(20), s(21))'), s(22))'), s(23))'))'), s('elaboration(n(24), s(25))'))'), n('elaboration(n(26), s(27))'));

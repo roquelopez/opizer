@@ -1,0 +1,10 @@
+Segments:
+1: A   história   tem   vários   furos(furo)_n
+2: e  ,
+3: se   você   parar   pra   pensar  ,
+4: é   só   mais   um   romancezinho   americano   sem   sal  ,   com   a   menininha   bonita  ,
+5: mas   tímida  ,
+6: que   faz   de   tudo   pra   ser   invisível   e   o   cara  &quot;   perfeito  &quot;  .    
+7: Livro   bem   chatinho  .    
+Trees:
+elaboration(n('elaboration(n(1), s('condition(n('condition(n(2), s(3))'), s('elaboration(n('concession(n(4), s(5))'), s(6))'))'))'), s(7));

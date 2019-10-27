@@ -1,0 +1,18 @@
+Segments:
+1: Ganhei   de   uma   vizinha  !    
+2: Confesso(confessar)_v-fin
+3: que   não   compraria  ,
+4: até(até)_adv
+5: porque   não   gostei   de  `   Fala   sério  ,   amor  !  '  .    
+6: Mas   esse(esse)_pron-dem
+7: até   que   é   bem   legal   de   ler  .    
+8: Me   identifiquei   com   algumas   coisas  ,
+9: achei   outras   bastante   forçadas(forçar)_v-pcp
+10: e   achei(achar)_v-fin
+11: que   o   livro   é   meio(meio)_adv
+12: que   uma   autobiografia   de   a   Thalita   disfarçada(disfarçar)_v-pcp  .    
+13: Até   que   me   arrancou   algumas   risadaa  .  
+14: Null  
+15: poucas  )    
+Trees:
+Null

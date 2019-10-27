@@ -1,0 +1,9 @@
+Segments:
+1: Faltou   o   clímax  .    
+2: É   um   livro   bem   escrito  ,
+3: mas   sempre   parece(parecer)_v-fin
+4: que   algo   está   prestes   a   acontecer(acontecer)_v-inf
+5: e   Nada   acontece  .    
+6: Me   frustrei  .    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('concession(n(2), s(3))'), s(4))'), s(5))'))'), s(6));

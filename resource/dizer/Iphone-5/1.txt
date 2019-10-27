@@ -1,0 +1,10 @@
+Segments:
+1: Quero   ter   um  !    
+2: Parece   ser   um   excelente   produto  .    
+3: Pena   que   em   o   Brasil   os   impostos   sejam   tão   caros  .    
+4: O   que   gostei  :  
+5: Tem   tudo   que   precisamos  .    
+6: O   que   não   gostei  :  
+7: O   preço(preço)_n  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n(4), s(5))'))'), s('elaboration(n(6), s(7))'));

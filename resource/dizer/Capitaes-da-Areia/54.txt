@@ -1,0 +1,21 @@
+Segments:
+1: Resenha   de  &quot;  Capitães de Areia  &quot;    &quot;  Capitães da Areia  &quot;   é   um   drama   brasileiro   contado   para   o  Jorge Amado(Amado)_prop
+2: e   publicado   em   1937  .    
+3: A   história   conta   com   a   realidade   vida   de   um   grupo   de   jovens   sem   famílias   que   vivem   em   um   armazém   abandonado   em   a   praia   de   Salvador  .    
+4: Estes   moradores   de   rua  ,   menores   de   idades   enfrentam   as   preocupações(preocupação)_n   sociais   como   qualquer   marginal  .    
+5: O   grupo   que   chegava   a   quase   cem   integrantes   contava   com   um  &quot;   líder  &quot;  ,
+6: Pedro Bala  ,
+7: que  apesar de   jovem  ,   comandava(comandar)_v-fin
+8: e   cuidava   de   as   crianças(criança)_n   ali   existentes  ,
+9: prometendo  ¬   lhes   sempre   um   lar  .    
+10: Sempre   em   busca   de   superações(superação)_n  ,   o   livro   nos   traz   a   verdadeira   história   narrada   em   histórias   objetivas  ,
+11: que   até   hoje   são   a   verdadeira   realidade  .    
+12: A   narrativa   nos   surpreende   com   o   decorrer   de   os   fatos  ,
+13: e   aparição(aparição)_n   de   novas   personagens   que   deixarão   sua   marca   em   a   envolvente   história  .    
+14: Um   livro   consagrado   por  Jorge Amado  ,
+15: escritor   muito   reconhecido  ,   seu   livro  ,
+16: que   permanece   importante   em   a   literatura   Brasileira   até   hoje  ,
+17: promete   ficar   por   muitos   e   muitos   anos  .    
+18: Jennifer Salvione  ,   1°(1°)_num   vermelho  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('contrast(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), n('contrast(n('contrast(n('elaboration(n(5), s('contrast(n(6), n(7))'))'), n(8))'), n(9))'))'), s('elaboration(n(10), s(11))'))'), s('elaboration(n(12), s(13))'))'), s('elaboration(n('elaboration(n('elaboration(n(14), s(15))'), s(16))'), s(17))'))'), s(18));

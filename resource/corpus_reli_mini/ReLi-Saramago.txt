@@ -1,0 +1,965 @@
+[features = word, pos, object, opinion, polarity, help]
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_0
+#Nota_3.0
+#Título_0
+Surreal	NPROP	O	O	O	O
+
+#Corpo_0
+Saramago	NPROP	O	O	O	O
+explora	V	O	O	O	O
+a	ART	O	O	O	O
+fantasia	N	O	O	O	O
+atrelada	PCP	O	O	O	O
+a	PREP	O	O	O	O
+cegueira	N	O	O	O	O
+de	PREP	O	O	O	O
+uma	ART	O	O	O	O
+maneira	N	O	O	O	O
+muito	ADV	O	O	O	O
+doida	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+Ela	PROPESS	O	O	O	O
+alastra	V	O	O	O	O
+-	-	O	O	O	O
+se	PROPESS	O	O	O	O
+de	PREP	O	O	O	O
+maneira	N	O	O	O	O
+exponencial	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+Começa	V	O	O	O	O
+com	PREP	O	O	O	O
+um	ART	O	O	O	O
+motorista	N	O	O	O	O
+em	PREP	O	O	O	O
+o	ART	O	O	O	O
+sinal	N	O	O	O	O
+e	KC	O	O	O	O
+termina	V	O	O	O	O
+com	PREP	O	O	O	O
+toda	PROADJ	O	O	O	O
+população	N	O	O	O	O
+de	PREP	O	O	O	O
+uma	ART	O	O	O	O
+cidade	N	O	O	O	O
+.	.	O	O	O	O
+
+Exceto	V	O	O	O	O
+a	ART	O	O	O	O
+esposa	N	O	O	O	O
+de	PREP	O	O	O	O
+um	ART	O	O	O	O
+oftalmologista	N	O	O	O	O
+(	(	O	O	O	O
+ironia	N	O	O	O	O
+)	)	O	O	O	O
+.	.	O	O	O	O
+
+A	ART	O	O	O	O
+leitura	N	O	O	O	O
+terá	V	O	O	O	O
+um	ART	O	O	O	O
+caráter	N	O	O	O	O
+muito	ADV	O	O	O	O
+pessoal	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+Cada	PROADJ	O	O	O	O
+leitor	N	O	O	O	O
+irá	VAUX	O	O	O	O
+comparar	V	O	O	O	O
+essa	PROADJ	O	O	O	O
+cegueira	N	O	O	O	O
+com	PREP	O	O	O	O
+a	ART	O	O	O	O
+visão	N	O	O	O	O
+de	PREP	O	O	O	O
+mundo	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+cada	PROADJ	O	O	O	O
+um	PROSUB	O	O	O	O
+tem	V	O	O	O	O
+.	.	O	O	O	O
+
+Essa	PROADJ	O	O	-	O
+edição	N	O	O	-	O
+que	PRO-KS-REL	O	O	-	O
+adqueri	V	O	O	-	O
+tem	V	O	O	-	O
+os	ART	O	O	-	O
+diálogos	N	OBJ01	O	-	O
+separados	PCP	OBJ01	O	-	O
+apenas	PDEN	OBJ01	O	-	O
+por	PREP	OBJ01	O	-	O
+vírgulas	N	OBJ01	O	-	O
+,	,	O	O	-	O
+o	PRO-KS	O	O	-	O
+que	PRO-KS	O	O	-	O
+dificulta	V	O	op01-	-	O
+o	ART	O	op01-	-	O
+entendimento	N	O	op01-	-	O
+.	.	O	O	-	O
+
+Os	ART	O	O	O	O
+personagens	N	O	O	O	O
+não	ADV	O	O	O	O
+tem	V	O	O	O	O
+nome	N	O	O	O	O
+,	,	O	O	O	O
+apenas	PDEN	O	O	O	O
+apelidos	N	O	O	O	O
+(	(	O	O	O	O
+motorista	N	O	O	O	O
+,	,	O	O	O	O
+rapariga	N	O	O	O	O
+de	PREP	O	O	O	O
+óculos	N	O	O	O	O
+,	,	O	O	O	O
+mulher	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+médico	N	O	O	O	O
+,	,	O	O	O	O
+etc.	PDEN	O	O	O	O
+)	)	O	O	O	O
+.	.	O	O	O	O
+
+O	ART	O	O	O	O
+romance	N	O	O	O	O
+é	VAUX	O	O	O	O
+permeado	PCP	O	O	O	O
+por	PREP	O	O	O	O
+ditos	N	O	O	O	O
+populares	ADJ	O	O	O	O
+e	KC	O	O	O	O
+provérbios	N	O	O	O	O
+.	.	O	O	O	O
+
+A	ART	O	O	O	O
+maneira	N	O	O	O	O
+como	ADV-KS-REL	O	O	O	O
+Saramago	NPROP	O	O	O	O
+conduz	V	O	O	O	O
+a	ART	O	O	O	O
+história	N	O	O	O	O
+tem	V	O	O	O	O
+sua	PROADJ	O	O	O	O
+marca	N	O	O	O	O
+:	:	O	O	O	O
+simplicidade	N	O	O	O	O
+.	.	O	O	O	O
+
+Mesmo	PDEN	O	O	-	O
+assim	PDEN	O	O	-	O
+,	,	O	O	-	O
+não	ADV	O	op00-	-	O
+chegou	V	O	op00-	-	O
+a	PREP	O	op00-	-	O
+me	PROPESS	O	op00-	-	O
+impressionar	V	O	op00-	-	O
+com	PREP	O	op00-	-	O
+obra	N	O	op00-	-	O
+de	PREP	O	op00-	-	O
+5	NUM	O	op00-	-	O
+estrelas	N	O	op00-	-	O
+.	.	O	O	-	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_27
+#Nota_5.0
+#Título_27
+Vontade	N	O	O	+	O
+de	PREP	O	O	+	O
+gritar	V	O	O	+	O
+,	,	O	O	+	O
+chorar	V	O	O	+	O
+,	,	O	O	+	O
+bater	V	O	O	+	O
+e	KC	O	O	+	O
+ler	V	O	op00+	+	O
+de	ADV	O	op00+	+	O
+novo	ADV	O	op00+	+	O
+!	!	O	O	+	O
+
+#Corpo_27
+Gostei	V	O	O	O	O
+tanto	KC	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+de	PREP	O	O	O	O
+José	NPROP	O	O	O	O
+Saramago	NPROP	O	O	O	O
+quanto	KC	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+filme	N	O	O	O	O
+dirigido	PCP	O	O	O	O
+por	PREP	O	O	O	O
+Meirelles	NPROP	O	O	O	O
+!	!	O	O	O	O
+
+Claro	ADJ	O	O	O	O
+que	KS	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+é	V	O	O	O	O
+sempre	ADV	O	O	O	O
+melhor	ADV	O	O	O	O
+,	,	O	O	O	O
+pois	KC	O	O	O	O
+nada	PROSUB	O	O	O	O
+é	V	O	O	O	O
+tão	ADV	O	O	O	O
+bom	ADJ	O	O	O	O
+e	KC	O	O	O	O
+poderoso	ADJ	O	O	O	O
+quanto	KC	O	O	O	O
+nossa	PROADJ	O	O	O	O
+imaginação	N	O	O	O	O
+.	.	O	O	O	O
+
+Ambos	PROSUB	O	O	O	O
+em	PREP	O	O	O	O
+os	ART	O	O	O	O
+fazem	V	O	O	O	O
+ter	V	O	O	O	O
+vontade	N	O	O	O	O
+de	PREP	O	O	O	O
+gritar	V	O	O	O	O
+,	,	O	O	O	O
+chorar	V	O	O	O	O
+,	,	O	O	O	O
+bater	V	O	O	O	O
+e	KC	O	O	O	O
+ler	V	O	O	O	O
+de	ADV	O	O	O	O
+novo	ADV	O	O	O	O
+!	!	O	O	O	O
+
+A	ART	O	O	O	O
+obra	N	O	O	O	O
+mostra	V	O	O	O	O
+como	KS	O	O	O	O
+pode	VAUX	O	O	O	O
+ser	V	O	O	O	O
+sujo	ADJ	O	O	O	O
+e	KC	O	O	O	O
+grotesco	V	O	O	O	O
+o	ART	O	O	O	O
+caráter	N	O	O	O	O
+de	PREP	O	O	O	O
+os	ART	O	O	O	O
+homens	N	O	O	O	O
+,	,	O	O	O	O
+apresenta	V	O	O	O	O
+o	ART	O	O	O	O
+quanto	KC	O	O	O	O
+as	ART	O	O	O	O
+pessoas	N	O	O	O	O
+precisam	V	O	O	O	O
+de	PREP	O	O	O	O
+um	ART	O	O	O	O
+referencial	N	O	O	O	O
+(	(	O	O	O	O
+ideológico	ADJ	O	O	O	O
+,	,	O	O	O	O
+religioso	ADJ	O	O	O	O
+,	,	O	O	O	O
+utópico	ADJ	O	O	O	O
+)	)	O	O	O	O
+para	PREP	O	O	O	O
+ter	V	O	O	O	O
+um	PROSUB	O	O	O	O
+rumo	PREP	O	O	O	O
+,	,	O	O	O	O
+o	ART	O	O	O	O
+quanto	PRO-KS	O	O	O	O
+somos	V	O	O	O	O
+pequenos	ADJ	O	O	O	O
+e	KC	O	O	O	O
+vazios	ADJ	O	O	O	O
+a	PREP	O	O	O	O
+o	ART	O	O	O	O
+apresentar	V	O	O	O	O
+a	ART	O	O	O	O
+degradação	N	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+sensibilidade	N	O	O	O	O
+humana	ADJ	O	O	O	O
+...	...	O	O	O	O
+O	ART	O	O	O	O
+fio	N	O	O	O	O
+de	PREP	O	O	O	O
+esperança	N	O	O	O	O
+está	V	O	O	O	O
+em	PREP	O	O	O	O
+a	ART	O	O	O	O
+corrente	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+bem	N	O	O	O	O
+e	KC	O	O	O	O
+em	PREP	O	O	O	O
+querer	V	O	O	O	O
+se	PROPESS	O	O	O	O
+compartilhar	V	O	O	O	O
+o	ART	O	O	O	O
+pequeno	ADJ	O	O	O	O
+suspiro	N	O	O	O	O
+de	PREP	O	O	O	O
+bondade	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+existe	V	O	O	O	O
+.	.	O	O	O	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_54
+#Nota_5.0
+#Título_54
+Um	ART	O	O	O	O
+livro	N	O	O	O	O
+para	PREP	O	O	O	O
+refletir	V	O	O	O	O
+
+#Corpo_54
+Em	PREP	O	O	O	O
+síntese	N	O	O	O	O
+,	,	O	O	O	O
+a	ART	O	O	O	O
+história	N	O	O	O	O
+fala	V	O	O	O	O
+sobre	PREP	O	O	O	O
+uma	ART	O	O	O	O
+cegueira	N	O	O	O	O
+branca	ADJ	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+atinge	V	O	O	O	O
+a	ART	O	O	O	O
+humanidade	N	O	O	O	O
+a	PREP	O	O	O	O
+os	ART	O	O	O	O
+poucos	PROSUB	O	O	O	O
+levando	V	O	O	O	O
+-	-	O	O	O	O
+a	PREP	O	O	O	O
+perder	V	O	O	O	O
+todos	PROADJ	O	O	O	O
+os	ART	O	O	O	O
+traços	N	O	O	O	O
+de	PREP	O	O	O	O
+civilidade	N	O	O	O	O
+.	.	O	O	O	O
+
+O	PROSUB	O	O	O	O
+que	PROSUB	O	O	O	O
+passa	VAUX	O	O	O	O
+a	PREP	O	O	O	O
+ver	V	O	O	O	O
+é	V	O	O	O	O
+a	ART	O	O	O	O
+lei	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+mais	ADV	O	O	O	O
+forte	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+É	V	O	O	+	O
+um	ART	O	O	+	O
+livro	N	OBJ00	O	+	O
+que	PRO-KS-REL	O	O	+	O
+prendeu	V	O	op00+	+	O
+minha	PROADJ	O	op00+	+	O
+atenção	N	O	op00+	+	O
+de	PREP	O	op00+	+	O
+o	ART	O	op00+	+	O
+começo	N	O	op00+	+	O
+a	PREP	O	op00+	+	O
+o	ART	O	op00+	+	O
+fim	N	O	op00+	+	O
+e	KC	O	O	+	O
+me	PROPESS	O	O	+	O
+fez	V	O	O	+	O
+refletir	V	O	O	+	O
+bastante	ADV	O	O	+	O
+sobre	PREP	O	O	+	O
+o	ART	O	O	+	O
+assunto	N	O	O	+	O
+proposto	PCP	O	O	+	O
+por	PREP	O	O	+	O
+o	ART	O	O	+	O
+autor	N	O	O	+	O
+,	,	O	O	+	O
+que	KS	O	O	+	O
+a	ART	O	O	+	O
+humanidade	N	O	O	+	O
+não	ADV	O	O	+	O
+é	V	O	O	+	O
+boa	ADJ	O	O	+	O
+por	PREP	O	O	+	O
+natureza	N	O	O	+	O
+.	.	O	O	+	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_84
+#Nota_4.0
+#Título_84
+O	PROSUB	O	O	O	O
+que	PROSUB	O	O	O	O
+você	PROPESS	O	O	O	O
+faria	V	O	O	O	O
+?	?	O	O	O	O
+
+#Corpo_84
+Esse	PROSUB	O	O	+	O
+não	ADV	O	op00+	+	O
+é	V	O	op00+	+	O
+um	ART	O	op00+	+	O
+mero	ADJ	O	op00+	+	O
+romance	N	OBJ00	O	+	O
+.	.	O	O	+	O
+
+É	V	O	O	O	O
+um	ART	O	O	O	O
+ensaio	N	O	O	O	O
+sobre	PREP	O	O	O	O
+a	ART	O	O	O	O
+cegueira	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+homem	N	O	O	O	O
+SOBRE	NPROP	O	O	O	O
+A	ART	O	O	O	O
+SUA	NPROP	O	O	O	O
+PRÓPRIA	NPROP	O	O	O	O
+NATUREZA	NPROP	O	O	O	O
+.	.	O	O	O	O
+
+Esse	PROADJ	O	O	O	O
+livro	N	O	O	O	O
+pinta	V	O	O	O	O
+uma	ART	O	O	O	O
+ficção	N	O	O	O	O
+onde	ADV-KS-REL	O	O	O	O
+os	ART	O	O	O	O
+homens	N	O	O	O	O
+viveriam	V	O	O	O	O
+em	PREP	O	O	O	O
+um	ART	O	O	O	O
+lugar	N	O	O	O	O
+onde	ADV-KS-REL	O	O	O	O
+o	ART	O	O	O	O
+sistema	N	O	O	O	O
+não	ADV	O	O	O	O
+existe	V	O	O	O	O
+,	,	O	O	O	O
+onde	ADV-KS-REL	O	O	O	O
+o	ART	O	O	O	O
+poder	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+mais	ADV	O	O	O	O
+forte	ADJ	O	O	O	O
+impera	V	O	O	O	O
+.	.	O	O	O	O
+
+É	V	O	O	+	O
+um	ART	O	O	+	O
+livro	N	OBJ00	O	+	O
+muito	ADV	O	O	+	O
+doloroso	ADJ	O	O	+	O
+,	,	O	O	+	O
+mas	KC	O	O	+	O
+magnífico	ADJ	O	op00+	+	O
+a	PREP	O	O	+	O
+o	ART	O	O	+	O
+mesmo	PROADJ	O	O	+	O
+tempo	N	O	O	+	O
+.	.	O	O	+	O
+
+Recomendadíssimo	ADJ	O	op00+	+	O
+.	.	O	O	+	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_108
+#Nota_5.0
+#Título_108
+
+#Corpo_108
+O	ART	O	O	+	O
+livro	N	OBJ00	O	+	O
+tem	V	O	O	+	O
+uma	ART	O	O	+	O
+ótima	ADJ	O	op01+	+	O
+linguagem	N	OBJ01	O	+	O
+e	KC	O	O	+	O
+aborda	V	O	O	+	O
+temas	N	O	O	+	O
+que	PRO-KS-REL	O	O	+	O
+nos	PROPESS	O	O	+	O
+levam	V	O	O	+	O
+a	PREP	O	O	+	O
+uma	ART	O	O	+	O
+reflexão	N	O	O	+	O
+,	,	O	O	+	O
+sobre	PREP	O	O	+	O
+o	ART	O	O	+	O
+nosso	PROADJ	O	O	+	O
+comportamento	N	O	O	+	O
+em	PREP	O	O	+	O
+uma	ART	O	O	+	O
+sociedade	N	O	O	+	O
+cada	PROADJ	O	O	+	O
+vez	N	O	O	+	O
+mais	ADV	O	O	+	O
+hipócrita	ADJ	O	O	+	O
+em	PREP	O	O	+	O
+que	PRO-KS-REL	O	O	+	O
+a	ART	O	O	+	O
+ética	N	O	O	+	O
+e	KC	O	O	+	O
+os	ART	O	O	+	O
+bons	ADJ	O	O	+	O
+costumes	N	O	O	+	O
+estão	V	O	O	+	O
+cada	PROADJ	O	O	+	O
+vez	N	O	O	+	O
+mais	ADV	O	O	+	O
+sendo	VAUX	O	O	+	O
+esquecidos	PCP	O	O	+	O
+.	.	O	O	+	O
+
+Todo	N	O	op00+	+	O
+mundo	N	O	op00+	+	O
+tem	VAUX	O	op00+	+	O
+que	KS	O	op00+	+	O
+ler	V	O	op00+	+	O
+este	PROADJ	O	O	+	O
+magnífico	ADJ	O	op00+	+	O
+livro	N	OBJ00	O	+	O
+de	PREP	O	O	+	O
+Saramago	NPROP	O	O	+	O
+.	.	O	O	+	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_135
+#Nota_3.0
+#Título_135
+
+#Corpo_135
+Esse	PROSUB	O	O	O	O
+foi	V	O	O	O	O
+o	ART	O	O	O	O
+primeiro	ADJ	O	O	O	O
+livro	N	O	O	O	O
+cadastrado	PCP	O	O	O	O
+em	PREP	O	O	O	O
+o	ART	O	O	O	O
+Skoob	NPROP	O	O	O	O
+.	.	O	O	O	O
+
+http://www.skoob.com.br/livro/sobre/1	NUM	O	O	O	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_162
+#Nota_5.0
+#Título_162
+Meu	NPROP	O	O	O	O
+Deus	NPROP	O	O	O	O
+!	!	O	O	O	O
+
+#Corpo_162
+A	ART	O	O	O	O
+angústia	N	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+leitura	N	O	O	O	O
+me	PROPESS	O	O	O	O
+volta	V	O	O	O	O
+quando	KS	O	O	O	O
+tento	V	O	O	O	O
+escrever	V	O	O	O	O
+esta	PROADJ	O	O	O	O
+resenha	N	O	O	O	O
+.	.	O	O	O	O
+
+De	ADV	O	O	O	O
+repente	ADV	O	O	O	O
+,	,	O	O	O	O
+cego	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+O	PROSUB	O	O	O	O
+que	PROSUB	O	O	O	O
+fazer	V	O	O	O	O
+?	?	O	O	O	O
+
+...	...	O	O	O	O
+se	PROPESS	O	O	O	O
+a	ART	O	O	O	O
+angústia	N	O	O	O	O
+inicial	ADJ	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+nos	PROPESS	O	O	O	O
+coloca	V	O	O	O	O
+já	ADV	O	O	O	O
+assusta	V	O	O	O	O
+,	,	O	O	O	O
+imagina	V	O	O	O	O
+,	,	O	O	O	O
+a	ART	O	O	O	O
+quase	ADV	O	O	O	O
+afirmativa	ADJ	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+:	:	O	O	O	O
+VOCÊ	NPROP	O	O	O	O
+NÃO	NPROP	O	O	O	O
+ENXERGA	NPROP	O	O	O	O
+!	!	O	O	O	O
+
+Vê	V	O	O	O	O
+através	PREP	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+mídia	N	O	O	O	O
+,	,	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+sociedade	N	O	O	O	O
+,	,	O	O	O	O
+de	PREP	O	O	O	O
+as	ART	O	O	O	O
+crenças	N	O	O	O	O
+.	.	O	O	O	O
+
+Sem	PREP	O	O	O	O
+a	ART	O	O	O	O
+visão	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+acreditamos	V	O	O	O	O
+ter	V	O	O	O	O
+,	,	O	O	O	O
+nos	PROPESS	O	O	O	O
+tornamos	V	O	O	O	O
+,	,	O	O	O	O
+verdadeiramente	ADV	O	O	O	O
+,	,	O	O	O	O
+o	PRO-KS	O	O	O	O
+que	PRO-KS	O	O	O	O
+somos	V	O	O	O	O
+.	.	O	O	O	O
+
+Nojento	ADJ	O	O	O	*******ERA
+,	,	O	O	O	O
+assustador	ADJ	O	O	O	O
+...	...	O	O	O	O
+tornamo	V	O	O	O	O
+-	-	O	O	O	O
+nos	PROPESS	O	O	O	O
+animais	N	O	O	O	O
+,	,	O	O	O	O
+seres	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+se	PROPESS	O	O	O	O
+voltam	V	O	O	O	O
+para	PREP	O	O	O	O
+o	ART	O	O	O	O
+eu	PROPESS	O	O	O	O
+,	,	O	O	O	O
+como	KS	O	O	O	O
+se	KS	O	O	O	O
+a	ART	O	O	O	O
+cegueira	N	O	O	O	O
+branca	ADJ	O	O	O	O
+,	,	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+é	VAUX	O	O	O	O
+colocada	PCP	O	O	O	O
+,	,	O	O	O	O
+fosse	V	O	O	O	O
+como	KS	O	O	O	O
+se	KS	O	O	O	O
+estivessemos	V	O	O	O	O
+olhando	V	O	O	O	O
+para	PREP	O	O	O	O
+dentro	PREP	O	O	O	O
+de	PREP	O	O	O	O
+nós	PROPESS	O	O	O	O
+mesmo	PROADJ	O	O	O	O
+,	,	O	O	O	O
+esperando	V	O	O	O	O
+ver	V	O	O	O	O
+alguma	PROADJ	O	O	O	O
+coisa	N	O	O	O	O
+,	,	O	O	O	O
+mas	KC	O	O	O	O
+em	PREP	O	O	O	O
+a	ART	O	O	O	O
+verdade	N	O	O	O	O
+não	ADV	O	O	O	O
+vemos	V	O	O	O	O
+nada	PROSUB	O	O	O	O
+.	.	O	O	O	O
+
+NADA	IN	O	O	O	O
+!	!	O	O	O	O
+...	...	O	O	O	O
+
+Leiam	V	O	op00+	+	O
+!	!	O	O	+	O
+...	...	O	O	+	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_190
+#Nota_5.0
+#Título_190
+
+#Corpo_190
+Impossível	ADJ	O	op00+	+	O
+não	ADV	O	op00+	+	O
+gostar	V	O	op00+	+	O
+.	.	O	O	+	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_216
+#Nota_4.0
+#Título_216
+adaptabilidade	ADJ	O	O	O	O
+
+#Corpo_216
+Confesso	NPROP	O	O	-	O
+que	PRO-KS-REL	O	O	-	O
+em	PREP	O	O	-	O
+o	ART	O	O	-	O
+começo	N	OBJ01	O	-	O
+não	ADV	O	op01-	-	O
+gostei	V	O	op01-	-	O
+.	.	O	O	-	O
+
+Depois	PREP	O	O	+	O
+fui	VAUX	O	O	+	O
+curtindo	V	O	op00+	+	O
+.	.	O	O	+	O
+
+Em	PREP	O	O	+	O
+o	ART	O	O	+	O
+final	N	OBJ02	O	+	O
+,	,	O	O	+	O
+me	PROPESS	O	op02+	+	O
+envolvi	V	O	op02+	+	O
+,	,	O	O	+	O
+me	PROPESS	O	O	+	O
+vi	V	O	O	+	O
+vendo	V	O	O	+	O
+tudo	PROSUB	O	O	+	O
+que	PRO-KS	O	O	+	O
+os	ART	O	O	+	O
+personagens	N	O	O	+	O
+não	ADV	O	O	+	O
+viam	V	O	O	+	O
+.	.	O	O	+	O
+
+E	KC	O	O	O	O
+tudo	PROSUB	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+de	ADV	O	O	O	O
+fato	ADV	O	O	O	O
+os	ART	O	O	O	O
+olhos	N	O	O	O	O
+não	ADV	O	O	O	O
+vêem	V	O	O	O	O
+,	,	O	O	O	O
+o	ART	O	O	O	O
+coração	N	O	O	O	O
+,	,	O	O	O	O
+o	ART	O	O	O	O
+corpo	N	O	O	O	O
+e	KC	O	O	O	O
+a	ART	O	O	O	O
+mente	N	O	O	O	O
+não	ADV	O	O	O	O
+sente	V	O	O	O	O
+,	,	O	O	O	O
+demonstrando	V	O	O	O	O
+a	ART	O	O	O	O
+capacidade	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+ser	N	O	O	O	O
+humano	ADJ	O	O	O	O
+em	PREP	O	O	O	O
+,	,	O	O	O	O
+em	PREP	O	O	O	O
+situações	N	O	O	O	O
+extremas	ADJ	O	O	O	O
+,	,	O	O	O	O
+conseguir	V	O	O	O	O
+demonstrar	V	O	O	O	O
+ser	V	O	O	O	O
+capaz	ADJ	O	O	O	O
+de	PREP	O	O	O	O
+uma	ART	O	O	O	O
+adaptabilidade	N	O	O	O	O
+.	.	O	O	O	O
+
+#Livro_Ensaio-Sobre-a-Cegueira
+#Resenha_243
+#Nota_5.0
+#Título_243
+Cego	NPROP	O	O	O	O
+Aderaldo	NPROP	O	O	O	O
+
+#Corpo_243
+Meu	PROADJ	O	O	O	O
+contato	N	O	O	O	O
+com	PREP	O	O	O	O
+os	ART	O	O	O	O
+dramas	N	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+cegueira	N	O	O	O	O
+propriamente	ADV	O	O	O	O
+dita	V	O	O	O	O
+aconteceu	V	O	O	O	O
+a	PREP	O	O	O	O
+o	ART	O	O	O	O
+ler	V	O	O	O	O
+a	ART	O	O	O	O
+biografia	N	O	O	O	O
+de	PREP	O	O	O	O
+Cego	NPROP	O	O	O	O
+Aderaldo	NPROP	O	O	O	O
+e	KC	O	O	O	O
+ler	V	O	O	O	O
+o	ART	O	O	O	O
+seu	PROADJ	O	O	O	O
+emocionante	ADJ	O	O	O	O
+poema	N	O	O	O	O
+"	"	O	O	O	O
+As	NPROP	O	O	O	O
+três	NUM	O	O	O	O
+lagrimas	ADJ	O	O	O	O
+"	"	O	O	O	O
+.	.	O	O	O	O
+
+Depois	PREP	O	O	O	O
+de	PREP	O	O	O	O
+isso	PROSUB	O	O	O	O
+foi	V	O	O	O	O
+minha	PROADJ	O	O	O	O
+propria	ADJ	O	O	O	O
+cegueira	N	O	O	O	O
+em	PREP	O	O	O	O
+as	ART	O	O	O	O
+relações	N	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+vida	N	O	O	O	O
+e	KC	O	O	O	O
+em	PREP	O	O	O	O
+a	ART	O	O	O	O
+cegueira	N	O	O	O	O
+de	PREP	O	O	O	O
+os	ART	O	O	O	O
+outros	PROSUB	O	O	O	O
+,	,	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+sempre	ADV	O	O	O	O
+vi	V	O	O	O	O
+mais	PREP	O	O	O	O
+de	PREP	O	O	O	O
+o	PROSUB	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+a	ART	O	O	O	O
+minha	PROSUB	O	O	O	O
+.	.	O	O	O	O
+
+O	ART	O	O	+	O
+livro	N	OBJ00	O	+	O
+de	PREP	O	O	+	O
+Saramago	NPROP	O	O	+	O
+é	V	O	O	+	O
+espetacular	ADJ	O	op00+	+	O
+.	.	O	O	+	O
+
+Como	KS	O	O	O	O
+outros	PROADJ	O	O	O	O
+livros	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+mesmo	PROADJ	O	O	O	O
+estilo	N	O	O	O	O
+(	(	O	O	O	O
+Jangada	NPROP	O	O	O	O
+de	NPROP	O	O	O	O
+Pedra	NPROP	O	O	O	O
+e	KC	O	O	O	O
+As	ART	O	O	O	O
+intermitencias	N	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+Morte	NPROP	O	O	O	O
+)	)	O	O	O	O
+,	,	O	O	O	O
+ele	PROPESS	O	O	O	O
+parte	N	O	O	O	O
+de	PREP	O	O	O	O
+um	ART	O	O	O	O
+acontecimento	N	O	O	O	O
+absurdo	ADJ	O	O	O	O
+e	KC	O	O	O	O
+depois	ADV	O	O	O	O
+explora	V	O	O	O	O
+todas	PROADJ	O	O	O	O
+as	ART	O	O	O	O
+consequencias	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+são	V	O	O	O	O
+perfeitamente	ADV	O	O	O	O
+plausiveis	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+Em	PREP	O	O	O	O
+os	ART	O	O	O	O
+livros	N	O	O	O	O
+de	PREP	O	O	O	O
+Saramago	NPROP	O	O	O	O
+,	,	O	O	O	O
+voce	PROPESS	O	O	O	O
+encontra	V	O	O	O	O
+historia	N	O	O	O	O
+,	,	O	O	O	O
+profundo	ADJ	O	O	O	O
+conhecimento	N	O	O	O	O
+de	PREP	O	O	O	O
+as	ART	O	O	O	O
+virtudes	N	O	O	O	O
+e	KC	O	O	O	O
+fraquezas	N	O	O	O	O
+humanas	ADJ	O	O	O	O
+,	,	O	O	O	O
+encontra	V	O	O	O	O
+frases	N	O	O	O	O
+de	PREP	O	O	O	O
+profundo	ADJ	O	O	O	O
+significado	N	O	O	O	O
+,	,	O	O	O	O
+etc.	PDEN	O	O	O	O
+Todos	PROSUB	O	O	O	O
+somos	V	O	O	O	O
+cegos	ADJ	O	O	O	O
+mas	KC	O	O	O	O
+podemos	VAUX	O	O	O	O
+voltar	VAUX	O	O	O	O
+a	PREP	O	O	O	O
+enxergar	V	O	O	O	O
+!	!	O	O	O	O

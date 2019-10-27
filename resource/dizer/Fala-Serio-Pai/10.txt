@@ -1,0 +1,12 @@
+Segments:
+1: Fala   Sério  ,   Pai  !    
+2: Este   livro   conta   a   história   de   uma   garota   chamada   Malu  ,
+3: que   sofria   muito   com   o   preconceito   de   o   pai  ,
+4: pois   o   pai   achava   a   ideia   de   ela   jogar   futebol   era   ruim  ,
+5: porque   achava(achar)_v-fin
+6: que   esse   jogo   era   para   o   sexo   masculino  ,
+7: não   para   o   sexo   feminino  ,   mais   Malu   ensinou   para   ele(ele)_pron-pers
+8: que   mesmo   sendo   mulher   tem   abilidades   suficientes(suficiente)_adj
+9: para   ser   uma   grande   jogadora   de   futebol  .    
+Trees:
+elaboration(n(1), s('cause(n('cause(n('elaboration(n(2), s('cause(n(3), s(4))'))'), s(5))'), s('elaboration(n('elaboration(n(6), s('comparison(n(7), s(8))'))'), s(9))'))'));

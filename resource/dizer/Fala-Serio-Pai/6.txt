@@ -1,0 +1,16 @@
+Segments:
+1: Fala   Sério  ,   Pai  !    
+2: É   um   livro   que   conta   as   trapalhadas(trapalhada)_n
+3: e   engraçadas(engraçar)_v-pcp   histórias   de   Malu(Malu)_prop
+4:    uma   garotinha   que   mora   em   a   Tijuca(tijuca)_n
+5: e   Adora   seu   papai  )
+6: e   seu   pai(pai)_n
+7:    Pai  de primeira   viagem   que   não   tem   muita   experiência  ,
+8: e   com   isso   acaba   se   atrapalhando   com   a   sua  &quot;   anjinha  &quot;  )
+9: P.(P.)_prop s  :  
+10: Eu   gostei   de   este   livro  ,
+11: é   muiito   engraçado(engraçar)_v-pcp  ,
+12: mas  ,
+13: não   é   um   de   os   melhores  !    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'), s(9))'), s('elaboration(n('elaboration(n(10), s(11))'), s('elaboration(n(12), s(13))'))'))'));

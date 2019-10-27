@@ -1,0 +1,10 @@
+Segments:
+1: IPHONE   5  ,  Meu Sonho De Consumo    Depois De Ler  A Biografia De STEVE Jobs  ,   Fiquei   Impressionada   Como   Cada  Produto APPLE   É  &quot;   Criado  &quot;  .    
+2: Eu   Não   Tenho  Conhecimento De Produto   Que   É   Pensado   Tão   Detalhadamente  .    
+3: Desde  O Design  ,   A   o   Peso  ,   Tamanho  ,   Nitidez  ,   Velocidade  ,   Capacidade  ,   Otimas   Fotos  ,  Tela De Retina(Retina)_prop
+4:    Nunca  VI Igual  )  .
+5: Null  
+6: Quero   Todos   Os  Produtos De a APPLE  !  !  !  !  
+7: E   O  IPHONE 5   É   O   Meu  Sonho De Consumo  !  !  !  !  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('purpose(n('cause(n(3), s(4))'), s(5))'))'), s('elaboration(n(6), s(7))'));

@@ -1,0 +1,16 @@
+Segments:
+1: Esperava   muito   mais   de   o  Galaxy SIII   por   o   suspense   que   a   Samsung   promoveu  .    
+2: Não   acho   justo   pagar   mais   de  R$(R$)_prop 1700,00(1700,00)_prop   por   um   aparelho   que   me   parece   limitado   em   suas   funções(função)_n   e   a   falta   de   capricho   em   a   qualidade   de   o   material   de   o   aparelho  .    
+3: O   que   gostei  :  
+4: Hoje   é   o   melhor   em   o   mercado  em relação(relação)_prp a   o   seu   processamento  .    
+5: O   que   não   gostei  :  
+6: Não   tem   rádio  ,
+7: seu   acabamento   é   bem   simples   comparado   a   o   aparelho   de   a   Nokia  ,
+8: assim como   suas   câmeras  ,   seu   sistema   de   voz   trabalha   em   vários   idiomas  ,
+9: Exceto   o   português(português)_n
+10:    Brasil  )  ,
+11: não   tem   TV  ,
+12: o   despertador   só   toca(tocar)_v-fin
+13: se   o   aparelho   estiver   ligado  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n(5), s('elaboration(n('elaboration(n('elaboration(n(6), s(7))'), s('elaboration(n(8), s(9))'))'), s('elaboration(n('purpose(n(10), s(11))'), s('condition(n(12), s(13))'))'))'))'));

@@ -1,0 +1,8 @@
+Segments:
+1: Não   vale   a   pena     É   um   livro   chato   e   sem   uma   narração(narração)_n   muito   boa  .    
+2: Diferente   de   os   outrso   de   a   série  ,
+3: ele   não   te   prende   a   a   estória(estória)_n
+4: e   te   insentiva   a   abandonar   o   livro  .    
+5: Eu   só   terminei   de   lê  ¬   lo   por   falta   de   o   que   fazer  .    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s(5));

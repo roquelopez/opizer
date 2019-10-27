@@ -1,0 +1,15 @@
+Segments:
+1: Fase   boa  .    
+2: Esse   ainda   está   incluido   entre   os   bons   de   o   cara  .    
+3: Às vezes   hesito   em   dar   o   mesmo   número   de   estrelas   para   autores   de   entretenimento(entretenimento)_n
+4: e   para   grandes   escritores(escritor)_n
+5: mas   procuro   usar   o   critério   de   o   impacto   que   o   livro   me   causou  .    
+6: Se   a   história   agradou  ,
+7: se   consegui   me   envolver   em   ela  ,
+8: se   o   autor   foi   capas   de   me   prender   até   o   fim   com   interesse(interesse)_n
+9: e   não   apenas   por   obrigação(obrigação)_n   de   terminar   o   livro  .    
+10: Enfim  ,   não   sou   crítica   literária   mas   uma   simples   leitora  .    
+11: Catherine   e   Noelle  ,   duas   mulheres   diferentes   unidas   por   um   homem  .    
+12: Uma   de   as   duas   não   terá   um   final   feliz  .    
+Trees:
+elaboration(n('elaboration(n('condition(n('condition(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s('concession(n(4), s(5))'))'))'), s('condition(n('condition(n(6), s(7))'), s('condition(n(8), s(9))'))'))'), s(10))'), s(11))'), s(12));

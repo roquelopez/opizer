@@ -1,0 +1,9 @@
+Segments:
+1: Primeiro   livro   que   li   de   o   autor  .    
+2: Em   o   princípio   estava   lendo   receosa  ,
+3: já que   inúmeras   pessoas   falam   mal   de   o  Sidney Sheldon  .    
+4: Mas   foi   essa   obra   que   me   fez   amar  todas as   outras   de   o   autor  .    
+5: História   intrigante   que   prende   a   atenção(atenção)_n
+6: e   surpreende   a   cada   página  .    
+Trees:
+elaboration(n('antithesis(n('elaboration(n(1), s('list(n(2), n(3))'))'), s(4))'), s('elaboration(n(5), s(6))'));

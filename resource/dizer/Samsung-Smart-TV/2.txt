@@ -1,0 +1,18 @@
+Segments:
+1: Tv   impressionante     Ótima   televisão  ,   ou   melhor  ,   central   multimídia   fiquei   impressionado   por   a   quantidade   de   recursos(recurso)_n
+2:    Wi-Fi  ,   Aplicativos(Aplicativos)_prop
+3: e  All Share  )
+4: como   tenho   um   celular   Samsung(Samsung)_prop
+5:   Omnia W  )
+6: com   Windows   7.5(7.5)_num   tive   uma   interação(interação)_n   completa  .    
+7: Como   tenho   o   hábito   de   fazer   download   de   filmes(filme)_n
+8:    avi  ,
+9: mkv  ,   mp4  )
+10: em   a   internet   conseguiu   assistir   todos   e   com   legendas(legenda)_n
+11:   *  .  
+12: str  )   parabéns   Samsung   por   fabricar   um   equipamento   de   ótima   qualidade  .    
+13: O   que   gostei  :  
+14: completa     O   que   não   gostei  :  
+15: E   uma   pena   não   tem   interno    
+Trees:
+elaboration(n('elaboration(n('purpose(n('cause(n(1), s('purpose(n('elaboration(n('purpose(n(2), s(3))'), s('cause(n(4), s(5))'))'), s(6))'))'), s('cause(n(7), s('elaboration(n('purpose(n(8), s(9))'), s('elaboration(n('cause(n(10), s(11))'), s(12))'))'))'))'), s('elaboration(n(13), s(14))'))'), s(15));

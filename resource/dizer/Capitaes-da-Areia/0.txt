@@ -1,0 +1,15 @@
+Segments:
+1: Um   livro   muito   bom   que   retrata   a   cruel   realidade   de   os   garotos   de   rua   de   a   Bahia   de   a   década   de   30  .    
+2: Uma   realidade   que   não   deve   ser   muito   diferente  hoje em dia  .    
+3: Ainda assim   não   me   apaixonei   muito   por   o   livro  .    
+4: Sou   um   fervoroso   defensor   de   o   sexo   feminino(feminino)_adj
+5: e   desprezo   qualquer   coisa   que   relacione   violência   contra   a   mulher(mulher)_n
+6: e   o   livro   mostra  um pouco   de   isso  .    
+7: Não   que   eu   quisesse(querer)_v-fin
+8: que   o   autor   criasse   heróis   romancistas   em   as   figuras   de   os   garotos(garoto)_n
+9: mas   em   cenas   como   quando   Pedro-Bala   estrupa   uma   menina   que   passa   em   a   praia   A   A   noite(noite)_n
+10: ou   quano   de   os   meninos   tentam   estrupar   Dora   os   protagonistas   despencam   em   o   meu   conceito(conceito)_n
+11: e   eu   não   sinto   mais   pena   ou   afeição(afeição)_n   por   eles   em   a   história  .    
+12: Mas   de   um  ponto de vista   positivista   e   menos   sentimental   é   um   livro   muito   bom  .    
+Trees:
+antithesis(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n('elaboration(n(4), s(5))'), s(6))'))'), s('antithesis(n('elaboration(n(7), s('concession(n(8), s(9))'))'), s('elaboration(n(10), s(11))'))'))'), s(12));

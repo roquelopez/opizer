@@ -1,0 +1,39 @@
+Segments:
+1: Um   Smartphone   quase   Perfeito  !    
+2: O   Galaxy   S3   é(ser)_v-fin
+3: para(para)_prp
+4: que   quer   o   melhor   de   o   melhor  ,
+5: não   trava   em   jogos   pesados  ,
+6: tela   muito   boa(bom)_adj
+7: e   bonita  ,   processador   deixa   muitos   para   trás  ,
+8: câmera   muito   boa   a   frontal   de   1.9(1.9)_num   MP   faz   videos(video)_adj
+9: e   tira   fotos   em  H D720p(D720p)_prop
+10: e   traseira   de   8   MP   que   faz   fotos(foto)_n
+11: e   videos   em   Full  H D1080p  ,
+12: bateria   de   boa   duração(duração)_n  ,   ele   tem   o   design   bonito(bonito)_adj
+13: e   mesmo   com   o   preço(preço)_n   alto   em   o   Brasil   o   Custo-Benefício   é   muito   alto  ,
+14: pois   ele   tem   de   tudo  !    
+15: O   que   gostei  :  
+16: Ótimo   desempenho   em   jogos  ,   Processador   de   quatro   núcleos   de   1,4(1,4)_num   GHz   e   1   GB   de   RAM  ,  Display Super  AMOLE D4  .  
+17: 8   Polegadas   720p   e   306   PPI   de   densidade   de   pixels   que   faz(fazer)_v-fin
+18: com(com)_prp
+19: que   seja   muito   bom(bom)_adj
+20: para   ver   videos(video)_adj
+21: e   para   jogos   em  ,   Função(Função)_prop   não   permite(permitir)_v-fin
+22: que   o   aparelho   desligue   enquanto(enquanto)_adv
+23: se   estiver   olhando   para   ele   oque   é   bom(bom)_adj
+24: para(para)_prp
+25: que   gosta   de   ler   livros(livro)_n
+26: ou   gosta   de   ler   noticias   em   a   internet  ,
+27:    Bateria   de   2.100(2.100)_num   mAh   que   traz   uma   boa   duração(duração)_n   de   Bateria  ,
+28: uma   câmera   traseira   muito   boa   de   8   MP(MP)_prop
+29: e   a   frontal   de   1.9(1.9)_num   MP  ,   função(função)_n
+30: para   selecionar   a   melhor   foto   que   ajuda   muitas   pessoas   a   achar   o   seu   melhor   lado(lado)_n
+31: e   segundo   a   Samsung   ele   terá   atualização(atualização)_n   para   as   próximas   versões   de   o   Android  .    
+32: O   que   não   gostei  :  
+33: Ele   esquenta   um   Pouco   em   a   parte   de   baixo(baixo)_adv
+34: mas   não   chega   a   incomodar  ,
+35: em   a   cor   branca   ele   parece   ser   muito   frágil(frágil)_adj
+36: e   o  S Voice   ainda   não   funciona  em português  .    
+Trees:
+elaboration(n('purpose(n('enablement(n('concession(n(1), s('concession(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'), s(9))'), s(10))'), s(11))'), s('concession(n(12), s(13))'))'), s(14))'))'), s('elaboration(n(15), s('condition(n('elaboration(n(16), s('condition(n('elaboration(n('condition(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(17), s(18))'), s(19))'), s(20))'), s(21))'), s('condition(n(22), s(23))'))'), s(24))'), s(25))'), s(26))'))'), s(27))'))'))'), s('elaboration(n('elaboration(n('elaboration(n(28), s(29))'), s(30))'), s(31))'))'), s('elaboration(n(32), s('elaboration(n('concession(n(33), s(34))'), s('elaboration(n(35), s(36))'))'))'));

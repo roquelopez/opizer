@@ -1,0 +1,5 @@
+Segments:
+1: Já   dizia   a   expressão   falada   por  Holden Caulfield  :  
+2: Esse   livro   é   100   %(%)_n  .    
+Trees:
+elaboration(n(1), s(2));

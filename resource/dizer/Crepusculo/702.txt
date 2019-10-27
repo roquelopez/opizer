@@ -1,0 +1,24 @@
+Segments:
+1: Perfeito     Crepúsculo  ,   o   livro   perfeito   de   a   minha   vida  .    
+2: Perfeito   não   só  por causa de   suas   frases   magníficas  ,   de   os   personagens  ,   principalmente   de   o   Edward   que   quando   acabei   de   ler   esse   livro   notei(notar)_v-fin
+3: que   estava   apaixonada   por   ele  ,
+4: mais   também   por   ele   ser   muito   bem   escrito  .    
+5: Crepúsculo   com   certeza   é   um   livro   perfeito  ,   completamente   irresistível  ,   cheio   de   mistérios   e   um   romance   inexplicavelmente   inexplicável   de   Bella   e   Edward  :  
+6: um   vampiro   que   tinha   sede   de   o   sangue   de   Bella  ,
+7: mais(mais)_adv
+8: que   se   torna   o   seu   anjo   em  todas as   horas(hora)_n
+9: em(em)_prp
+10: que   pensava(pensar)_v-fin
+11: que   iria   morrer  .    
+12: Ele   então   a   salva   várias   vezes   de   a   morte  ,   e   juntos   descobrem(descobrir)_v-fin
+13: que   estão   irregovalvelmente   apaixonados   um   por   o   outro  .    
+14: Este   é   um   livro   fictício   mais(mais)_adv
+15: que   mostra   a   importância   de   um   verdadeiro   amor   que   principalmente   as   meninas   queriam   ter  .    
+16: Sua   autora  ,   Stephenie  ,   soube   contar   tão   bem   a   história   entre   uma   humana(humano)_adj
+17: e   um   vampiro(vampiro)_n
+18: que   este   livro   se   tornou   sucesso   mundial   em  todas as   idades  .    
+19: Eu   li(ler)_v-fin
+20: e   recomendo   para  &quot;   todos  &quot;  .    
+21: Principalmente   para   quem   quer   se   apaixonar   por   o   encantador  Edward Cullen  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s('elaboration(n(5), s('elaboration(n(6), s('elaboration(n(7), s('elaboration(n('elaboration(n(8), s(9))'), s('elaboration(n(10), s(11))'))'))'))'))'))'), s('elaboration(n(12), s(13))'))'), s('elaboration(n(14), s(15))'))'), s('elaboration(n('elaboration(n(16), s(17))'), s(18))'))'), s('elaboration(n(19), s(20))'))'), s(21));

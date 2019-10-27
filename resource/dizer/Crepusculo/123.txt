@@ -1,0 +1,18 @@
+Segments:
+1: Contradições(contradição)_n     Tipo   quando   o   fenômeno   estorou  ,
+2: só   se   ouviu   falar   bem   de   Crepúsculo  .    
+3: Fato  .     Acontece  ,
+4: que   o   livro   não   é  tudo isso   que   se   esperava  ,
+5: até mesmo   pq   ele   destorce   muito   as   lendas  ,
+6: dá   um   ar   de   perfeição(perfeição)_n   a   mote   após   a   vida  ,   em   a   figura   de   o   vampiro  .    
+7: Falando   assim   morrer   parece   ser   bom  ,
+8: parece   ser   o   sonho   de   todo   mortal  ,
+9: ser   transaformado   em   vampiro  ,
+10: pois   se   torna   perfeito  ,   belo  ,   voraz   e   forte  .    
+11: O   que   não   é  de fato  ,
+12: pois   alguém   que   alimenta   de   a   propria   fonte   de   vida   de   outro  ,
+13: não   tem   nada   de   bonito  ,
+14: não   é   perfeito  ,
+15: é   uma   aberração(aberração)_n  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n('elaboration(n(4), s(5))'), s(6))'))'), s('elaboration(n(7), s('elaboration(n(8), s('cause(n(9), s(10))'))'))'))'), s('elaboration(n('elaboration(n('elaboration(n('cause(n(11), s(12))'), s(13))'), s(14))'), s(15))'));

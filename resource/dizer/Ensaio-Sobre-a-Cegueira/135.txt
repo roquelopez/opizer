@@ -1,0 +1,5 @@
+Segments:
+1: Esse   foi   o   primeiro   livro   cadastrado   em   o   Skoob  .    
+2: http://www.skoob.com.br/livro/sobre/(http://www.skoob.com.br/livro/sobre/)_n   1    
+Trees:
+elaboration(n(1), s(2));

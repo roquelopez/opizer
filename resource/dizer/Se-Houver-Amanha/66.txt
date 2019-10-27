@@ -1,0 +1,22 @@
+Segments:
+1: O   melhor   livro   de  Sidney Sheldon     Pra   mim  ,   esse   foi   o   melhor   livro   de   o   S.S.(s.S.)_n  .  
+2: A   personagem   de   o   livro   Tracy  ,   é   so   sofrimento   em   o   começo(começo)_n  ,
+3: sofremos  junto com   ela  .  
+4: ela   perde   tudo  assim que   sabe(saber)_v-fin
+5: que   sua   mãe   cometeu   suicidio  ,
+6: ela   quer   se   vingar   de   o   sujeito(sujeito)_n
+7: e   acaba   presa(prender)_v-pcp
+8: e   ninguem   ajuda  ,   nem   o   noivo   de   ela  .  
+9: mas   ela   sai   de   a   cadeia   resolve   se   vingar   de   todos  .  
+10: ela   vira   uma  `   vigarista  '  ,
+11: que   consegue   fazer   roubos  ,
+12: que(que)_conj-s
+13: nem   a   policia   consegue   descobrir  ,
+14: e   msm   assim   a   gente   torce   por   ela  ,
+15: pra   não   ser   pega  .  
+16: é   muito   bom  .  
+17: ah   é   tem   o   Jeff  ,
+18: outro   vigarista  ,   os   dois   se   apaixonam  .  
+19: ah   é   muito   bom  !    
+Trees:
+elaboration(n(1), s('elaboration(n(2), s('antithesis(n('elaboration(n(3), s('antithesis(n('elaboration(n(4), s('antithesis(n('elaboration(n(5), s('antithesis(n('elaboration(n(6), s('elaboration(n('antithesis(n('elaboration(n(7), s(8))'), s(9))'), s('elaboration(n(10), s('elaboration(n(11), s('elaboration(n('elaboration(n(12), s(13))'), s('elaboration(n(14), s(15))'))'))'))'))'))'), s(16))'))'), s(17))'))'), s(18))'))'), s(19))'))'));

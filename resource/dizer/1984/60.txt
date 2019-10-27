@@ -1,0 +1,8 @@
+Segments:
+1: Que   ódio  !    
+2: Esse   livro   exagera   em   todo   aspecto   psicológico(psicológico)_adj
+3: e   inova  quanto a   o   auto-engano   de   forma   incrível  !    
+4: E   em   o   final   você   ficará   com   ódio  ,
+5: pode   ter   certeza  !    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s('elaboration(n(4), s(5))'));

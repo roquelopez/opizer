@@ -1,0 +1,13 @@
+Segments:
+1: SmartTV   de   a   LG   oferece   cinema  em casa(casa)_adv
+2: e   reconhecimento   de   voz     A   TV   tem   bons   recursos  ,
+3: com   destaque   para   o   ótimo   recurso   de   reconhecimento   de   voz     O   que   gostei  :  
+4: Qualidade   de   a   imagem  ;  
+5: 3D   passivo  ;  
+6: Dual Play  ;   suporte   a   diversos   formatos   de   vídeo  ;  
+7: controle remoto   de   o   tipo   apontador  ;  
+8: reconhecimento   de   voz  ;  
+9: WiDi  ;   belo   design     O   que   não   gostei  :  
+10: Não   tem   Ginga    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(4), s(5))'), s(6))'), s(7))'), s(8))'), s(9))'))'), s(10));

@@ -1,0 +1,6 @@
+Segments:
+1: Sonho   de   consumo  !    
+2: As   descrições(descrição)_n   de   o   produto   são   excelentes  ,   portátio  ,   fácil   manuseio(manuseio)_n
+3: e   com   uma   câmera   de   ótima   qualidade  ,   é   muito   bom   poder   falar   com   alguém   de   o   outro   lado   de   o   mundo  por meio de   a   videoconferência   que   o   iPhone   oferece   em   suas   funções(função)_n  ,   enfim  ,   totalmente   aprovado  !  !    
+Trees:
+elaboration(n(1), s('elaboration(n(2), s(3))'));

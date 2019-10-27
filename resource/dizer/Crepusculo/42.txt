@@ -1,0 +1,16 @@
+Segments:
+1: Não   confie   em   Hollywood     Nossa   existe   quem   não   goste   de   ler   livro   após   ter   assistido   a   o   filme  ,
+2: mas   sinceramente   eu   gosto   bastante  .    
+3: Primeiro   por   a   comparação(comparação)_n   se   a   história   em   o   cinema   é   realmente   fiel   a   o   livro  ,
+4: segundo  por que   existe   muito   mais   em   as   entrelinhas  .    
+5: O   que   consegui   ler   em   as   entrelinhas   foi(ser)_v-fin
+6: que   o   personagem   de   o   Edward   é   500   vezes   mais   interessante   de   o   que   em   o   filme  .    
+7: A   história   de   Alice   e   Carlisle   também   me   fascinaram  .    
+8: Confesso(confessar)_v-fin
+9: que   algumas   modificações(modificação)_n   feitas   para   o   filme   deixaram   a   história   mais   dinâmica   o   que   para   o   cinema   vem   a   calhar  .    
+10: Enfim   ler   o   livro(livro)_n
+11: e   assistir   a   o   filme   não   são   mutuamente   exclusivos   por   o   contrário  ,
+12: são   complementares  .    
+13: Ambos   interessantes   para   quem   gosta   de   romance   fantástico  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('antithesis(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n(5), s(6))'))'), s(7))'), s('elaboration(n(8), s(9))'))'), s('elaboration(n('elaboration(n(10), s(11))'), s(12))'))'), s(13));

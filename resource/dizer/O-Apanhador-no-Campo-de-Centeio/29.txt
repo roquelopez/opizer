@@ -1,0 +1,28 @@
+Segments:
+1: Até   hoje   não   compreendo   porque   esse   livro   é   considerado   um   clássico   de   a   literatura  .    
+2: A   começar(começar)_v-inf   por   o   título   de   o   livro   que   nada   tem   a   ver   com   a   história   de   o   livro  .    
+3: O   apanhador   em   o   campo   de   centeio   é   o   nome   de   uma   música(música)_n
+4: que   um   figurante(figurante)_n
+5:    isso   mesmo  ,   um   menininho   que   aparece   em   um   parágrafo   perdido   de   o   livro  )
+6: passa   assoviando   em   a   frente   de   o   personagem   principal  .    
+7: Então   ele   cita(citar)_v-fin
+8: que   o   menino   está   assoviando   a   música   tal(tal)_pron-indef
+9: e   é   aí   basicamente   que   se   menciona   o(o)_art
+10: que   se   dá   título   a   o   livro  .    
+11: O   livro   conta   a   história   de   um   adolescente   de   o   estilo   rebelde   sem   causa(causa)_n
+12: (
+13: literalmente  )
+14: que   decide   parar   de   estudar(estudar)_v-inf
+15: porque   não   gosta   de   estudar  ,
+16: também   não   gosta   de   ninguém(ninguém)_spec
+17: e   se   relaciona   mal   com   a   família  .    
+18: Então   ele   abandona   o  colégio interno(interno)_n
+19: e   sai   vagando   por   aí  .    
+20: Ok  ,   e   qual   é   a   história   mesmo  ?    
+21: Qual   o   objetivo   de   o   peronagem  ?    
+22: Pois   é  .  
+23: nenhum  .     Vadiar  ,   somente  .    
+24: Pois   é  .  
+25: belo   exemplo   para   a   juventude   esse  &quot;   clássico  &quot;   de   a   literatura  .    
+Trees:
+explanation(n('explanation(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('purpose(n('elaboration(n(3), s('cause(n(4), s(5))'))'), s(6))'))'), s('elaboration(n('elaboration(n('elaboration(n(7), s(8))'), s(9))'), s(10))'))'), s('cause(n(11), s('elaboration(n('cause(n(12), s('cause(n('elaboration(n(13), s('cause(n(14), s(15))'))'), s(16))'))'), s(17))'))'))'), s('elaboration(n(18), s(19))'))'), s(20))'), s(21))'), s('elaboration(n(22), s(23))'))'), s('elaboration(n(24), s(25))'));

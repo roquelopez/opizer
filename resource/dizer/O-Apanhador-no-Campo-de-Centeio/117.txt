@@ -1,0 +1,10 @@
+Segments:
+1: Um   lixo  ,   uma   verdadeira   porcaria  .  
+2: nunca   li   algo   tão   cretino   em   a   minha   vida(vida)_n
+3: e   não   me   conformo   de   saber(saber)_n
+4: que   as   pessoas   o   consideram   o   livro   de   suas   vidas  .    
+5: Não   recomendo  !    
+6: O   livro   é   idiota  ,   repetitivo  ,   cansativo   e   irritante  ,   tanto   quanto   seu   narrador  .    
+7: Lixo de livro  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4))'), s(5))'), s(6))'), s(7));

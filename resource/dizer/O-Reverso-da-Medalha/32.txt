@@ -1,0 +1,13 @@
+Segments:
+1: O   preco   de   a   Ambição(ambição)_n     As   pessoas   matam  ,
+2: morrem  ,
+3: traem  ,
+4: sofrem  ,
+5: machucam  ,
+6: magoam  ,
+7: criam   guerras(guerra)_n
+8: e   acabam   umas   com   as   outras   e   com   si   mesmas  a troco de   dinheiro   e   poder  .    
+9: O   poder   pode   dominar   uma   pessoa  ,
+10: o   que   se   torna   muito   ruim  .    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'))'), s('elaboration(n(9), s(10))'));

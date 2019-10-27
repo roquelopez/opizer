@@ -1,0 +1,7 @@
+Segments:
+1: Fala   sério   amor     Eu   achei   legal   pois   conta   a   historia   de   uma   moradora   de   a   Tijuca   que   conta   suas   descobertas   amorosas  ,
+2: Os  &quot;   ficantes  &quot;  ,   os   rolos   passageiros  ,   o   namorado   grudento  ,   o   ciumento  ,   os   doidos   que   aparecem   por   o   caminho  ,   os   fofos  ,   os   pais   de   os   namorados  ,   os   seus   pais   e   os   namorados  .  
+3: ela   sempre   tem   uma   boa   história(história)_n
+4: para   contar  .    
+Trees:
+elaboration(n(1), s('elaboration(n(2), s('elaboration(n(3), s(4))'))'));

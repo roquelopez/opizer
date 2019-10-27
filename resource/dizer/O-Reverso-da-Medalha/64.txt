@@ -1,0 +1,8 @@
+Segments:
+1: Esse   livro   tem   uma   narrativa   q   te   prende  ,
+2: isso   é   bem   verdade  .    
+3: Mesmo assim  ,   achei   algumas   partes   de   a   história   previsíveis   e   o   final  um tanto   quanto   tosco  .    
+4: A   verdade   é   q   não   me   identifico   muito   com   a   escrita   de   esse   autor(autor)_n
+5: e   resolvi   ler   um   de   os   livros   mais   aclamados   de   ele   justamente   pra   confirmar   isso  .    
+Trees:
+elaboration(n('concession(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n(4), s(5))'));

@@ -1,0 +1,9 @@
+Segments:
+1: TV Excelente     Marca   muito   boa  ,
+2: excelente   acabamento  ,   4   HDMI   que   facilita   a   conexão   de   equipamentos  .    
+3: O   que   gostei  :  
+4: Televisão de Marca   excelente   com   Designer   surpreendente  .    
+5: O   que   não   gostei  :  
+6: Preço(preço)_n  um pouco   salgado  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n(5), s(6))'));

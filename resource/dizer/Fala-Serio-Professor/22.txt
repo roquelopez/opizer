@@ -1,0 +1,7 @@
+Segments:
+1: Falando Sério  .    
+2: Esse   livro   é   muito   divertido  !    
+3: Todo mundo   já   teve   algum   tipo   de   professor   igual   a   Malu  .    
+4: Vale   a   pena   ler  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4));

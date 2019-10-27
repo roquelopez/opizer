@@ -1,0 +1,13 @@
+Segments:
+1: Amei  .    
+2: Sou  um pouco   suspeita(suspeito)_adj
+3: uma vez que   já   me   considero   fã   de   a   Thalita  .    
+4: Ok  ,   tietismo  '   a   parte   o   livro   narra   de   forma   divertida   a   relação(relação)_n   de   Malu   com   seus   professores  ,
+5: de   os   três   a   os  vinte e dois   anos(ano)_n
+6:    de   a   pré   escola   até   a   faculdade   incluindo   alguns   cursinhos  )
+7: É   um   livro   de   gênero   infanto   juvenil   portanto   costuma   agradar   mais   a   galerinha   de   12   anos  .    
+8: Mas   eu   o   recomendo   a   todos(todo)_pron-indef
+9: que   queiram   dar   boas   gargalhadas  !  
+10: :)    
+Trees:
+antithesis(n('elaboration(n('elaboration(n(1), s('sequence(n(2), n(3))'))'), s('purpose(n('elaboration(n(4), s('cause(n(5), s(6))'))'), s(7))'))'), s('elaboration(n('elaboration(n(8), s(9))'), s(10))'));

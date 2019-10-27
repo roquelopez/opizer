@@ -1,0 +1,10 @@
+Segments:
+1: Hilário   de   o   começo(começo)_n   a   o   fim  !    
+2: As   aventuras   de   Malu   são   retratadas   em   formato   de   esquetes  .    
+3: Fácilmente   com   si   imaginar   esses   diálogos   em   o   teatro   ou   em   um   programa   de   TV  !    
+4: A   leitura   é   muito   leve(leve)_adj
+5: e   divertida(divertir)_v-pcp
+6: e   em  um pouco  mais de   um   dia   o   devorei  !    
+7: Super   recomendo  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n('elaboration(n(4), s(5))'), s(6))'))'), s(7));

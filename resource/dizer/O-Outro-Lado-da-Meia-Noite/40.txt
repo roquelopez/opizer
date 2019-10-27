@@ -1,0 +1,6 @@
+Segments:
+1: Li   por   ler  ,
+2: emprestado   de   um   amigo  .    
+3: Não   tive   vontade   de   ler   outros   livros   de   o   mesmo   autor  .    
+Trees:
+elaboration(n('elaboration(n(1), s(2))'), s(3));

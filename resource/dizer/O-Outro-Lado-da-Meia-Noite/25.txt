@@ -1,0 +1,9 @@
+Segments:
+1: Maravilhoso  !    
+2: Você   começa(começar)_v-fin   a   ler(ler)_v-inf
+3: e   não   consegue   parar   mais..(mais..)_n   O   livro   é   conta   sobre   o   quanto   o   desejo   de   vingança(vingança)_n   pode   custar   caro  .    
+4: Fala   sobre   ambição(ambição)_n  ,   luxuria   e   vaidade  .    
+5: Simplesmente   muuito   bom  !    
+6: Recomendo  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4))'), s(5))'), s(6));

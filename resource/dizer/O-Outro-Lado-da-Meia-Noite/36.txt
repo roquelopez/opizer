@@ -1,0 +1,10 @@
+Segments:
+1: Chato  ,   entediante  ,   repetitivo     5   estrelas  .    
+2: Já   tinha   lido  &quot;   A   ira   de   os   anjos  &quot;  ,
+3: não   gostei   muito(muito)_pron-indef
+4: mas   resolvi   dar   uma   segunda   chance  .    
+5: Infelizmente   o   conceito   só   piorou  .    
+6: Desisti   de  todos os   demais   títulos  ,
+7: não   consegui   terminar   a   leitura  .    
+Trees:
+elaboration(n('elaboration(n('list(n(1), n('elaboration(n(2), s('concession(n(3), s(4))'))'))'), s(5))'), s('elaboration(n(6), s(7))'));

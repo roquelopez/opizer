@@ -1,0 +1,17 @@
+Segments:
+1: Li   esse   livro   em   o   meu   tempo   de   colégio(colégio)_n
+2: e   até   hoje   me   lembro   como   em   o   começo(começo)_n   foi   muito   difícil   a   leitura  .    
+3: Em   a   época   meu   vocabuláro   ainda   não   era   essas   coisas  ,
+4: então   lia   com   um   dicionário   a   tira   colo  .    
+5: Em   a   verdade   em   o   começo(começo)_n   estava   achando   insuportável   o   livro  .    
+6: Depois   simplesmente   fui   me   encantando   com   o   livro  .    
+7: E   acabei   devorando   o   restante   de   o   livro  .    
+8: Achei   uma   visão   meio   louca   de   um   mundo  ,   em   a   época   de   o   futuro  .    
+9: Li   o   livro   em   o   próprio   1984  ,
+10: e   depois   descobri(descobrir)_v-fin
+11: que   o   livro   fora   escrito   em   1948  .    
+12: Entre   teletelas  ,  O Grande Irmão   e   sua   filosofia  ,   achei   o   livro   maravilhoso  .    
+13: Vale   a   leitura(leitura)_n
+14: e   vale   a   re-leitura  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('sequence(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s(5))'), n(6))'), s(7))'), s(8))'), s('elaboration(n('elaboration(n(9), s(10))'), s(11))'))'), s(12))'), s('elaboration(n(13), s(14))'));

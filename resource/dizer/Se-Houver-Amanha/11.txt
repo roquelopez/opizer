@@ -1,0 +1,27 @@
+Segments:
+1: Perfeito  !    
+2: Sem   duvidas   é   um   de   os   melhores   livros   que   já   li  ,
+3: a   historia   é   incrível  ,
+4: super   movimentada(movimentar)_v-pcp
+5: e   bem   desenvolvida  ,
+6: os   personagens   são   marcantes(marcante)_adj
+7: e   a   narrativa   é   impecável  .    
+8: O   autor   te   envolve   de   uma   maneira   tão   forte(forte)_adj
+9: que   você   não   consegue   largar   o   livro   até   o   fim  ,
+10: absorto   em   os   fatos   apresentados(apresentar)_v-pcp
+11: e   tentando   descobrir   o   que   virá   a   seguir  ,
+12: a   historia   é   cheia   de   reviravoltas(reviravolta)_n
+13: e   te   deixa   surpreso   a  todo o   momento  .    
+14: O   livro   conta   a   historia   de   Tracy  ,
+15: que   esta   irrevogavelmente   em   o   topo   de   o   meu   top   de   protagonistas  ,   ela   é   literalmente   uma   guerreira  ,
+16: passa   por   uma   serie   de   acontecimentos   difíceis(difícil)_adj
+17: e   nós   acompanhamos   sua   impressionante(impressionante)_adj
+18: e   de   certa   forma   impactante   transformação(transformação)_n  ,
+19: sua   característica   mais   marcante   é   a   inteligência  ,
+20: ela   é   simplesmente   incrível  .    
+21: Com   seu   rostinho   bonito  ,   sua   inteligência   aguçada(aguçado)_adj   e   seu  &quot;   ar   de   inocente  &quot;   ela   é   a   profissional   perfeita  ,
+22: de  a qual   ninguém   suspeitaria  .    
+23: Esse   é   o   primeiro   livro   que   eu   leio   de   o   autor(autor)_n
+24: e   definitivamente   ele   já   é   um   de   os   meus   autores   favoritos  !    
+Trees:
+evidence(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(8), s(9))'), s(10))'), s(11))'), s(12))'), s(13))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(14), s(15))'), s(16))'), s(17))'), s(18))'), s(19))'), s(20))'))'), s('elaboration(n(21), s(22))'))'), s('evidence(n(23), s(24))'));

@@ -1,0 +1,10 @@
+Segments:
+1: Um   livro(livro)_n
+2: para   refletir     Em   síntese  ,
+3: a   história   fala   sobre   uma   cegueira   branca   que   atinge   a   humanidade   a   os   poucos   levando  ¬   a   perder  todos os   traços(traço)_n   de   civilidade  .    
+4: O   que   passa   a   ver   é   a   lei   de   o   mais   forte  .    
+5: É   um   livro   que   prendeu   minha   atenção(atenção)_n   de   o   começo(começo)_n   a   o   fim(fim)_n
+6: e   me   fez   refletir   bastante   sobre   o   assunto   proposto   por   o   autor  ,
+7: que   a   humanidade   não   é   boa   por   natureza  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s(4))'), s('elaboration(n('elaboration(n(5), s(6))'), s(7))'));

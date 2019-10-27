@@ -1,0 +1,39 @@
+Segments:
+1: Fala   Sério  ,   Mãe  !    ¬  
+2: Thalita Rebouças(Rebouças)_prop     Li   esse   livro   em   algumas   horas(hora)_n
+3: e  ,
+4: enquanto   o   lia  ,
+5: só   conseguia   pensar   em   uma   coisa  :  &quot;  
+6: Meu   Deus  !    
+7: Minha   mãe   é   igual   a   mãe   de   a   Malu  ,
+8: tenho(ter)_v-fin
+9: que   fazer   algo   a   respeito  !    &quot;    
+10: Fala   Sério  ,   Mãe  !    
+11: conta   a   história   de   vida   de  Maria de Lourdes  ,
+12: ou  ,
+13: como   ela   prefere  ,
+14: Malu  ,
+15: desde   quando   estava   em   a   barriga   de   a   sua   mãe(mãe)_n
+16: (
+17: tendo   os   primeiros   anos   de   vida  ¬
+18: até   os   12  ¬
+19: narrados   por   sua   mãe  )  ,
+20: até   os   21   anos  .    
+21: Thalita   consegue   retratar   várias   situações(situação)_n   engraçadíssimas(engraçadíssimas)_adj   por  as quais   muitas   de   nós  ,
+22: garotas  ,   com   certeza   já   passamos  .    
+23: A   escrita   de   ela   é   mais   fácil(fácil)_adj
+24: e   mais   gostosa   de   o   que   imaginei(imaginar)_v-fin
+25: que   seria(ser)_v-fin
+26: (
+27: já que   nunca   havia   lido   um   de   seus   livros   antes  )  .
+28: Null
+29: Era   tão   fácil(fácil)_adj
+30: que   consegui  ,
+31: realmente  ,   me   imaginar   em   a   pele   de   a   Malu(Malu)_prop
+32:    lógico(lógico)_adj
+33: que   com   algumas   pequenas   diferenças(diferença)_n  )
+34: e   ver   minha   mãe   retratada   por   a   mãe   de   ela  .    [  .  ]  
+35: Continue   lendo  :  
+36: http://babilorentz.com/(http://babilorentz.com/)_n  ?     p   1075    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n('elaboration(n('list(n(3), n(4))'), s(5))'), s(6))'))'), s('elaboration(n('elaboration(n(7), s(8))'), s(9))'))'), s(10))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(11), s(12))'), s(13))'), s(14))'), s(15))'), s(16))'), s(17))'), s(18))'), s(19))'), s(20))'))'), s('elaboration(n(21), s(22))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(23), s('comparison(n(24), s(25))'))'), s(26))'), s(27))'), s(28))'))'), s('cause(n(29), s('cause(n('purpose(n('elaboration(n(30), s('cause(n(31), s(32))'))'), s(33))'), s(34))'))'))'), s('elaboration(n(35), s(36))'));

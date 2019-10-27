@@ -1,0 +1,9 @@
+Segments:
+1: muito   bom     tenho   muitas   amigas(amiga)_n
+2: e   as   vezes   agente   vive   rindo   de   as   situações(situação)_n   que   passamos  ,
+3: gosto   de   registrar   esses   momentos  ,
+4: muito   legal   ara   quem   gosta   de   curtir   as   amizades(amizade)_n
+5: e   de   se   divertir   muito   junto   a   elas(elas)_pron-pers
+6: e   tambem   tem   muitas   amizades   verdadeiras  .    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'), s(6))'));

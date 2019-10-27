@@ -1,0 +1,6 @@
+Segments:
+1: Excelente     Ainda   não   tenho(ter)_v-fin
+2: mas   é   meu   sonho   de   consumo  ,
+3: pois   se   trata   de   um   produto   bonito   e   muito   bom    
+Trees:
+antithesis(n(1), s('cause(n(2), s(3))'));

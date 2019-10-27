@@ -1,0 +1,8 @@
+Segments:
+1: Melhor   smartphone   de   o   momento     Ele   é   maravilhoso  ,
+2: um   computador  de bolso  ,   vale   muito   a   pena   compraz-   lo  .    
+3: O   que   gostei  :  
+4: Tela   grande  ,   produto   leve  ,   rápido  ,   fácil   de   manusear..(manusear..)_n   Melhor   smarth   de   o   momento(momento)_n
+5:    mehor   que   Iphone   inclusive  )  
+Trees:
+elaboration(n('elaboration(n(1), s(2))'), s('cause(n(3), s('cause(n(4), s(5))'))'));

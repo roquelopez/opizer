@@ -1,0 +1,25 @@
+Segments:
+1: Thalita   é   praticamente   uma   adolescente  !    
+2: Escreve   o   livro   com   palavras   expressões   que   só   adolescentes   usam  .    
+3: Falando   sobre   mais   uma   aventura   de   Malu  .    
+4: Ela   e   suas   amigas   aprontam(aprontar)_v-fin
+5: e   se   divertem   muito  .    
+6: Malu  ,   como  todo mundo  ,   tem   a   amiga   mais   chegada  ,   mais   fofa   e   mais   querida  .    
+7: Essa   é   a   Alice  ,   sua   amiga   desde   pequena  .    
+8: Ficaram   juntar   até   o   último   capítulo   de   o   livro  .    
+9: E   tenho   certeza  ,
+10: que   duraria   mais  .    
+11: As   duas   brigam(brigar)_v-fin
+12: e   se   divertem   a   o   longo   de   o   livro  .    
+13: Além de   elas  ,   há   a   Duca  ,   a   Nanda  ,   a   Helo  .  
+14: Malu   era   rodeada   de   amigas  .    
+15: Sempre   amou   todas  .    
+16: Esse   livro   é   um   livro   divertido  ,
+17: que   a   o   mesmo   tempo(tempo)_n
+18: que   nos   faz   rir  ,
+19: nos   faz   refletir   sobre  todas as   nossas   amizades  .    
+20: Que   é   a   coisa   mais   preciosa   de   a   vida  .    
+21: Super   recomendado  ;  
+22: D    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n(4), s(5))'))'), s(6))'), s(7))'), s(8))'), s('elaboration(n(9), s(10))'))'), s('elaboration(n(11), s(12))'))'), s('elaboration(n(13), s(14))'))'), s(15))'), s('elaboration(n('elaboration(n('elaboration(n(16), s(17))'), s(18))'), s(19))'))'), s(20))'), s('elaboration(n(21), s(22))'));

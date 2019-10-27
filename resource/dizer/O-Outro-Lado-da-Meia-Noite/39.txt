@@ -1,0 +1,7 @@
+Segments:
+1: Como  todos os   livros   de   Sheldon   que   eu   li  ,
+2: trata  ¬
+3: se   muito  mais de   um   roteiro   de   filme   estadunidense   de   o   que   literatura   propriamente   dita  .    
+4: O   que   importa   é   o   que   ocorre   em   a   trama   e   não   o   relato  .    
+Trees:
+elaboration(n('elaboration(n(1), s('condition(n(2), s(3))'))'), s(4));

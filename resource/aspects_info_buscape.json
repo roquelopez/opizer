@@ -1,0 +1,42 @@
+{
+"Galaxy-SIII": {
+	"Galaxy S III": {"concord": 0},
+	"Bateria": {"concord": 2},
+	"Design": {"concord": 0},
+	"Processador": {"concord": 0},
+	"Tela": {"concord": 2},
+	"Peso": {"concord": 0},
+	"Câmera": {"concord": 2},
+	"Preço": {"concord": 0},
+	"Internet": {"concord": 2}
+	},
+"Iphone-5": {
+	"Iphone": {"concord": 0},
+	"Foto": {"concord": 2},
+	"Peso": {"concord": 0},
+	"Preço": {"concord": 0},
+	"Câmera": {"concord": 2},
+	"Tela": {"concord": 2},
+	"Vídeo": {"concord": 0},
+	"Bateria": {"concord": 2},
+	"Tamanho": {"concord": 0}
+	},
+"LG-Smart-TV": {
+	"LG Smart TV": {"concord": 0},
+	"Design": {"concord": 0},
+	"Qualidade da imagem": {"concord": 2},
+	"Preço": {"concord": 0},
+	"Som": {"concord": 0},
+	"Luminosidade": {"concord": 2},
+	"Wi-fi": {"concord": 0},
+	"Tela": {"concord": 2}
+	},
+"Samsung-Smart-TV": {
+	"Samsung Smart TV": {"concord": 2},
+	"Preço": {"concord": 0},
+	"Design":{"concord": 0},
+	"Durabilidade": {"concord": 2},
+	"Qualidade da imagem": {"concord": 2},
+	"Câmera": {"concord": 2}
+	}
+}

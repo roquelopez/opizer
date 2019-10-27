@@ -1,0 +1,9 @@
+Segments:
+1: Ruim  ,   uma   estória   muito   previsível  ,   como   em  todos os   livros   que   ele   escreve  .    
+2: Parece(parecer)_v-fin
+3: que   escreve   sob   receita  ,
+4: algumas   pessoas   gostam   de   o   que   ele   escrevem(escrever)_v-fin
+5: e   ele   vende   a   os   milhares  .    
+6: Pacto   perfeito  ,   nada   a   reclamar  .    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n(2), s(3))'), s(4))'), s(5))'))'), s(6));

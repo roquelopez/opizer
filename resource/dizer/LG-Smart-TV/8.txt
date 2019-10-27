@@ -1,0 +1,15 @@
+Segments:
+1: TV   não   liga  
+2: Pesquisando   em   a   internet  ,
+3: descobri(descobrir)_v-fin
+4: que   se   trata   de   um   problema   que   está   afetando   muitos   proprietários  .    
+5: Vale   a   cautela   em   a   compra  .    
+6: O   que   gostei  :  
+7: Sequer   deu   pra   avaliar  ,
+8: porém   o   design   é   moderno   e   fino  .    
+9: O   que   não   gostei  :  
+10: A   TV   não   liga  .  
+11: O   led   pisca   duas   vezes(vez)_n
+12: e   apaga  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s(5))'), s('elaboration(n(6), s('concession(n(7), s(8))'))'))'), s('elaboration(n('elaboration(n(9), s(10))'), s('elaboration(n(11), s(12))'))'));

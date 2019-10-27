@@ -1,0 +1,16 @@
+Segments:
+1: Mais ou menos     O   livro   é   envolvente  e tal  ,
+2: te   prende   em   o   começo(começo)_n  ,
+3: mas   de   o   meio   para   o   final   parece   meio   forçado(forçar)_v-pcp  ,
+4: o   autor   meio(meio)_adv
+5: que   começa(começar)_v-fin   a   inventar   histórias   demais  ,
+6: não   havendo   uma   ligação(ligação)_n   coerente   entre   elas  ,
+7: fica   uma   impressão(impressão)_n
+8: de(de)_prp
+9: que   se   está   lendo   algum   tipo   de   livro   seriado  ,
+10: sei   lá  ,   com   várias   histórias   diferentes   em   o   mesmo   livro  .    
+11: Não   é   a   melhor   obra   de   o   grande  Sidney Sheldon  ,
+12: mas   recomendo  ,
+13: uma   boa   leitura   pra   passar   o   tempo  .    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('concession(n(2), s(3))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'), s(9))'), s(10))'))'), s('elaboration(n('concession(n(11), s(12))'), s(13))'));

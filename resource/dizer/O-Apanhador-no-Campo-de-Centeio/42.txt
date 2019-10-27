@@ -1,0 +1,6 @@
+Segments:
+1: Um   livro   revolucionário  ,   para   a   época(época)_n
+2: em   que   foi   lançado(lançar)_v-pcp  
+3: Hoje em dia   é   só   mais   um   livro  .    
+Trees:
+elaboration(n('circumstance(n(1), s(2))'), s(3));

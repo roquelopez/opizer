@@ -1,0 +1,19 @@
+Segments:
+1: &quot;   Um   ótimo   livro  ,  além de   ser   um   ótimo   alerta   para   uma   potencial   distopia  ,
+2: em   contraponto   a   utopia   tão   sonhada   por   os   homens   de   o   medievo   e   início   de   a   modernidade  .    
+3: O   devaneio   de   uma   sociedade   perfeita   e   fraterna  ,   deu   lugar   a   a   perspectiva   de   o   extremo   totalitarismo  ,   em  a qual   até   a  liberdade de opinião  ,
+4: inclusive   a   não   expressada  ,
+5: é   perseguido   como   pensamento-crime  .    
+6: Sabe  ¬
+7: se   muito(muito)_pron-indef
+8: bem que   este   pessimismo   vigente   em   a   data   de   lançamento(lançamento)_n   de   o   livro   se   deu  devido a   a   duas   guerras   mundiais  ,
+9: em  a qual   uma   a   pouco   findara  ,
+10: ditaduras   de   Franco(Franco)_prop
+11: e   Salazar   em   a   península   ibérica  ,   o   fascismo   pregado   por   Hitler(Hitler)_prop
+12: e   Mussolini  ,
+13: a   revolução(revolução)_n   social   Chinesa  ,  além de   a   malfadada   traição(traição)_n   cometida   por   o   famigerado  Joseph Stalin  .    
+14: Prefiro   restringir   meu   comentário   sobre   o   livro   A   as   breves   linhas   acima  ,   em   respeito   a   os   futuros   leitores  ,
+15: mas   aconselho   o   livro   tanto   como   uma   leitura  &quot;   lúdica  &quot;   quando   um   questionamento   sobre   os   limites   de   a   insanidade   humana   em   busca   de   o   poder  .  &quot;    
+16: O   Poder   por   o   Poder  &quot;  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n('elaboration(n(3), s(4))'), s(5))'))'), s('condition(n('condition(n(6), s(7))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(8), s(9))'), s(10))'), s(11))'), s(12))'), s(13))'))'))'), s('concession(n(14), s(15))'))'), s(16));

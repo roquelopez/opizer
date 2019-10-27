@@ -1,0 +1,12 @@
+Segments:
+1: Paiêê  &quot;  .  
+2: Larga   de   esse   maldito   jogo   de   futebol(futebol)_n
+3: e   me   leva   em   a   casa   de   a   minha   amiga  ,
+4: vai  !  &quot;    
+5: O   que   um   pai   dá  em troca   de   um   jogo   de   futebol  ?    
+6: Pouca   coisa  .    
+7: E   isso   incluí   Malu  ,   a   paixão   e   orgulho   de   seu   pai  .    
+8: E   essa   amizade   entre   os   dois   gera   divertidas  ,   e   A   as   vezes   desagradáveis   e   vergonhosas  ,   histórias   entre   pai   e   filha  .    
+9: Leia  !    Mariana Almeida    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4))'), s(5))'), s(6))'), s(7))'), s(8))'), s(9));

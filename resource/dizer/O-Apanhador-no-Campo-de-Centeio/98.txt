@@ -1,0 +1,10 @@
+Segments:
+1: Perfeito  !    
+2: amei   esse   livro  ,
+3: ja   li   umas   3   vezes  ,
+4: e   toda   vez   q   leio   morrer   de   tanto   rir  ,   elle   mto   engraçado(engraçado)_adj  .    
+5: recomento   pra   todos  ,   pq  todo mundo   tem  um pouco   de   Holden(Holden)_prop
+6:    personagem   principal   de   o   livro  )  .
+7: Null  
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s('purpose(n('cause(n(5), s(6))'), s(7))'));

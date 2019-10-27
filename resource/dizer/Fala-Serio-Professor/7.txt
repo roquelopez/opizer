@@ -1,0 +1,6 @@
+Segments:
+1: em   o   dia   de   os   alunos   forma   aaluma   falou   com   os   colegas  :  
+2: minha   memoria   esta   cheia   dale   tomara(tomar)_v-fin
+3: que   o   ano   que   nem   não   seja   ela   adorei   o   livro   espero   esta   relendo  ¬   o  .    
+Trees:
+elaboration(n(1), s('elaboration(n(2), s(3))'));

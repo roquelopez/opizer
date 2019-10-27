@@ -1,0 +1,15 @@
+Segments:
+1: Ótimo   livro  !    
+2: A   Thalita   é   uma   escritora   incrível  !    
+3: Este   livro  ,  em particular  ,   achei   o   mais   legal  .    
+4: Em   o   capítulo(capítulo)_n
+5: em   que   ela   leva   o   namorado   para   o   pai   conhecer  ,
+6: ri   tanto(tanto)_adv
+7: que   quase   perdi   o   fôlego  .    
+8: É   claro(claro)_adj
+9: que(que)_conj-s
+10: se   você   tiver   mais(muito)_pron-indef
+11: que   20   anos   vai   achar   o   livro   bem   babaca  ,
+12: porém   para   adolescentes   é   realmente   bom  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n('elaboration(n('circumstance(n(4), s(5))'), s(6))'), s(7))'))'), s('antithesis(n('elaboration(n('elaboration(n(8), s(9))'), s('condition(n(10), s(11))'))'), s(12))'));

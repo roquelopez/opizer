@@ -1,0 +1,5 @@
+Segments:
+1: Principais   qualidades   de   o   Iphone   5  .    
+2: Muito   prático  ,   com   boa   aparência  ,   e   ótima   qualidade  .    
+Trees:
+elaboration(n(1), s(2));

@@ -1,0 +1,44 @@
+Segments:
+1: Comprei(comprar)_v-fin
+2: e   Não   Recomendo  !
+3: Null  
+4: Parte5  )  
+5: tendo   em   vista(ver)_v-pcp
+6: que   a   At   teve   de   segunda   a   quinta(quinto)_adj
+7: para   testar   tudo  !  
+8: Ele   falou(falar)_v-fin
+9: que   não   tinha(ter)_v-fin
+10: mas(mas)_conj-c
+11: que   eu   poderia   tentar   antecipar   ligando   para   a   At  .    
+12: Depois   de   50   tentativas  ,   consegui   falar   com   a   Elisa(Elisa)_prop
+13: e   a   mesma   agendou   a   entrega   para   dia   09/(09/)_num   Mar  ?  
+14: Sábado  .  menos mal  ,   mesmo   sabendo(saber)_v-ger
+15: que   deveria   ficar   entre   08   e   14  em casa   em   pleno   sábado  !    
+16: Por volta de   11:00(11:00)_num   horas   de   sábado  ,   já   desconfiando   de   o   nível   de   serviço(serviço)_n   de   a   At  ,
+17: resolvi   ligar(ligar)_v-inf
+18: e   para   minha   surpresa   outra   pessoa   avisou(avisar)_v-fin
+19: que   a   entrega   não   seria   feita  !  
+20: Que   Absurdo  .  
+21: marcaram   com   mim  ,
+22: tive(ter)_v-fin
+23: que   ficar  em casa   e   nada  !  
+24: Ok  .   A   pessoa   confirmou(confirmar)_v-fin
+25: que   em   a   segunda   a   TV   seria   entregue   sem   falta  .    
+26: Hoje   é   dia   11/03(11/03)_num  ?  
+27: Segunda  ,   já   faz   parte   de   a   minha   rotina   ligar   50   vezes   em   o   fixo(fixar)_v-pcp
+28: e   mais   algumas   vezes   em   o   celular(celular)_adj
+29: (
+30: mesmo   desligando   em   a   minha   cara  )
+31: até   conseguir  .    
+32: Atendeu   outra   pessoa  ,
+33: passei   o   nº(nº)_n   de   a   Os  ,
+34: pediu(pedir)_v-fin
+35: para   esperar   pq   a   Elisa   estava   ocupada(ocupar)_v-pcp
+36: e   simplesmente   desligou   em   a   minha   cara  !    
+37: Pronto  !   Acabou   A   Paciência  .  
+38: Agora   É   Entrar   Justiça(justiça)_n  !  !  !  !    
+39: Mais   Uma   Vez  Digo E   Repito  ,
+40: SAMSUNG   Não   Tem   Controle   Nenhum   em   Seu   Pós   Venda  !  !  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('sequence(n('purpose(n('purpose(n('elaboration(n(1), s('cause(n(2), s(3))'))'), s(4))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(5), s(6))'), s(7))'), s(8))'), s(9))'), s(10))'), s(11))'))'), n('elaboration(n('elaboration(n(12), s(13))'), s('comparison(n(14), s(15))'))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(16), s(17))'), s(18))'), s(19))'), s('elaboration(n(20), s('elaboration(n(21), s(22))'))'))'), s(23))'), s(24))'), s(25))'))'), s('elaboration(n(26), s('elaboration(n(27), s('elaboration(n('elaboration(n(28), s(29))'), s('elaboration(n(30), s(31))'))'))'))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(32), s(33))'), s(34))'), s(35))'), s(36))'))'), s('elaboration(n(37), s(38))'))'), s('elaboration(n(39), s(40))'));
+

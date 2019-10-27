@@ -1,0 +1,13 @@
+Segments:
+1: Achei   o   livro  um pouco   fútil  .    
+2: Acho(achar)_v-fin
+3: que   adolescentes   como   a   Malu   são   difícies   de   encontrar  ,
+4: não   me   identifiquei   com   ela  .    
+5: Ela   trata   mãe(mãe)_n
+6: mas   como   uma   melhor   amiga   mesmo  ,
+7: mas   até   em   o   modo   de   lidar   mesmo  ,
+8: o que   eu   acho   errado  .    
+9: Mas   gostei   muito   de   o   final  ,
+10: compensa  .    
+Trees:
+antithesis(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s('antithesis(n(5), s('elaboration(n('concession(n(6), s(7))'), s(8))'))'))'), s('elaboration(n(9), s(10))'));

@@ -1,0 +1,8 @@
+Segments:
+1: É   um   livro   com   uma   história   simples  .    
+2: ele   te   prende   mais  por causa de   a   personagem   de   o   que   por   o   enredo  .    
+3: p.(p.)_n   s  .    
+4: mas   o   suspense   e   as   peripécias   de   tracy   são   bem   descritas(descrever)_v-pcp
+5: e   aguçam(aguçar)_v-fin   a   curiosidade    
+Trees:
+antithesis(n('elaboration(n('elaboration(n(1), s(2))'), s(3))'), s('elaboration(n(4), s(5))'));

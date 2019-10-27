@@ -1,0 +1,17 @@
+Segments:
+1: Cheio   de   tranqueiras   e   bateria   Podre     SAMSUNG  ,
+2: para   que   tantos   apps   inúteis  .    
+3: Deixe   o   Android   viver   sozinho   em   paz  ,
+4: esses   montes   de   Apps   só   tornam   o   sistema  &quot;
+5: elefantizado  &quot;  ,
+6: provavelmente   comprometendo   a   duração(duração)_n   de   a   bateria  .    
+7: Aliás  ,   a   bateria   certamente   é   o  ponto fraco   de   o   produto  .    
+8: Tenho   um   iphone   5(5)_num
+9: e   um   nokia   e71(e71)_n
+10:    dinossauro  )
+11: e   os   2   Humilham   em   a   duração(duração)_n   de   a   bateria  .    
+12: Fica   a   dica  ,
+13: se   for   comprar  ,
+14: tenha   um   carregador   em   o   carro  ,   em   a   mochila  ,  em casa  ,   ou   uma   bateria   extra  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('purpose(n('purpose(n(1), s(2))'), s('elaboration(n('elaboration(n('elaboration(n(3), s(4))'), s(5))'), s(6))'))'), s(7))'), s('purpose(n('elaboration(n(8), s('cause(n(9), s(10))'))'), s(11))'))'), s('condition(n(12), s('condition(n(13), s(14))'))'));

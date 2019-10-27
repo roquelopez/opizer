@@ -1,0 +1,10 @@
+Segments:
+1: Fala   serio   amiga     Esse   livro   conta   ahistoria   de   Malu   e   suas   inseparaveis   amigas  .    
+2: Conta   a   historia   de   cada   uma   de   seus   momentos   marcantes   de   tim   por   tim   fala   de   os   conflitos   de   uma   amizade  ,
+3: de   a   tristeza   quando   acontece   algo   com   alguma   amiga  .  
+4: Esse   livro   e   muito   legal   fala   de   todo(todo)_pron-indef
+5: que   uma   amiga(amiga)_n
+6: e(e)_conj-c
+7: ou   pode   ser  .    
+Trees:
+elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s('elaboration(n('elaboration(n(4), s(5))'), s('elaboration(n(6), s(7))'))'))'));

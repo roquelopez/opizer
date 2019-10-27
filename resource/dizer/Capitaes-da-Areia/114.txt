@@ -1,0 +1,13 @@
+Segments:
+1: Idade   inadequada  .    
+2: Esse   foi   um   livro   que   eu   tive(ter)_v-fin
+3: que   ler   em   a   8ª-s(8ª-s)_num   érie  .    
+4: Em função(função)_prp de   a   idade  ,   eu   detestei  .    
+5: Queria   distância   de   o   nome  Jorge Amado   depois   de   isso  .    
+6: Hoje  ,   porém  ,   creio(crer)_v-fin
+7: que   eu   gostaria   de   o   livro  .    
+8: Estou   cogitando   lê  ¬   lo  de novo   eventualmente  .    
+9: Não   é   bem   uma   resenha  ,
+10: mais   um   aviso   para   não   darem  Capitães da Areia   para   uma   criança(criança)_n   de   14   anos   ler  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4))'), s(5))'), s('elaboration(n(6), s(7))'))'), s(8))'), s('elaboration(n(9), s(10))'));

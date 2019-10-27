@@ -1,0 +1,13 @@
+Segments:
+1: adaptabilidade     Confesso(confessar)_v-fin
+2: que   em   o   começo(começo)_n   não   gostei  .    
+3: Depois   fui   curtindo  .    
+4: Em   o   final  ,   me   envolvi  ,
+5: me   vi   vendo   tudo   que   os   personagens   não   viam  .    
+6: E   tudo   que  de fato   os   olhos   não   vêem  ,
+7: o   coração(coração)_n  ,   o   corpo(corpo)_n
+8: e   a   mente   não   sente  ,
+9: demonstrando   a   capacidade   de   o  ser humano   em  ,
+10: em   situações(situação)_n   extremas  ,   conseguir   demonstrar   ser   capaz   de   uma   adaptabilidade  .    
+Trees:
+elaboration(n('elaboration(n('sequence(n('elaboration(n(1), s(2))'), n(3))'), s('elaboration(n(4), s(5))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(6), s(7))'), s(8))'), s(9))'), s(10))'));

@@ -1,0 +1,5 @@
+Segments:
+1: O   melhor  !    
+2: Intenso  ,   romantico  ,   inesperado  ,   brilhante  ,   apaixonante  ,   sexy  !    
+Trees:
+elaboration(n(1), s(2));

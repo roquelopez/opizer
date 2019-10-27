@@ -1,0 +1,11 @@
+Segments:
+1: Conceito Big   Brother     O   livro   talvez   desanime   leitores   mais   afoito   em   suas   primeiras   páginas  .    
+2: A   história   não   tem   pressa(pressa)_n
+3: para   acontecer(acontecer)_v-inf
+4: e   a   ação(ação)_n   só   começa(começar)_v-fin   mesmo   de   a   metade   para   o   final  .    
+5: Em   o   entanto   o   seu   conteúdo   é   extremamente   reflexivo  .    
+6: A   discussão   sobre   o   controle   de   o   governo   sob   o   livre   abítrio   é   ímpar(ímpar)_adj
+7: e   merece   uma   atenção(atenção)_n   especial  .    
+8: Uma   pena   que   uma   obra   de   qualidade   indiscutível   tenha   inspirado   um   reality   show   de   gosto   duvidoso  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s('elaboration(n('elaboration(n(2), s(3))'), s(4))'))'), s(5))'), s('elaboration(n(6), s(7))'))'), s(8));

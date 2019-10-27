@@ -1,0 +1,7 @@
+Segments:
+1: Amei  !    
+2: O   meu   favorito   de   a   série   Fala   Sério  .    
+3: Foi   o   que   eu   mais   me   identifiquei  .  :  
+4: D    
+Trees:
+elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'));

@@ -1,0 +1,9 @@
+Segments:
+1: Tem   Aquelas   Professoras   Que   Dá  Vontade De Matar  ,
+2: Mas   Por   Outro   Lado   Tem   Aquelas(aquele)_pron-dem
+3: que   A   Os   Poucos   Vai   Te   Conquistando   De   Um   Jeito(jeito)_n
+4: que   Quando   Agente   Ver   Já   É   Especial(especial)_adj
+5: E(e)_conj-c
+6: Que   Sempre   Vai   Ficar   Em   O   Nosso   Coração(coração)_n  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('concession(n(1), s(2))'), s(3))'), s(4))'), s(5))'), s(6));

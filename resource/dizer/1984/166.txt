@@ -1,0 +1,5 @@
+Segments:
+1: Tem   uma   grande   história  ,
+2: mas   infelizmente   eu   não   tenho   saco   para   o   estilo   de   escrever   de   o   autor    
+Trees:
+concession(n(1), s(2));

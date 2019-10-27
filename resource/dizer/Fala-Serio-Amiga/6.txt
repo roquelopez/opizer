@@ -1,0 +1,15 @@
+Segments:
+1: Mais uma vez  ,   em   um   enredo   simples   e   muito   divertido  ,
+2: Thalita Rebouças(Rebouças)_prop   em   os   traz   a   alegria   de   a   vida   que   toda   garota   conhece  ,
+3: mas   que   não   consegue   apreciar  .    
+4: E.(E.)_prop   como   sempre  ,   através   de   os   olhos  ,   de   as   palavras  ,   e   de   as   amigas   de   a   Malu  ,   conseguimos   enxergar   muito   de   nós   mesmas(mesmo)_pron-indef
+5: e   de   as   nossas   próprias   amigas  ,   em   os   vendo   em   características  ,   frases(frase)_n
+6: e   situações(situação)_n  ,   em   um  dia a dia(dia)_adv
+7: que   por   ser   tão   único   é   também   tão   igual   a   o   de  todo mundo  .    
+8: Ri(rir)_v-fin
+9: e   me   emocionei   muito   com   o   livro  ,
+10: e  ,
+11: como   aconteceu   quando   li   Fala   Sério  ,
+12: Mãe  ,   acabei   o   livro   com   aquela   vontade   apertada   de   reuniar  todas as   minhas   amigas   pra   matar   a   saudade  !    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s('concession(n(2), s(3))'))'), s('elaboration(n('elaboration(n('elaboration(n(4), s(5))'), s(6))'), s(7))'))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(8), s(9))'), s(10))'), s(11))'), s(12))'));

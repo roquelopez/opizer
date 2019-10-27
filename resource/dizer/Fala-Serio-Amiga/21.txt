@@ -1,0 +1,11 @@
+Segments:
+1: maravilhoso  .    
+2: Fala   sério   amiga   é   um   livro   muito   bom  .    
+3: Fala   de   uma   garota   chamada   Malu  ,
+4: ela   conta   como   é   a   sua   vida   desde   os   três   anos   de   idade   até   a   sua   idade   atual   21   anos  .    
+5: Ela   e   suas   amigas   vivem   muitas   aventuras  ,
+6: conhecem   várias   outras   garotas  ,
+7: arrumam   namorados(namorado)_n
+8: e   principalmente   encrenca  .    
+Trees:
+elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'))'), s('elaboration(n('elaboration(n('elaboration(n(5), s(6))'), s(7))'), s(8))'));

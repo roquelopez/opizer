@@ -1,0 +1,30 @@
+Segments:
+1: O  Outro Lado da Meia-Noite     Este   livro   realmente   me   surpreendeu  .    
+2: Logo   em   o   inicio   já   temos   uma   idéia   de   o   fim  ,
+3: mas  mesmo assim  ,   o   fim   conseguiu   me   surpreender  .    
+4: E   mesmo   já   sabendo   de   o   desfecho  ,
+5: o   livro   todo   ficamos   nos   perguntando   Como  ,
+6: de(de)_prp
+7: que   forma   o   livro   se   desenrola-rá(desenrola-rá)_n
+8: para   ter   aquela   conclusão  ,
+9: pois  ,   como   sendo   o   livro   separado   por   capítulos   destinados   A   as   duas   personagens   principais  ,
+10: fica   muito   dificil   de   saber   dois   meios   tão   diferentes   conseguirem   se   encontrar(encontrar)_v-inf
+11: e   ter   esse   desfecho  .    
+12: O   que   chega   a   os   dois   únicos   pontos   negativos   de   o   livro  :  
+13: 1º(1º)_adj   é   a   questão(questão)_n
+14: de(de)_prp
+15: que   os   capítulos   são   imensos  ,
+16: quase(quase)_adv
+17: que   intermináveis  ,   o   que   deixa   a   leitura   mais   lenta  ,   pesada  ,   massante  .    
+18: Outro   ponto   negativo   é   exatamente   isso  ,
+19: em   certos   pontos   fica   dificil   de   prosseguir   com   a   leitura  ,
+20: o   livro   fica   muito   massante  .    
+21: Mas   em   um   contexto   todo  ,   o   livro   conseguiu   suprir   minhas   expectativas  ,   principalmente   em   o   fim  .    
+22: Para   aqueles   que   gostam   de   histórias(história)_n
+23: que(que)_conj-s
+24: se   desenrrolem   lentamente  ,
+25: esse   livro   é   ideal  .    
+26: É   cheio   de   supresas  ,   segredos  ,
+27: enfim  ,   é   um   ótimo   livro  .    
+Trees:
+elaboration(n('elaboration(n('antithesis(n('elaboration(n('elaboration(n('elaboration(n('result(n(1), s('concession(n(2), s(3))'))'), s('cause(n(4), s('cause(n(5), s('elaboration(n('cause(n(6), s('cause(n('elaboration(n(7), s('cause(n(8), s(9))'))'), s(10))'))'), s(11))'))'))'))'), s('elaboration(n(12), s('elaboration(n(13), s('elaboration(n('elaboration(n(14), s(15))'), s('elaboration(n(16), s(17))'))'))'))'))'), s('elaboration(n('elaboration(n(18), s(19))'), s(20))'))'), s(21))'), s('elaboration(n('elaboration(n(22), s(23))'), s('condition(n(24), s(25))'))'))'), s('elaboration(n(26), s(27))'));

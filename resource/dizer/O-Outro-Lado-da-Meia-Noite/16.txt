@@ -1,0 +1,11 @@
+Segments:
+1: Acho   esse   livro   impressionante  .    
+2: Sydney Sheldon   tem   a   marca   registrada   de   envolver   o   leitor   em   as   histórias   de   vida   de   seus   personagens(personagem)_n
+3: como se   você   fizesse   parte   de   a   aquilo  .    
+4: Mas   em  &quot;   O   Outro   Lado   de   a   Meia-Noite  &quot;   a   interação(interação)_n   é   enorme  !    
+5: Acho   impossível   não   manter   uma   relação(relação)_n   de   amor(amor)_n
+6: e   ódio   com   Noelle  por exemplo  ,
+7: que   em   a   minha   opinião   é   uma   de   as   personagens   mais   fortes(forte)_adj
+8: que   Sheldon   já   criou  .    
+Trees:
+elaboration(n('antithesis(n('elaboration(n(1), s('elaboration(n(2), s(3))'))'), s(4))'), s('elaboration(n('elaboration(n(5), s(6))'), s('comparison(n(7), s(8))'))'));

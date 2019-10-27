@@ -1,0 +1,20 @@
+Segments:
+1: Com  todo o   respeito   a   quem   gostou  ,
+2: mas   sinceramente   não   consegui   entender   o   que   faz   esse   livro   ser   considerado   bom  .    
+3: Achei   a   narrativa   pobre  ,
+4: a   história   muito   forçada(forçado)_adj
+5: e   extremamente   mal   contada  ,
+6: os   personagens  &quot;
+7: murchos  &quot;  .    
+8: O   único   personagem   que   poderia   render   alguma   coisa  ,   Banda  ,
+9: não   é   explorado   devidamente  .    
+10: Ainda   mais   com   o  pano de fundo   de   ele  ,
+11: que   é   a  África(África)_prop do Sul   sob   o   regime   de   o   apartheid  .    
+12: Mas   o   que   acaba   acontecendo   é   uma   espécie   de   breve   nota   de   o   autor  ,
+13: como se   ele   dissesse  &quot;   olha   só  ,
+14: não   concordo   com   o   apartheid  ,
+15: mas   vamos   a   a   história  .  &quot;    
+16: Insisto  :   com  todo o   respeito   a   quem   gostou  ,
+17: mas   esse   livro   é   desprezível  .    
+Trees:
+elaboration(n('antithesis(n('elaboration(n('elaboration(n('elaboration(n('concession(n(1), s(2))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(3), s(4))'), s(5))'), s(6))'), s(7))'))'), s('elaboration(n(8), s(9))'))'), s('comparison(n(10), s(11))'))'), s('elaboration(n('elaboration(n(12), s(13))'), s('concession(n(14), s(15))'))'))'), s('concession(n(16), s(17))'));

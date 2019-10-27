@@ -1,0 +1,17 @@
+Segments:
+1: tal   mãe  ,   tal   filha     Ameeeeeeeeeeeeeeeeeeeeeeeeeeeeei   esse   livro  .    
+2: A   o   mesmo   tempo(tempo)_n
+3: em   que  ´   dava   boas   risadas   com   as   história(história)_n
+4: e   micos   entre   Malu(Malu)_prop
+5: e   a   mãe   de   ela  ,   refleti(refletir)_v-fin
+6: que   as   mães   estão   sempre   de   o   lado   de   os   filhos  ,
+7: ajudando  ,
+8: cuidando  ,
+9: aconselhando  ,
+10: dando   bronca(bronco)_adj
+11: e   ensinando   sobre   a   vida  ,
+12: afinal  ,
+13: elas   são   bem   mais   experientes   que   nós  .    
+14: Só   tenho   o   que   agradecer   a   a   minha   mãe  ,   meu   maior   orgulho  ,   meu   maior   exemplo    
+Trees:
+elaboration(n('elaboration(n(1), s('elaboration(n('result(n('elaboration(n('elaboration(n('result(n('elaboration(n('elaboration(n('elaboration(n('circumstance(n(2), s(3))'), s(4))'), s(5))'), s('result(n(6), s(7))'))'), s(8))'), s(9))'), s('result(n(10), s(11))'))'), s(12))'), s(13))'))'), s(14));

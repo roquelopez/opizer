@@ -1,0 +1,14 @@
+Segments:
+1: Se   soubesse(saber)_v-fin
+2: que   era   tão   lento  
+3: Bem  ,   o   produto   é   muito   lento  .  
+4: Um   giga   de   ram   não   é   suficiente(suficiente)_adj
+5: para   rodar   o   4.1(4.1)_num  ,
+6: muito   menos   o   4.3(4.3)_num  ,
+7: tanto  é que(que)_adv
+8: nem   vai   ser   disponibilizado   a   atualização(atualização)_n   para   o   4.4(4.4)_num  .    
+9: Ele   demora   segundos   perceptíveis(perceptível)_adj
+10: para   abrir   o   teclado  ,   os   contatos  ,   mensagens   e   etc  .  
+11: chega   a   ser   irritante  .    
+Trees:
+elaboration(n('condition(n('condition(n(1), s(2))'), s('elaboration(n(3), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(4), s(5))'), s(6))'), s(7))'), s(8))'))'))'), s('elaboration(n('elaboration(n(9), s(10))'), s(11))'));

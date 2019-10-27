@@ -1,0 +1,7 @@
+Segments:
+1: fala   sério  ,   amor  !    
+2: este   livro   ele   é   muito   enteresante   legau   eu   gostei   de   ele   muito   interesante  .  .    
+3: eu   não   tenho   o   que   fala   é   so   iso(iso)_ec
+4: que   eu   tenho  .    
+Trees:
+elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n(3), s(4))'));

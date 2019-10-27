@@ -1,0 +1,19 @@
+Segments:
+1: O  Grande Irmão   está  de olho em   você  .    
+2: Contra-indicado   para   os   mais   impressionáveis  .    
+3: Muitos   anos   se   passarão  ,
+4: livros(livro)_n
+5: e   mais   livros   serão   lidos(ler)_v-pcp
+6: e   não   me   esquecerei   de   esse  .    
+7: Contém   medo   e   suspense   desde   a   primeira   linha  .    
+8: Winston Smith   vegetou(vegetar)_v-fin
+9: (
+10: pois   em   Oceânia   não   se   vivia  )
+11: perigosamente   desde   o   início(início)_n
+12: e   me   perguntava   o   tempo   todo   por   quanto   tempo   seria   possível  .    &quot;    
+13: Guerra   é   paz  .    
+14: Liberdade   é   escravidão  .    
+15: Ignorância   é   força(força)_n  .    &quot;  
+16: E   definitivamente  ,   2  +   2   5    
+Trees:
+elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n('elaboration(n(1), s(2))'), s('elaboration(n('elaboration(n('elaboration(n(3), s(4))'), s(5))'), s(6))'))'), s(7))'), s('elaboration(n('elaboration(n('elaboration(n('elaboration(n(8), s(9))'), s(10))'), s(11))'), s(12))'))'), s(13))'), s(14))'), s(15))'), s(16));

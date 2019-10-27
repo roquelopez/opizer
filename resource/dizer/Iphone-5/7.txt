@@ -1,0 +1,5 @@
+Segments:
+1: Mutio   bom  ,   otimo  ,   perfeito  
+2: Muito   lindo   demais   esse   iphone   o   melhor   smartphone   que   existe  .    
+Trees:
+elaboration(n(1), s(2));

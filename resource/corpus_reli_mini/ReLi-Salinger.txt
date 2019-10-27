@@ -1,0 +1,958 @@
+[features = word, pos, object, opinion, polarity, help]
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_4
+#Nota_0.0
+#Título_4
+Muito	PROADJ	O	op00-	-	O
+hype	N	O	op00-	-	O
+por	PREP	O	op00-	-	O
+nada	PROSUB	O	op00-	-	O
+...	...	O	O	O	O
+
+#Corpo_4
+Todo	N	O	O	-	O
+mundo	N	O	O	-	O
+fala	V	O	O	-	O
+que	KS	O	O	-	O
+esse	PROADJ	O	O	-	O
+livro	N	OBJ00	O	-	O
+é	VAUX	O	O	-	O
+foda	PCP	O	O	-	O
+,	,	O	O	-	O
+mas	KC	O	O	-	O
+em	PREP	O	O	-	O
+a	ART	O	O	-	O
+verdade	N	O	O	-	O
+ele	PROPESS	O	O	-	O
+é	V	O	O	-	O
+um	ART	O	O	-	O
+lixo	N	O	op00-	-	O
+.	.	O	O	-	O
+
+Realmente	ADV	O	O	O	O
+a	ART	O	O	O	O
+única	ADJ	O	O	O	O
+passagem	N	O	O	O	O
+mais	ADV	O	O	O	O
+ou	ADV	O	O	O	O
+menos	ADV	O	O	O	O
+bonita	ADJ	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+é	V	O	O	O	O
+o	ART	O	O	O	O
+sonho	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+moleque	N	O	O	O	O
+pegando	V	O	O	O	O
+uma	ART	O	O	O	O
+bola	N	O	O	O	O
+de	PREP	O	O	O	O
+baseball	N	O	O	O	O
+em	PREP	O	O	O	O
+o	ART	O	O	O	O
+campo	N	O	O	O	O
+de	PREP	O	O	O	O
+centeio	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+dá	V	O	O	O	O
+pra	PREP	O	O	O	O
+um	ART	O	O	O	O
+abismo	N	O	O	O	O
+.	.	O	O	O	O
+
+O	ART	O	O	-	O
+resto	N	O	O	-	O
+,	,	O	O	-	O
+é	V	O	O	-	O
+sofrível	ADJ	O	op00-	-	O
+enquanto	KS	O	op00-	-	O
+literatura	N	O	op00-	-	O
+.	.	O	O	O	O
+
+Não	ADV	O	O	-	O
+sei	V	O	O	-	O
+como	ADV-KS	O	O	-	O
+uma	ART	O	O	-	O
+porcaria	N	O	op00-	-	O
+de	PREP	O	O	-	O
+essa	PROSUB	O	O	-	O
+conseguiu	VAUX	O	O	-	O
+ser	VAUX	O	O	-	O
+consagrada	PCP	O	O	-	O
+.	.	O	O	-	O
+
+Se	KS	O	O	O	O
+bem	KS	O	O	O	O
+que	KS	O	O	O	O
+...	...	O	O	O	O
+Tem	V	O	O	O	O
+tanta	PROADJ	O	O	O	O
+porcaria	N	O	O	O	O
+consagrada	PCP	O	O	O	O
+por	PREP	O	O	O	O
+aí	ADV	O	O	O	O
+de	PREP	O	O	O	O
+qualquer	PROADJ	O	O	O	O
+jeito	N	O	O	O	O
+..	ADJ	O	O	O	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_6
+#Nota_1.0
+#Título_6
+
+#Corpo_6
+Acho	V	O	O	-	O
+que	KS	O	O	-	O
+esse	PROADJ	O	O	-	O
+eh	V	O	O	-	O
+o	ART	O	O	-	O
+livro	N	OBJ00	O	-	O
+mais	ADV	O	op00-	-	O
+chato	ADJ	O	op00-	-	O
+que	PRO-KS-REL	O	op00-	-	O
+ja	V	O	op00-	-	O
+li	V	O	op00-	-	O
+em	PREP	O	op00-	-	O
+a	ART	O	op00-	-	O
+vida	N	O	op00-	-	O
+.	.	O	O	-	O
+
+A	ART	O	O	O	O
+minha	PROADJ	O	O	O	O
+leitura	N	O	O	O	O
+foi	V	O	O	O	O
+mais	PROADJ	O	O	O	O
+um	NUM	O	O	O	O
+desafio	N	O	O	O	O
+para	PREP	O	O	O	O
+chegar	V	O	O	O	O
+ate	V	O	O	O	O
+o	ART	O	O	O	O
+final	N	O	O	O	O
+.	.	O	O	O	O
+
+Quanto	KS	O	O	O	O
+mais	ADV	O	O	O	O
+eu	PROPESS	O	O	O	O
+lia	V	O	O	O	O
+,	,	O	O	O	O
+mais	ADV	O	O	O	O
+desejava	V	O	O	O	O
+acontecesse	V	O	O	O	O
+uma	ART	O	O	O	O
+desgraca	N	O	O	O	O
+a	PREP	O	O	O	O
+o	ART	O	O	O	O
+personagem	N	O	O	O	O
+e	KC	O	O	O	O
+acabasse	V	O	O	O	O
+logo	ADV	O	O	O	O
+com	PREP	O	O	O	O
+a	ART	O	O	O	O
+historia	N	O	O	O	O
+.	.	O	O	O	O
+
+Um	ART	O	O	-	O
+personagem	N	OBJ01	O	-	O
+completamente	ADV	O	O	-	O
+desagradavel	ADJ	O	op01-	-	O
+,	,	O	O	-	O
+em	PREP	O	O	-	O
+a	ART	O	O	-	O
+minha	PROADJ	O	O	-	O
+humilde	ADJ	O	O	-	O
+opiniao	N	O	O	-	O
+.	.	O	O	-	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_29
+#Nota_1.0
+#Título_29
+
+#Corpo_29
+Até	PREP	O	op00-	-	O
+hoje	ADV	O	op00-	-	O
+não	ADV	O	op00-	-	O
+compreendo	V	O	op00-	-	O
+porque	KS	O	op00-	-	O
+esse	PROADJ	O	op00-	-	O
+livro	N	O	op00-	-	O
+é	VAUX	O	op00-	-	O
+considerado	PCP	O	op00-	-	O
+um	ART	O	op00-	-	O
+clássico	N	O	op00-	-	O
+de	PREP	O	op00-	-	O
+a	ART	O	op00-	-	O
+literatura	N	O	op00-	-	O
+.	.	O	O	-	O
+
+A	PREP	O	O	-	O
+começar	V	O	O	-	O
+por	PREP	O	O	-	O
+o	ART	O	O	-	O
+título	N	OBJ03	O	-	O
+de	PREP	O	O	-	O
+o	ART	O	O	-	O
+livro	N	O	O	-	O
+que	PRO-KS-REL	O	O	-	O
+nada	PROSUB	O	op03-	-	O
+tem	V	O	op03-	-	O
+a	PREP	O	op03-	-	O
+ver	V	O	op03-	-	O
+com	PREP	O	op03-	-	O
+a	ART	O	op03-	-	O
+história	N	O	op03-	-	O
+de	PREP	O	O	-	O
+o	ART	O	O	-	O
+livro	N	O	O	-	O
+.	.	O	O	-	O
+
+O	ART	O	O	O	O
+apanhador	N	O	O	O	O
+em	PREP	O	O	O	O
+o	ART	O	O	O	O
+campo	N	O	O	O	O
+de	PREP	O	O	O	O
+centeio	N	O	O	O	O
+é	V	O	O	O	O
+o	ART	O	O	O	O
+nome	N	O	O	O	O
+de	PREP	O	O	O	O
+uma	ART	O	O	O	O
+música	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+um	ART	O	O	O	O
+figurante	N	O	O	O	O
+(	(	O	O	O	O
+isso	PROSUB	O	O	O	O
+mesmo	PDEN	O	O	O	O
+,	,	O	O	O	O
+um	ART	O	O	O	O
+menininho	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+aparece	V	O	O	O	O
+em	PREP	O	O	O	O
+um	ART	O	O	O	O
+parágrafo	N	O	O	O	O
+perdido	PCP	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+)	)	O	O	O	O
+passa	V	O	O	O	O
+assoviando	V	O	O	O	O
+em	PREP	O	O	O	O
+a	ART	O	O	O	O
+frente	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+personagem	N	O	O	O	O
+principal	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+Então	ADV	O	O	O	O
+ele	PROPESS	O	O	O	O
+cita	V	O	O	O	O
+que	KS	O	O	O	O
+o	ART	O	O	O	O
+menino	N	O	O	O	O
+está	VAUX	O	O	O	O
+assoviando	V	O	O	O	O
+a	ART	O	O	O	O
+música	N	O	O	O	O
+tal	PROADJ	O	O	O	O
+e	KC	O	O	O	O
+é	V	O	O	O	O
+aí	ADV	O	O	O	O
+basicamente	ADV	O	O	O	O
+que	KS	O	O	O	O
+se	PROPESS	O	O	O	O
+menciona	V	O	O	O	O
+o	PRO-KS	O	O	O	O
+que	PRO-KS	O	O	O	O
+se	PROPESS	O	O	O	O
+dá	V	O	O	O	O
+título	N	O	O	O	O
+a	PREP	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+.	.	O	O	O	O
+
+O	ART	O	O	O	O
+livro	N	O	O	O	O
+conta	V	O	O	O	O
+a	ART	O	O	O	O
+história	N	O	O	O	O
+de	PREP	O	O	O	O
+um	ART	O	O	O	O
+adolescente	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+estilo	N	O	O	O	O
+rebelde	ADJ	O	O	O	O
+sem	PREP	O	O	O	O
+causa	N	O	O	O	O
+(	(	O	O	O	O
+literalmente	ADV	O	O	O	O
+)	)	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+decide	V	O	O	O	O
+parar	VAUX	O	O	O	O
+de	PREP	O	O	O	O
+estudar	V	O	O	O	O
+porque	KS	O	O	O	O
+não	ADV	O	O	O	O
+gosta	V	O	O	O	O
+de	PREP	O	O	O	O
+estudar	V	O	O	O	O
+,	,	O	O	O	O
+também	PDEN	O	O	O	O
+não	ADV	O	O	O	O
+gosta	V	O	O	O	O
+de	PREP	O	O	O	O
+ninguém	PROSUB	O	O	O	O
+e	KC	O	O	O	O
+se	PROPESS	O	O	O	O
+relaciona	V	O	O	O	O
+mal	ADV	O	O	O	O
+com	PREP	O	O	O	O
+a	ART	O	O	O	O
+família	N	O	O	O	O
+.	.	O	O	O	O
+
+Então	ADV	O	O	O	O
+ele	PROPESS	O	O	O	O
+abandona	V	O	O	O	O
+o	ART	O	O	O	O
+colégio	N	O	O	O	O
+interno	ADJ	O	O	O	O
+e	KC	O	O	O	O
+sai	V	O	O	O	O
+vagando	V	O	O	O	O
+por	PREP	O	O	O	O
+aí	ADV	O	O	O	O
+.	.	O	O	O	O
+
+Ok	IN	O	O	O	O
+,	,	O	O	O	O
+e	KC	O	O	O	O
+qual	PRO-KS-REL	O	O	O	O
+é	V	O	O	O	O
+a	ART	O	O	O	O
+história	N	O	O	O	O
+mesmo	PROSUB	O	O	O	O
+?	?	O	O	O	O
+
+Qual	PROSUB	O	O	O	O
+o	ART	O	O	O	O
+objetivo	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+peronagem	N	O	O	O	O
+?	?	O	O	O	O
+
+Pois	KC	O	O	O	O
+é	V	O	O	O	O
+..	N	O	O	O	O
+nenhum	PROADJ	O	O	O	O
+.	.	O	O	O	O
+
+Vadiar	V	O	O	O	O
+,	,	O	O	O	O
+somente	PDEN	O	O	O	O
+.	.	O	O	O	O
+
+Pois	KC	O	O	-	O
+é	V	O	O	-	O
+..	N	O	O	-	O
+belo	ADJ	O	O	-	O
+exemplo	N	O	O	-	O
+para	PREP	O	O	-	O
+a	ART	O	O	-	O
+juventude	N	O	O	-	O
+esse	PROADJ	O	O	-	O
+"	"	O	op00-	-	O
+clássico	ADJ	O	op00-	-	O
+"	"	O	op00-	-	O
+de	PREP	O	op00-	-	O
+a	ART	O	op00-	-	O
+literatura	N	O	op00-	-	O
+.	.	O	O	-	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_42
+#Nota_2.0
+#Título_42
+Um	ART	O	O	O	O
+livro	N	O	O	O	O
+revolucionário	ADJ	O	O	O	O
+,	,	O	O	O	O
+para	PREP	O	O	O	O
+a	ART	O	O	O	O
+época	N	O	O	O	O
+em	PREP	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+foi	VAUX	O	O	O	O
+lançado	PCP	O	O	O	O
+
+#Corpo_42
+Hoje	ADV	O	O	-	O
+em	PREP	O	O	-	O
+dia	N	O	O	-	O
+é	V	O	O	-	O
+só	PDEN	O	op00-	-	O
+mais	PROADJ	O	op00-	-	O
+um	NUM	O	op00-	-	O
+livro	N	O	op00-	-	O
+.	.	O	O	-	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_56
+#Nota_5.0
+#Título_56
+
+#Corpo_56
+Já	ADV	O	O	+	O
+dizia	V	O	O	+	O
+a	ART	O	O	+	O
+expressão	N	O	O	+	O
+falada	PCP	O	O	+	O
+por	PREP	O	O	+	O
+Holden	N	O	O	+	O
+Caulfield	ADJ	O	O	+	O
+:	:	O	O	+	O
+Esse	PROADJ	O	O	+	O
+livro	N	OBJ00	O	+	O
+é	V	O	O	+	O
+100	NUM	O	op00+	+	O
+%	N	O	op00+	+	O
+.	.	O	O	+	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_62
+#Nota_2.0
+#Título_62
+Faltou	V	O	O	O	O
+o	ART	O	O	O	O
+clímax	N	O	O	O	O
+.	.	O	O	O	O
+
+#Corpo_62
+É	V	O	O	-	O
+um	ART	O	O	-	O
+livro	N	OBJ00	O	-	O
+bem	ADV	O	op00+	-	O
+escrito	PCP	O	op00+	-	O
+,	,	O	O	-	O
+mas	KC	O	O	-	O
+sempre	ADV	O	O	-	O
+parece	V	O	O	-	O
+que	KS	O	O	-	O
+algo	PROSUB	O	O	-	O
+está	V	O	O	-	O
+prestes	ADJ	O	O	-	O
+a	PREP	O	O	-	O
+acontecer	V	O	O	-	O
+e	KC	O	O	-	O
+NADA	NPROP	O	op00-	-	O
+acontece	V	O	op00-	-	O
+.	.	O	O	-	O
+
+Me	PROPESS	O	op00-	-	O
+frustrei	V	O	op00-	-	O
+.	.	O	op00-	-	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_86
+#Nota_5.0
+#Título_86
+
+#Corpo_86
+O	ART	O	O	-	O
+livro	N	OBJ00	O	-	O
+,	,	O	O	-	O
+de	PREP	O	O	-	O
+início	N	O	O	-	O
+,	,	O	O	-	O
+não	ADV	O	op00-	-	O
+empolga	V	O	op00-	-	O
+muito	ADV	O	op00-	-	O
+.	.	O	O	-	O
+
+Parece	V	O	O	-	O
+que	KS	O	O	-	O
+a	ART	O	O	-	O
+história	N	O	O	-	O
+não	ADV	O	O	-	O
+tem	V	O	O	-	O
+nenhuma	PROADJ	O	O	-	O
+intenção	N	O	O	-	O
+específica	ADJ	O	O	-	O
+,	,	O	O	-	O
+e	KC	O	O	-	O
+a	ART	O	O	-	O
+narração	N	OBJ01	O	-	O
+é	VAUX	O	O	-	O
+feita	PCP	O	O	-	O
+de	PREP	O	O	-	O
+maneira	N	O	O	-	O
+informal	ADJ	O	op01-	-	O
+demais	ADV	O	op01-	-	O
+,	,	O	O	-	O
+com	PREP	O	O	-	O
+uso	N	O	O	-	O
+repetitivo	ADJ	O	O	-	O
+de	PREP	O	O	-	O
+gírias	N	O	O	-	O
+e	KC	O	O	-	O
+palavras	N	O	O	-	O
+de	PREP	O	O	-	O
+baixo	ADV	O	O	-	O
+calão	V	O	O	-	O
+.	.	O	O	-	O
+
+Mas	KC	O	O	O	O
+a	PREP	O	O	O	O
+a	ART	O	O	O	O
+medida	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+a	ART	O	O	O	O
+história	N	O	O	O	O
+vai	VAUX	O	O	O	O
+se	PROPESS	O	O	O	O
+passando	V	O	O	O	O
+,	,	O	O	O	O
+você	PROPESS	O	O	O	O
+se	PROPESS	O	O	O	O
+adapta	V	O	O	O	O
+mais	ADV	O	O	O	O
+a	PREP	O	O	O	O
+o	ART	O	O	O	O
+personagem	N	O	O	O	O
+,	,	O	O	O	O
+a	PREP	O	O	O	O
+a	ART	O	O	O	O
+situação	N	O	O	O	O
+,	,	O	O	O	O
+passa	VAUX	O	O	O	O
+a	PREP	O	O	O	O
+entender	V	O	O	O	O
+melhor	ADV	O	O	O	O
+o	ART	O	O	O	O
+mundo	N	O	O	O	O
+em	PREP	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+se	PROPESS	O	O	O	O
+passa	V	O	O	O	O
+a	ART	O	O	O	O
+história	N	O	O	O	O
+e	KC	O	O	O	O
+a	ART	O	O	O	O
+possível	ADJ	O	O	O	O
+intencionalidade	N	O	O	O	O
+de	PREP	O	O	O	O
+o	ART	O	O	O	O
+autor	N	O	O	O	O
+.	.	O	O	O	O
+
+O	ART	O	O	+	O
+livro	N	OBJ00	O	+	O
+é	V	O	O	+	O
+de	PREP	O	O	+	O
+uma	ART	O	O	+	O
+leitura	N	O	O	+	O
+muito	ADV	O	O	+	O
+fácil	ADJ	O	op00+	+	O
+e	KC	O	O	+	O
+rápida	ADJ	O	op00+	+	O
+,	,	O	O	+	O
+acabei	V	O	O	+	O
+em	PREP	O	O	+	O
+três	NUM	O	O	+	O
+dias	N	O	O	+	O
+.	.	O	O	+	O
+
+E	KC	O	O	+	O
+agora	ADV	O	O	+	O
+entendi	V	O	op00+	+	O
+porque	KS	O	op00+	+	O
+ele	PROPESS	O	op00+	+	O
+é	V	O	op00+	+	O
+um	ART	O	op00+	+	O
+clássico	N	O	op00+	+	O
+.	.	O	O	+	O
+
+Ele	PROPESS	O	O	O	O
+mostra	V	O	O	O	O
+de	PREP	O	O	O	O
+forma	N	O	O	O	O
+clara	ADJ	O	O	O	O
+,	,	O	O	O	O
+simples	ADJ	O	O	O	O
+e	KC	O	O	O	O
+divertida	PCP	O	O	O	O
+os	ART	O	O	O	O
+pensamentos	N	O	O	O	O
+,	,	O	O	O	O
+conflitos	N	O	O	O	O
+e	KC	O	O	O	O
+dilemas	N	O	O	O	O
+de	PREP	O	O	O	O
+um	ART	O	O	O	O
+adolescente	N	O	O	O	O
+aparentemente	ADV	O	O	O	O
+revoltado	PCP	O	O	O	O
+com	PREP	O	O	O	O
+o	ART	O	O	O	O
+mundo	N	O	O	O	O
+,	,	O	O	O	O
+todas	PROADJ	O	O	O	O
+as	ART	O	O	O	O
+suas	PROADJ	O	O	O	O
+qualidades	N	O	O	O	O
+e	KC	O	O	O	O
+defeitos	N	O	O	O	O
+.	.	O	O	O	O
+
+Um	ART	O	O	O	O
+livro	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+agradará	V	O	O	O	O
+muitos	PROADJ	O	O	O	O
+adolescentes	N	O	O	O	O
+,	,	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+irão	VAUX	O	O	O	O
+se	PROPESS	O	O	O	O
+identificar	V	O	O	O	O
+com	PREP	O	O	O	O
+o	ART	O	O	O	O
+protagonista	N	O	O	O	O
+,	,	O	O	O	O
+Holden	N	O	O	O	O
+Caulfield	ADJ	O	O	O	O
+,	,	O	O	O	O
+e	KC	O	O	O	O
+também	PDEN	O	O	O	O
+adultos	N	O	O	O	O
+,	,	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+relembrarão	V	O	O	O	O
+essa	PROADJ	O	O	O	O
+fase	N	O	O	O	O
+de	PREP	O	O	O	O
+a	ART	O	O	O	O
+vida	N	O	O	O	O
+ou	KC	O	O	O	O
+a	PREP	O	O	O	O
+entenderão	V	O	O	O	O
+um	ADV	O	O	O	O
+pouco	ADV	O	O	O	O
+melhor	ADJ	O	O	O	O
+.	.	O	O	O	O
+
+Recomendado	PCP	O	op00+	+	O
+!	!	O	O	+	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_98
+#Nota_5.0
+#Título_98
+Perfeito	NPROP	O	op00+	+	O
+!	!	O	O	+	O
+
+#Corpo_98
+amei	V	O	op00+	+	O
+esse	PROADJ	O	O	+	O
+livro	N	OBJ00	O	+	O
+,	,	O	O	+	O
+ja	V	O	op00+	+	O
+li	V	O	op00+	+	O
+umas	ART	O	op00+	+	O
+3	NUM	O	op00+	+	O
+vezes	N	O	op00+	+	O
+,	,	O	O	+	O
+e	KC	O	O	+	O
+toda	PROADJ	O	op00+	+	O
+vez	N	O	op00+	+	O
+q	ADJ	O	op00+	+	O
+leio	V	O	op00+	+	O
+falto	N	O	op00+	+	O
+morrer	V	O	op00+	+	O
+de	PREP	O	op00+	+	O
+tanto	KC	O	op00+	+	O
+rir	V	O	op00+	+	O
+,	,	O	O	+	O
+elle	N	O	O	+	O
+mto	ADJ	O	O	+	O
+engraçado	PCP	O	op00+	+	O
+.	.	O	O	+	O
+
+recomento	N	O	op00+	+	O
+pra	PREP	O	O	+	O
+todos	PROSUB	O	O	+	O
+,	,	O	O	+	O
+pq	N	O	O	+	O
+todo	N	O	O	+	O
+mundo	N	O	O	+	O
+tem	V	O	O	+	O
+um	ADV	O	O	+	O
+pouco	ADV	O	O	+	O
+de	PREP	O	O	+	O
+Holden(	NPROP	O	O	+	O
+personagem	N	O	O	+	O
+principal	ADJ	O	O	+	O
+de	PREP	O	O	+	O
+o	ART	O	O	+	O
+livro	N	O	O	+	O
+)	)	O	O	+	O
+.	.	O	O	+	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_117
+#Nota_0.0
+#Título_117
+
+#Corpo_117
+Um	ART	O	O	-	O
+lixo	N	O	op00-	-	O
+,	,	O	O	-	O
+uma	ART	O	O	-	O
+verdadeira	ADJ	O	O	-	O
+porcaria	N	O	op00-	-	O
+...	...	O	O	-	O
+nunca	ADV	O	op00-	-	O
+li	V	O	op00-	-	O
+algo	PROSUB	O	op00-	-	O
+tão	ADV	O	op00-	-	O
+cretino	ADV	O	op00-	-	O
+em	PREP	O	O	-	O
+a	ART	O	O	-	O
+minha	PROADJ	O	O	-	O
+vida	N	O	O	-	O
+e	KC	O	O	-	O
+não	ADV	O	O	-	O
+me	PROPESS	O	O	-	O
+conformo	V	O	O	-	O
+de	PREP	O	O	-	O
+saber	V	O	O	-	O
+que	KS	O	O	-	O
+as	ART	O	O	-	O
+pessoas	N	O	O	-	O
+o	PROPESS	O	O	-	O
+consideram	V	O	O	-	O
+o	ART	O	O	-	O
+livro	N	O	O	-	O
+de	PREP	O	O	-	O
+suas	PROADJ	O	O	-	O
+vidas	N	O	O	-	O
+.	.	O	O	-	O
+
+Não	ADV	O	op00-	-	O
+recomendo	V	O	op00-	-	O
+!	!	O	O	-	O
+
+O	ART	O	O	-	O
+livro	N	OBJ00	O	-	O
+é	V	O	O	-	O
+idiota	ADJ	O	op00-	-	O
+,	,	O	O	-	O
+repetitivo	ADJ	O	op00-	-	O
+,	,	O	O	-	O
+cansativo	ADJ	O	op00-	-	O
+e	KC	O	O	-	O
+irritante	ADJ	O	op00-	-	O
+,	,	O	O	-	O
+tanto	KC	O	O	-	O
+quanto	KC	O	O	-	O
+seu	PROADJ	O	O	-	O
+narrador	N	O	O	-	O
+.	.	O	O	-	O
+
+Lixo	N	O	op00-	-	O
+de	PREP	O	O	-	O
+livro	N	OBJ00	O	-	O
+.	.	O	O	-	O
+
+#Livro_O-Apanhador-no-Campo-de-Centeio
+#Resenha_128
+#Nota_2.0
+#Título_128
+Decepcionante	ADJ	O	op00-	-	O
+
+#Corpo_128
+Li	V	O	O	O	O
+"	"	O	O	O	O
+O	ART	O	O	O	O
+apanhador	N	O	O	O	O
+em	PREP	O	O	O	O
+o	ART	O	O	O	O
+campo	N	O	O	O	O
+de	PREP	O	O	O	O
+centeio	N	O	O	O	O
+"	"	O	O	O	O
+por	PREP	O	O	O	O
+três	NUM	O	O	O	O
+motivos	N	O	O	O	O
+:	:	O	O	O	O
+-	-	O	O	O	O
+O	ART	O	O	O	O
+título	N	O	O	O	O
+era	V	O	O	O	O
+sugestivo	ADJ	O	O	O	O
+;	;	O	O	O	O
+-	-	O	O	O	O
+Foi	V	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+John	NPROP	O	O	O	O
+Lennon	NPROP	O	O	O	O
+autografou	V	O	O	O	O
+a	PREP	O	O	O	O
+pedido	N	O	O	O	O
+de	PREP	O	O	O	O
+Mark	NPROP	O	O	O	O
+Chapman	NPROP	O	O	O	O
+,	,	O	O	O	O
+que	PRO-KS-REL	O	O	O	O
+logo	ADV	O	O	O	O
+depois	ADV	O	O	O	O
+o	ART	O	O	O	O
+mataria	N	O	O	O	O
+e	KC	O	O	O	O
+que	KS	O	O	O	O
+,	,	O	O	O	O
+por	PREP	O	O	O	O
+isso	PROSUB	O	O	O	O
+mesmo	PDEN	O	O	O	O
+,	,	O	O	O	O
+fez	V	O	O	O	O
+com	PREP	O	O	O	O
+que	KS	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+ganhasse	V	O	O	O	O
+notoriedade	N	O	O	O	O
+e	KC	O	O	O	O
+fosse	V	O	O	O	O
+motivo	N	O	O	O	O
+para	PREP	O	O	O	O
+estudos	N	O	O	O	O
+posteriores	ADJ	O	O	O	O
+;	;	O	O	O	O
+e	KC	O	O	O	O
+-	-	O	O	O	O
+O	ART	O	O	O	O
+bem-sucedido	ADJ	O	O	O	O
+publicitário	N	O	O	O	O
+brasileiro	ADJ	O	O	O	O
+Washington	NPROP	O	O	O	O
+Olivetto	NPROP	O	O	O	O
+sempre	ADV	O	O	O	O
+tem	V	O	O	O	O
+em	PREP	O	O	O	O
+sua	PROADJ	O	O	O	O
+casa	N	O	O	O	O
+dezenas	ADJ	O	O	O	O
+de	PREP	O	O	O	O
+exemplares	N	O	O	O	O
+para	PREP	O	O	O	O
+oferecer	V	O	O	O	O
+a	ART	O	O	O	O
+amigos	N	O	O	O	O
+e	KC	O	O	O	O
+conhecidos	PCP	O	O	O	O
+.	.	O	O	O	O
+
+Porém	KC	O	O	-	O
+,	,	O	O	-	O
+o	ART	O	O	-	O
+livro	N	O	O	-	O
+é	V	O	O	-	O
+a	ART	O	O	-	O
+descrição	N	O	O	-	O
+de	PREP	O	O	-	O
+os	ART	O	O	-	O
+pensamentos	N	O	O	-	O
+e	KC	O	O	-	O
+"	"	O	O	-	O
+aventuras	N	O	O	-	O
+"	"	O	O	-	O
+,	,	O	O	-	O
+em	PREP	O	O	-	O
+Nova	NPROP	O	O	-	O
+Iorque	NPROP	O	O	-	O
+,	,	O	O	-	O
+de	PREP	O	O	-	O
+um	ART	O	O	-	O
+adolescente	N	O	O	-	O
+fútil	ADJ	O	O	-	O
+e	KC	O	O	-	O
+fracassado	PCP	O	O	-	O
+,	,	O	O	-	O
+cujo	PRO-KS-REL	O	O	-	O
+conteúdo	N	O	op00-	-	O
+de	PREP	O	op00-	-	O
+o	ART	O	op00-	-	O
+livro	N	O	op00-	-	O
+nada	ADV	O	op00-	-	O
+acrescenta	V	O	op00-	-	O
+a	PREP	O	O	-	O
+o	ART	O	O	-	O
+leitor	N	O	O	-	O
+.	.	O	O	-	O
+
+Decepcionante	ADJ	O	op00-	-	O
+,	,	O	O	-	O
+tempo	N	O	op00-	-	O
+perdido	PCP	O	op00-	-	O
+!	!	O	O	-	O
+
+Eu	PROPESS	O	O	-	O
+poderia	VAUX	O	O	-	O
+e	KC	O	O	-	O
+devria	VAUX	O	op00-	-	O
+ter	VAUX	O	op00-	-	O
+lido	PCP	O	op00-	-	O
+coisa	N	O	op00-	-	O
+melhor	ADJ	O	op00-	-	O
+.	.	O	O	-	O
+
+Dizem	V	O	O	O	O
+que	KS	O	O	O	O
+o	ART	O	O	O	O
+autor	N	O	O	O	O
+recusou	V	O	O	O	O
+-	-	O	O	O	O
+se	PROPESS	O	O	O	O
+a	PREP	O	O	O	O
+estampar	V	O	O	O	O
+sua	PROADJ	O	O	O	O
+foto	N	O	O	O	O
+em	PREP	O	O	O	O
+o	ART	O	O	O	O
+livro	N	O	O	O	O
+...	...	O	O	O	O
+Até	PREP	O	O	O	O
+sei	V	O	O	O	O
+o	ART	O	O	O	O
+porquê	N	O	O	O	O
+:	:	O	O	O	O
+medo	N	O	O	O	O
+de	PREP	O	O	O	O
+ser	VAUX	O	O	O	O
+reconhecido	PCP	O	O	O	O
+e	KC	O	O	O	O
+de	PREP	O	O	O	O
+levar	V	O	O	O	O
+um	ART	O	O	O	O
+cascudo	N	O	O	O	O
+de	PREP	O	O	O	O
+seus	PROADJ	O	O	O	O
+leitores	N	O	O	O	O
+!	!	O	O	O	O
