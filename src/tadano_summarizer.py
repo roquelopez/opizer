@@ -10,7 +10,10 @@ from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 from nltk.cluster import KMeansClusterer, GAAClusterer, euclidean_distance
-from cStringIO import StringIO
+try:
+    from cStringIO import StringIO
+except:
+    from io import StringIO
 import utils
 import sys
 import nlpnet
@@ -170,7 +173,7 @@ class Tadano_Summarizer(object):
 
     def __join_clusters(self, aspect):
         ''' Join clusters with common representative words '''
-        clusters = self.__clusters[aspect].keys()
+        clusters = list(self.__clusters[aspect].keys())
         clusters_size = len(clusters)
         tuple_list = []
 
@@ -289,6 +292,6 @@ class Tadano_Summarizer(object):
     def print_clusters(self, aspect):
         ''' Print the clusters ''' 
         for id_cluster, data in self.__clusters[aspect].items():
-            print "Cluster ", id_cluster
+            print ("Cluster ", id_cluster)
             for id_sentence in data['sentences']:
-                print " ".join(self.__sentence_list[id_sentence]['clean_text'])
+                print (" ".join(self.__sentence_list[id_sentence]['clean_text']))

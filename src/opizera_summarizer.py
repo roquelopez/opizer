@@ -77,10 +77,9 @@ class Opizera_Summarizer(object):
         ''' Read the RST annotations of parser Dizer '''
         global depth_adt 
         segment_list = {}
-
+        
         with codecs.open(file_path, 'r', 'utf-8') as fin:
             lines = fin.readlines()
-
         for i in  range(1, len(lines)):
             text = lines[i].strip()
             if text == "Trees:":
@@ -304,7 +303,7 @@ class Opizera_Summarizer(object):
         ''' Calculate the Maximum Spanning Tree of the subgraph '''
         tmp_graph = networkx.Graph()
 
-        for u,v,data in self.__graph.edges_iter(data=True):   
+        for u,v,data in self.__graph.edges(data=True):   
             if tmp_graph.has_edge(u,v):
                 w_value = tmp_graph[u][v]['weight'] - data['weight']
                 tmp_graph[u][v]['weight'] = w_value
@@ -331,13 +330,13 @@ class Opizera_Summarizer(object):
         if len(maximum_spanning_tree.nodes()) == 0: return # when the number of aspects is 1
 
         # Sentences for children
-        for aspect in maximum_spanning_tree.neighbors(root):
+        for aspect in list(maximum_spanning_tree.neighbors(root)):
             aspect_info = self.__aspect_manager.get_aspect_information(self.__name, aspect)
             self.__summary += self.__sentence_realization(aspect, previous_aspect, aspect_info, templates, sentiment_reviews)
             previous_aspect = aspect
 
             # Sentences for child with children
-            for aspect_child in maximum_spanning_tree.neighbors(aspect):
+            for aspect_child in list(maximum_spanning_tree.neighbors(aspect)):
                 if aspect_child != root:
                     aspect_info = self.__aspect_manager.get_aspect_information(self.__name, aspect_child)
                     self.__summary += self.__sentence_realization(aspect_child, previous_aspect, aspect_info, templates, sentiment_reviews)

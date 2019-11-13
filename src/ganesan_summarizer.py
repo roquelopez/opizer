@@ -42,7 +42,6 @@ class Ganesan_Summarizer(object):
         ''' Process a sentence tagging words and calculating their frequencies '''
         tag_token_list = list(itertools.chain.from_iterable(self.__tagger.tag(text_sentence)))
         sentence_text_list = []
-        
         for (token, tag) in tag_token_list:
             index = tag.find("+")
             if index != -1: tag = tag[:index]
@@ -103,11 +102,11 @@ class Ganesan_Summarizer(object):
 
     def __format_text(self, text):
         ''' Remove withespaces in punctuation marks (output of Ganesan jar) '''
-    	text = text.replace(':/:', ':')
-    	text = text.replace('!/!', '!')
-    	text = text.replace(' .', '.')
-    	text = text.replace(' ,', ',')
-    	text = text.replace(' :', ':')
-    	text = text.replace(' !', '!')
+        text = text.replace(':/:', ':')
+        text = text.replace('!/!', '!')
+        text = text.replace(' .', '.')
+        text = text.replace(' ,', ',')
+        text = text.replace(' :', ':')
+        text = text.replace(' !', '!')
         text = text[0].upper() + text[1:]
-    	return text.strip()
+        return text.strip()

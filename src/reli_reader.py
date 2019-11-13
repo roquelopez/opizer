@@ -172,7 +172,11 @@ class ReLiCorpusReader(dict):
             # Find the elements in each line (word, pos, object, opinion, polarity, help).
             m = re.match(r"([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t\[]+)[\n\[]",line)
             if m:
-                word = unicode(m.group(1))
+                word=''
+                try:
+                    word = unicode(m.group(1))
+                except NameError:
+                    word = str(m.group(1))
                 pos = m.group(2)
                 obj = m.group(3)
                 opinion = m.group(4)
@@ -272,7 +276,7 @@ class ReLiCorpusReader(dict):
     # pretty print the sentences structure printing word by word separating the words by a single space
     def pretty_print_sentences(self,sentences):
         for sent in sentences:
-            print ' '.join(self.words_sentence(sent))
+            print (' '.join(self.words_sentence(sent)))
 
     # returns the opinion aspects and predicates in the corpus
     # It is possible to filter by predicates according their polarity (parameters: positive, negative or polar)
@@ -384,20 +388,20 @@ class ReLiCorpusReader(dict):
                 # Compile all values found in the opinion_aspects list
                 for aspect_id in predicates:
                     opinion_aspects.append((aspects[aspect_id],predicates[aspect_id],polarities[aspect_id]))
-                    #print aspects[aspect_id], predicates[aspect_id], polarities[aspect_id]
+                    #print (aspects[aspect_id], predicates[aspect_id], polarities[aspect_id])
         return opinion_aspects
 
 
     # pretty print the aspects list
     def pretty_print_aspects(self,aspects):
         for (aspect,predicate,signal) in aspects:
-            print signal, ' '.join([w for w,p in aspect]),':',(40-len(' '.join([w for w,p in aspect])))*' ', ' '.join([w for w,p in predicate])
+            print (signal, ' '.join([w for w,p in aspect]),':',(40-len(' '.join([w for w,p in aspect])))*' ', ' '.join([w for w,p in predicate]))
 
 
     # Creates a frequency list
     # Returns a list of tuples in the form (item,frequency) sorted by the frequency of their the items in a list
     def __freq_list__(self, items):
-        #print items
+        #print (items)
         freq = {}
         for item in items:
             if isinstance(item,str):
@@ -462,7 +466,7 @@ class ReLiCorpusReader(dict):
         # Words most frequent in the corpus
         print( 'Most frequent words in the corpus:')
         for item,n in self.__freq_list__(all_words)[:max_items]:
-            print item, (spaces-len(item))*' ', n
+            print (item, (spaces-len(item))*' ', n)
 
 
         print ('\n\n::::::: Sentence Statistics ::::::::\n')
@@ -480,7 +484,7 @@ class ReLiCorpusReader(dict):
         # Most frequent aspects words in the corpus and their PoS
         print( 'Most frequent words present in aspects and their PoS:')
         for (word,pos),n in self.__freq_list__(aspects['all'])[:max_items]:
-            print word + '/' + pos, (spaces-len(word+pos))*' ', n
+            print (word + '/' + pos, (spaces-len(word+pos))*' ', n)
 
         # Number of positive and negative predicates.
         print( '\n\nNumber of positive aspects: {0}'.format( len(aspects['pos'] ) ) )
@@ -490,11 +494,11 @@ class ReLiCorpusReader(dict):
         print( '\nMost frequent positive aspects in the corpus:')
         
         for item,n in self.__freq_list__(aspects['pos'])[:max_items]:
-            print item, (spaces-len(item))*' ', n
+            print (item, (spaces-len(item))*' ', n)
 
         print( '\n\nMost frequent negative aspects in the corpus:')
         for item,n in self.__freq_list__(aspects['neg'])[:max_items]:
-            print item, (spaces-len(item))*' ', n
+            print (item, (spaces-len(item))*' ', n)
 
 
         print ('\n\n::::::: Predicates/Opinions Statistics ::::::::\n')
@@ -502,7 +506,7 @@ class ReLiCorpusReader(dict):
         # Most frequent predicate words in the corpus and their PoS
         print( 'Most frequent words present in predicates and their PoS:')
         for (word,pos),n in self.__freq_list__(predicates['all'])[:max_items]:
-            print word + '/' + pos, (spaces-len(word+pos))*' ', n
+            print (word + '/' + pos, (spaces-len(word+pos))*' ', n)
 
 
         print( '\n\nNumber of positive predicates: {0}'.format( len(predicates['pos'] ) ) )
@@ -511,11 +515,11 @@ class ReLiCorpusReader(dict):
         # Most frequent predicates in the corpus
         print( '\nMost frequent positive predicates in the corpus:')
         for item,n in self.__freq_list__(predicates['pos'])[:max_items]:
-            print item, (spaces-len(item))*' ', n
+            print (item, (spaces-len(item))*' ', n)
 
         print( '\n\nMost frequent negative predicates in the corpus:')
         for item,n in self.__freq_list__(predicates['neg'])[:max_items]:
-            print item, (spaces-len(item))*' ', n     
+            print (item, (spaces-len(item))*' ', n )    
             
     # Function to convert the lines present in the txt file into a html representation
     def __text2html__(self,text):
@@ -560,7 +564,12 @@ class ReLiCorpusReader(dict):
             # Find the elements in each line (word, pos, object, opinion, polarity, help)
             m = re.match(r"([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t\[]+)[\n\[]",line)
             if m:
-                word = unicode(m.group(1))
+                
+                word=''
+                try:
+                    word = unicode(m.group(1))
+                except NameError:
+                    word = str(m.group(1))
                 pos = m.group(2)
                 obj = m.group(3)
                 opinion = m.group(4)
@@ -831,10 +840,10 @@ class ReLiCorpusReader(dict):
             self.__aspect_information = json.loads(data_file.read())
                           
 if __name__ == '__main__':
-    print "Starting..."
+    print ("Starting...")
     reli = ReLiCorpusReader("../resource/corpus_reli_mini")
-    print reli.get_data_sentence("Crepusculo", "0", "1")
-    print reli.get_raw_aspect("Crepusculo", "0", "1", "Livro")
+    print (reli.get_data_sentence("Crepusculo", "0", "1"))
+    print (reli.get_raw_aspect("Crepusculo", "0", "1", "Livro"))
     #print reli.get_data_sentence("Fala-Serio-Mae", "23", "8")
     #print reli.get_hierarchy_aspects("1984", "67")
     #print reli.get_sentiment_reviews("1984")
@@ -842,4 +851,4 @@ if __name__ == '__main__':
     #print reli.get_aspects_sentence("1984", "166", "1")
     #print reli.get_sentiment_quantifiers("Crepusculo", "Personagens")
     #print reli.get_aspect_information("1984", "Falas")
-    print "Finished"
+    print ("Finished")
