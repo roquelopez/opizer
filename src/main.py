@@ -20,7 +20,7 @@ if __name__ == '__main__':
     ''' Main class which select a summarizer '''
     summarizer = sys.argv[1]
     corpus = sys.argv[2]
-    print "Starting process ..."
+    print ("Starting process ...")
 
     if corpus == "buscape":
         corpus_reader = BuscapeCorpusReader("../resource/corpus_buscape")
@@ -31,7 +31,7 @@ if __name__ == '__main__':
         
 
     for item in os.listdir(reviews_path):
-        print "Generating summary for %s" % item
+        print ("Generating summary for %s" % item)
         item_path = os.path.join(reviews_path, item)
         if summarizer == "huliu":
             hu_liu = HuLiu_Summarizer(item, item_path, corpus_reader)
@@ -52,4 +52,4 @@ if __name__ == '__main__':
             opizera = Opizera_Summarizer(item, item_path, corpus_reader)
             opizera.create_summary("../resource/automatic_summaries/opizera/", 5)
 
-    print "Process finished"
+    print ("Process finished")

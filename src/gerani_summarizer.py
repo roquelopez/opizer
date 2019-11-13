@@ -240,7 +240,7 @@ class Gerani_Summarizer(object):
         ''' Calculate the Maximum Spanning Tree of the subgraph '''
         tmp_graph = networkx.Graph()
 
-        for u,v,data in self.__graph.edges_iter(data=True):   
+        for u,v,data in self.__graph.edges(data=True):   
             if tmp_graph.has_edge(u,v):
                 w_value = tmp_graph[u][v]['weight'] - data['weight']
                 tmp_graph[u][v]['weight'] = w_value
@@ -270,7 +270,7 @@ class Gerani_Summarizer(object):
         if len(maximum_spanning_tree.nodes()) == 0: return # when the number of aspects is 1
 
         # Sentences for children
-        for aspect in maximum_spanning_tree.neighbors(root):
+        for aspect in list(maximum_spanning_tree.neighbors(root)):
             #print "Aspect:", aspect
             aspect_info = self.__aspect_manager.get_aspect_information(self.__name, aspect)
             self.__summary += self.__sentence_realization(aspect, aspect_info, templates, sentiment_reviews) + ". "

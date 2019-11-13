@@ -92,15 +92,15 @@ class HuLiu_Summarizer(object):
         if top > len(top_aspects): top =  len(top_aspects)
 
         for (aspect, data) in top_aspects[:top]:
-            print "Aspecto: ", aspect
+            print ("Aspecto: ", aspect)
             pos_size = len(self.__data[aspect]['+'])
             neg_size = len(self.__data[aspect]['-'])
-            print "  Sentenças Positivas:", pos_size
+            print ("  Sentenças Positivas:", pos_size)
             items = min(number_comments, pos_size)
             for i in range(items):
-                print "  - ", self.__data[aspect]['+'][i]
+                print ("  - ", self.__data[aspect]['+'][i])
 
-            print "  Sentenças Negativas:", neg_size
+            print ("  Sentenças Negativas:", neg_size)
             items = min(number_comments, neg_size)
             for i in range(items):
-                print "  - ", self.__data[aspect]['-'][i]
+                print ("  - ", self.__data[aspect]['-'][i])

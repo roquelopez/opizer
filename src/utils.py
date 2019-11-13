@@ -5,7 +5,10 @@ Created on 23/02/2015
 @author: Roque Lopez
 '''
 from __future__ import unicode_literals
-from cStringIO import StringIO
+try:
+    from cStringIO import StringIO
+except:
+    from io import StringIO
 import os
 import codecs
 import shutil
